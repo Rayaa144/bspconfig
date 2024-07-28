@@ -1,0 +1,2700 @@
+{
+	"epic_007ff8f4e30845a687e66aa77eb3e965": {
+		"id": "55171525331821065",
+		"game_id": "52349240868920331",
+		"platform_id": "epic",
+		"external_id": "007ff8f4e30845a687e66aa77eb3e965",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "52349240868920331",
+			"parent_id": null,
+			"dlcs_ids": [
+				"55380071778704783"
+			],
+			"first_release_date": "2022-03-24T00:00:00+0000",
+			"releases": [
+				{
+					"id": "55170997445058395",
+					"platform_id": "steam",
+					"external_id": "1475810",
+					"release_per_platform_id": "steam_1475810"
+				},
+				{
+					"id": "55171525331821065",
+					"platform_id": "epic",
+					"external_id": "007ff8f4e30845a687e66aa77eb3e965",
+					"release_per_platform_id": "epic_007ff8f4e30845a687e66aa77eb3e965"
+				},
+				{
+					"id": "55173458672309579",
+					"platform_id": "psn",
+					"external_id": "PPSA04788_00",
+					"release_per_platform_id": "psn_PPSA04788_00"
+				},
+				{
+					"id": "55184284504462538",
+					"platform_id": "psn",
+					"external_id": "PPSA01337_00",
+					"release_per_platform_id": "psn_PPSA01337_00"
+				},
+				{
+					"id": "55197464710221836",
+					"platform_id": "psn",
+					"external_id": "PPSA03397_00",
+					"release_per_platform_id": "psn_PPSA03397_00"
+				},
+				{
+					"id": "55235898175808791",
+					"platform_id": "fanatical",
+					"external_id": "ghostwire-tokyo",
+					"release_per_platform_id": "fanatical_ghostwire-tokyo"
+				},
+				{
+					"id": "55293878938883500",
+					"platform_id": "psn",
+					"external_id": "PPSA04787_00",
+					"release_per_platform_id": "psn_PPSA04787_00"
+				},
+				{
+					"id": "56254899132126382",
+					"platform_id": "humble",
+					"external_id": "ghostwire_tokyo_global_steam",
+					"release_per_platform_id": "humble_ghostwire_tokyo_global_steam"
+				},
+				{
+					"id": "56413646051887453",
+					"platform_id": "xboxone",
+					"external_id": "1860089403",
+					"release_per_platform_id": "xboxone_1860089403"
+				},
+				{
+					"id": "56575157140733218",
+					"platform_id": "humble",
+					"external_id": "ghostwire_tokyo",
+					"release_per_platform_id": "humble_ghostwire_tokyo"
+				},
+				{
+					"id": "56575278359763123",
+					"platform_id": "humble",
+					"external_id": "ghostwire_tokyo_choice_steam",
+					"release_per_platform_id": "humble_ghostwire_tokyo_choice_steam"
+				},
+				{
+					"id": "52349240868920331",
+					"platform_id": "generic",
+					"external_id": "52349240868920331",
+					"release_per_platform_id": "generic_52349240868920331"
+				}
+			],
+			"title": {
+				"*": "Ghostwire: Tokyo",
+				"en-US": "Ghostwire: Tokyo"
+			},
+			"sorting_title": {
+				"*": "Ghostwire Tokyo",
+				"en-US": "Ghostwire Tokyo"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51295396955139134"
+			],
+			"developers": [
+				{
+					"id": "51295396955139134",
+					"name": "Tango Gameworks",
+					"slug": "tango-gameworks"
+				}
+			],
+			"publishers_ids": [
+				"51464195918462220"
+			],
+			"publishers": [
+				{
+					"id": "51464195918462220",
+					"name": "Bethesda Softworks",
+					"slug": "bethesda-softworks"
+				}
+			],
+			"genres_ids": [
+				"51071842251704278"
+			],
+			"genres": [
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391",
+				"51141224819961538",
+				"51141227696328058"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51141224819961538",
+					"name": {
+						"*": "Horror",
+						"en-US": "Horror"
+					},
+					"slug": "horror"
+				},
+				{
+					"id": "51141227696328058",
+					"name": {
+						"*": "Mystery",
+						"en-US": "Mystery"
+					},
+					"slug": "mystery"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/82e5e5e0c3afe5fd0d0f0fa549c569ba0c5f01e5ffe51b46baa7447c2be7369d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/19198bd18ab931a1a33aaf0426a21ea5c78119339891162b61c5ff3bf43bc10b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7c5781e1ba27ca3331bf23aaebf5b0333881024a7737d716756b3c5c9417d978{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/913cfdecb9785d45a397f7d75de7ecd01f4180a036c0e3891d6d96922261e231{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/96ef524f8b5b10caca337295a1ff1d7aaf54c954c96b944a0ee2966f0d2ad818{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "9qrXLQqHkJk",
+					"thumbnail_id": "9qrXLQqHkJk",
+					"name": "Teaser"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "2EDplmRKPLk",
+					"thumbnail_id": "2EDplmRKPLk",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "BW6yMr-jmhc",
+					"thumbnail_id": "BW6yMr-jmhc",
+					"name": "Gameplay Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "XWpsAKYa7NQ",
+					"thumbnail_id": "XWpsAKYa7NQ",
+					"name": "Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/792df688e5f0ec6c4744e4abe8e0f9e4c0937d0472f5af014a097e12e8193c2e{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "After strange disappearances hit Tokyo's population, it's up to you to uncover the source and purge the city of a strange, new evil. Armed with your own mysterious spectral abilities, you will face down the occult, unravel conspiracy theories and experience urban legends like never before.",
+				"en-US": "After strange disappearances hit Tokyo's population, it's up to you to uncover the source and purge the city of a strange, new evil. Armed with your own mysterious spectral abilities, you will face down the occult, unravel conspiracy theories and experience urban legends like never before."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 76.7143,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/9137f9547c358e01313fc9e58ac5cf31737bba8140ca68a9f784b62e4ea2665d{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/9137f9547c358e01313fc9e58ac5cf31737bba8140ca68a9f784b62e4ea2665d{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/3d3f7e20415052a9aa2b525a8513870afd94e2d7034179cedcf813efb0a40a7a{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/3d3f7e20415052a9aa2b525a8513870afd94e2d7034179cedcf813efb0a40a7a{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/e0bc839371e98eecbe68eb4d982b7db7e40b87be0e79b185499a7f57b7622358{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/c4f2a2aa89f1102f1176f1e7d465a77de0da6db5aa14a32183ed7bd095733d45{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "Ghostwire Tokyo",
+			"en-US": "Ghostwire: Tokyo"
+		},
+		"sorting_title": {
+			"*": "Ghostwire Tokyo",
+			"en-US": "Ghostwire Tokyo"
+		},
+		"type": "game",
+		"summary": {
+			"*": "After strange disappearances hit Tokyo's population, it's up to you to uncover the source and purge the city of a strange, new evil. Armed with your own mysterious spectral abilities, you will face down the occult, unravel conspiracy theories and experience urban legends like never before.",
+			"en-US": "After strange disappearances hit Tokyo's population, it's up to you to uncover the source and purge the city of a strange, new evil. Armed with your own mysterious spectral abilities, you will face down the occult, unravel conspiracy theories and experience urban legends like never before."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			}
+		],
+		"logo": {
+			"url_format": "https://images.gog.com/e0bc839371e98eecbe68eb4d982b7db7e40b87be0e79b185499a7f57b7622358{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"93813436c773546de5c63136e87ecd07\""
+	},
+	"__timestamp": {
+		"epic_007ff8f4e30845a687e66aa77eb3e965": "Sun Jul 28 2024 05:48:28 GMT+0530 (India Standard Time)",
+		"epic_8836f84a700140bb86103556cd7db0d4": "Sun Jul 28 2024 05:50:07 GMT+0530 (India Standard Time)",
+		"epic_0dc22b543a40440fab5a98d1e40c02c1": "Sun Jul 28 2024 05:50:11 GMT+0530 (India Standard Time)",
+		"epic_ed93b18355a84230938c705121c63661": "Sun Jul 28 2024 05:50:20 GMT+0530 (India Standard Time)",
+		"epic_Tern": "Sun Jul 28 2024 05:52:24 GMT+0530 (India Standard Time)",
+		"epic_Pewee": "Sun Jul 28 2024 05:52:31 GMT+0530 (India Standard Time)",
+		"epic_4123bcce398b4b1d8b9ef878f81055d1": "Sun Jul 28 2024 05:52:51 GMT+0530 (India Standard Time)"
+	},
+	"epic_8836f84a700140bb86103556cd7db0d4": {
+		"id": "53719181673491707",
+		"game_id": "51152965066177113",
+		"platform_id": "epic",
+		"external_id": "8836f84a700140bb86103556cd7db0d4",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "51152965066177113",
+			"parent_id": null,
+			"dlcs_ids": [
+				"52661083583055574",
+				"52829257739214552",
+				"54566616406956107",
+				"54626746103433485",
+				"54627996134875827",
+				"54627996559504467",
+				"54627996652225450",
+				"54627996765654482",
+				"54627996896598709",
+				"54627997142057651",
+				"54627998380450483",
+				"54627999110224609",
+				"54627999463241698",
+				"54627999947749020",
+				"54628000144717970",
+				"54628008276222642",
+				"54628008567832690",
+				"54628008759798748",
+				"54628008874780973",
+				"54628008989031142",
+				"54628009208717746",
+				"54628009640371693",
+				"54628009774027425",
+				"54628009865819566",
+				"54628010377703516",
+				"54628011932385922",
+				"54628012933094681",
+				"55284731864841484",
+				"55292390047565909",
+				"55379601812157331",
+				"55913702728451739"
+			],
+			"first_release_date": "2016-09-23T00:00:00+0000",
+			"releases": [
+				{
+					"id": "51152965049482324",
+					"platform_id": "steam",
+					"external_id": "227940",
+					"release_per_platform_id": "steam_227940"
+				},
+				{
+					"id": "52703385089327032",
+					"platform_id": "steam",
+					"external_id": "yo",
+					"release_per_platform_id": "steam_yo"
+				},
+				{
+					"id": "52735759748132902",
+					"platform_id": "discord",
+					"external_id": "550277544025522176",
+					"release_per_platform_id": "discord_550277544025522176"
+				},
+				{
+					"id": "53719181673491707",
+					"platform_id": "epic",
+					"external_id": "8836f84a700140bb86103556cd7db0d4",
+					"release_per_platform_id": "epic_8836f84a700140bb86103556cd7db0d4"
+				},
+				{
+					"id": "54898186474863636",
+					"platform_id": "test",
+					"external_id": "gfn_227940",
+					"release_per_platform_id": "test_gfn_227940"
+				},
+				{
+					"id": "55861272055046334",
+					"platform_id": "beamdog",
+					"external_id": "8836f84a700140bb86103556cd7db0d4",
+					"release_per_platform_id": "beamdog_8836f84a700140bb86103556cd7db0d4"
+				},
+				{
+					"id": "56140854100143474",
+					"platform_id": "test",
+					"external_id": "227940",
+					"release_per_platform_id": "test_227940"
+				},
+				{
+					"id": "56142421374937776",
+					"platform_id": "test",
+					"external_id": "gfn_18102411",
+					"release_per_platform_id": "test_gfn_18102411"
+				},
+				{
+					"id": "56163502302947181",
+					"platform_id": "test",
+					"external_id": "steam_227940",
+					"release_per_platform_id": "test_steam_227940"
+				},
+				{
+					"id": "56163630564448187",
+					"platform_id": "test",
+					"external_id": "18102411",
+					"release_per_platform_id": "test_18102411"
+				},
+				{
+					"id": "51152965066177113",
+					"platform_id": "generic",
+					"external_id": "51152965066177113",
+					"release_per_platform_id": "generic_51152965066177113"
+				}
+			],
+			"title": {
+				"*": "Heroes & Generals",
+				"en-US": "Heroes & Generals"
+			},
+			"sorting_title": {
+				"*": "Heroes and Generals",
+				"en-US": "Heroes and Generals"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51152965056751108"
+			],
+			"developers": [
+				{
+					"id": "51152965056751108",
+					"name": "Reto-Moto",
+					"slug": "reto-moto"
+				}
+			],
+			"publishers_ids": [
+				"51152965056751108"
+			],
+			"publishers": [
+				{
+					"id": "51152965056751108",
+					"name": "Reto-Moto",
+					"slug": "reto-moto"
+				}
+			],
+			"genres_ids": [
+				"51071904337940794",
+				"51121492616405278",
+				"51141224821260861",
+				"51141228183502708"
+			],
+			"genres": [
+				{
+					"id": "51071904337940794",
+					"name": {
+						"*": "Strategy",
+						"en-US": "Strategy"
+					},
+					"slug": "strategy"
+				},
+				{
+					"id": "51121492616405278",
+					"name": {
+						"*": "Indie",
+						"en-US": "Indie"
+					},
+					"slug": "indie"
+				},
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				},
+				{
+					"id": "51141228183502708",
+					"name": {
+						"*": "Tactical",
+						"en-US": "Tactical"
+					},
+					"slug": "tactical"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391",
+				"51071842249505927",
+				"51141225108229618"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51071842249505927",
+					"name": {
+						"*": "Historical",
+						"en-US": "Historical"
+					},
+					"slug": "historical"
+				},
+				{
+					"id": "51141225108229618",
+					"name": {
+						"*": "Warfare",
+						"en-US": "Warfare"
+					},
+					"slug": "warfare"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/2c52fd5e95c0f7da215b11b29a36ca9275566465ddf7adfa8950b0c2e9e7cedd{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/97fb44e0727a9c850846db40c83dc9080bb806e92be53b15853e1910c33cc651{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/70dfdd932ab5fa0c9cd4ce169c4c15734b06170c276c3929da11cdde03b31654{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f1373fe1a09413e8b607ba1052e3ac7ea888dc11c7c74ffddbd82cf65a2df946{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/24fc9befd6dee2d117602702b9d9105687f1f3015b8ac4d24bfa1a22eab02927{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "DjB41evdUKY",
+					"thumbnail_id": "DjB41evdUKY",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "WvaD71wO_ic",
+					"thumbnail_id": "WvaD71wO_ic",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "nEJ5rJDrZZ8",
+					"thumbnail_id": "nEJ5rJDrZZ8",
+					"name": "Videolog"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/d062435e737768164551e00d6b38f17e074b0a1a728a1e26a95cab53802ddc90{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8f020073ff806154cefa299152369ce85c4e0787cf89d354b22bac992fc4656c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d0fba6b0b7b74f0bd71301ecbe21316a11f621992bafe9ea34c8fbaf09a17680{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/aa2b52bfcae81178a893483a9cb360bc63209707d37c1adf7b2e41d5922d0795{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/0318cff48e84df2ffe1d7af6731ee862bd74d868ef763f0a384a69854400863a{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/341668cee95376fca3dae7699a66478448675b44aa7bc725ea7ac3e745ec5149{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7edc0dd7efc63f8b3fe610f14545f8f92c793e50412d270ef67169aae000c1b4{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/294cdbf9bac32295951675efeab09b9f7f34c17b08e660f52fbffb5ded8ba768{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/2d081da54ce45d73b0b1bde4a58058a43329a0aaa0ad3ca4727d8e13855f79b7{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/841c264ab50eca49ab3cda8be977851baecf755e82b2a379b997f7556d8cd2db{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/866df7db87f85fa3b55b9c9c3d41b973a581cd544d83ea334098ee63e6ef5776{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e5a893ca936ae544b2d2e475deb5abe855b312eed8645b07360e18e09e513c0f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/941087c7443a204a1be0d249106b37beb1c841aacd80137b34de7e40bb678ae6{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/26b2768a44c7b1333c7b566a4a00ddc9dbc1dd1ad3f47ada00ab9c16493f93d4{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1c8b5bc5924f28204057e6aa74a341fdafd31347cde63ece0205238fca7be5d0{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Heroes & Generals is the ultimate WW2 game. A free-to-play MMOFPS, where Germany, the United States and the Soviet Union fight for victory in one grand, persistent online war fought by players across the world with access to a huge arsenal of vehicles and weapons. You fight and make friends as a team and as part of a huge and growing community. No matter if you play as Infantry, Tank crew, Fighter pilot, Paratrooper, Recon or as a General taking strategic decisions – everything you do makes a difference in the war.",
+				"en-US": "Heroes & Generals is the ultimate WW2 game. A free-to-play MMOFPS, where Germany, the United States and the Soviet Union fight for victory in one grand, persistent online war fought by players across the world with access to a huge arsenal of vehicles and weapons. You fight and make friends as a team and as part of a huge and growing community. No matter if you play as Infantry, Tank crew, Fighter pilot, Paratrooper, Recon or as a General taking strategic decisions – everything you do makes a difference in the war."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": null,
+			"game_modes": [
+				{
+					"id": "53051898010278634",
+					"name": "Co-operative",
+					"slug": "co-operative"
+				},
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
+				},
+				{
+					"id": "53051958246697755",
+					"name": "Massively Multiplayer Online (MMO)",
+					"slug": "massively-multiplayer-online-mmo"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/f83c353c3c31b18add768edd701973f5d5437c790945aa20ec2cc9fbb9dc5ccd{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/f83c353c3c31b18add768edd701973f5d5437c790945aa20ec2cc9fbb9dc5ccd{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/51013fbef21dbf3350a2a846d92f483d96d6f27a65359a9aa6fd4e48174e9281{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/51013fbef21dbf3350a2a846d92f483d96d6f27a65359a9aa6fd4e48174e9281{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/5c2361e539b903af642a5eb213585294e06f83439bc18da0561f0f6b767a65c2{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/6e5335a2cdfc10d2bacfbda979715a70cf8b59e31ce7b83b205230a13078659e{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "Heroes & Generals WWII",
+			"en-US": "Heroes & Generals"
+		},
+		"sorting_title": {
+			"*": "Heroes and Generals WWII",
+			"en-US": "Heroes and Generals WWII"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Heroes & Generals is the ultimate WW2 game. A free-to-play MMOFPS, where Germany, the United States and the Soviet Union fight for victory in one grand, persistent online war fought by players across the world with access to a huge arsenal of vehicles and weapons. You fight and make friends as a team and as part of a huge and growing community. No matter if you play as Infantry, Tank crew, Fighter pilot, Paratrooper, Recon or as a General taking strategic decisions – everything you do makes a difference in the war.",
+			"en-US": "Heroes & Generals is the ultimate WW2 game. A free-to-play MMOFPS, where Germany, the United States and the Soviet Union fight for victory in one grand, persistent online war fought by players across the world with access to a huge arsenal of vehicles and weapons. You fight and make friends as a team and as part of a huge and growing community. No matter if you play as Infantry, Tank crew, Fighter pilot, Paratrooper, Recon or as a General taking strategic decisions – everything you do makes a difference in the war."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051898010278634",
+				"name": "Co-operative",
+				"slug": "co-operative"
+			},
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
+			},
+			{
+				"id": "53051958246697755",
+				"name": "Massively Multiplayer Online (MMO)",
+				"slug": "massively-multiplayer-online-mmo"
+			}
+		],
+		"logo": {
+			"url_format": "https://images.gog.com/5c2361e539b903af642a5eb213585294e06f83439bc18da0561f0f6b767a65c2{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"450e914f6d6cab32f3c38dde6bc6f8b6\""
+	},
+	"epic_0dc22b543a40440fab5a98d1e40c02c1": {
+		"id": "55930307267543414",
+		"game_id": "51152977402117433",
+		"platform_id": "epic",
+		"external_id": "0dc22b543a40440fab5a98d1e40c02c1",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "51152977402117433",
+			"parent_id": null,
+			"dlcs_ids": [],
+			"first_release_date": "2016-10-14T00:00:00+0000",
+			"releases": [
+				{
+					"id": "54854968325687301",
+					"platform_id": "steam",
+					"external_id": "1672740",
+					"release_per_platform_id": "steam_1672740"
+				},
+				{
+					"id": "54854968579387110",
+					"platform_id": "steam",
+					"external_id": "1671200",
+					"release_per_platform_id": "steam_1671200"
+				},
+				{
+					"id": "54938831782678224",
+					"platform_id": "steam",
+					"external_id": "1668940",
+					"release_per_platform_id": "steam_1668940"
+				},
+				{
+					"id": "55921992295583949",
+					"platform_id": "steam",
+					"external_id": "1676000",
+					"release_per_platform_id": "steam_1676000"
+				},
+				{
+					"id": "55930307267543414",
+					"platform_id": "epic",
+					"external_id": "0dc22b543a40440fab5a98d1e40c02c1",
+					"release_per_platform_id": "epic_0dc22b543a40440fab5a98d1e40c02c1"
+				},
+				{
+					"id": "51152977402117433",
+					"platform_id": "generic",
+					"external_id": "51152977402117433",
+					"release_per_platform_id": "generic_51152977402117433"
+				}
+			],
+			"title": {
+				"*": "Honkai Impact 3rd",
+				"en-US": "Honkai Impact 3rd"
+			},
+			"sorting_title": {
+				"*": "Honkai Impact 3rd",
+				"en-US": "Honkai Impact 3rd"
+			},
+			"type": "game",
+			"developers_ids": [
+				"52345676024628164",
+				"55562586906739307"
+			],
+			"developers": [
+				{
+					"id": "52345676024628164",
+					"name": "miHoYo",
+					"slug": "mihoyo"
+				},
+				{
+					"id": "55562586906739307",
+					"name": "HoYoverse",
+					"slug": "hoyoverse"
+				}
+			],
+			"publishers_ids": [
+				"52345676024628164",
+				"55199811342289874",
+				"55562586906739307"
+			],
+			"publishers": [
+				{
+					"id": "52345676024628164",
+					"name": "miHoYo",
+					"slug": "mihoyo"
+				},
+				{
+					"id": "55199811342289874",
+					"name": "Cognosphere",
+					"slug": "cognosphere"
+				},
+				{
+					"id": "55562586906739307",
+					"name": "HoYoverse",
+					"slug": "hoyoverse"
+				}
+			],
+			"genres_ids": [
+				"51071842242881003",
+				"51071842251704278",
+				"51141225346251857",
+				"52744370360062392"
+			],
+			"genres": [
+				{
+					"id": "51071842242881003",
+					"name": {
+						"*": "Role-playing (RPG)",
+						"en-US": "Role-playing (RPG)"
+					},
+					"slug": "role-playing-rpg"
+				},
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				},
+				{
+					"id": "51141225346251857",
+					"name": {
+						"*": "Hack and slash/Beat 'em up",
+						"en-US": "Hack and slash/Beat 'em up"
+					},
+					"slug": "hack-and-slash-beat-em-up"
+				},
+				{
+					"id": "52744370360062392",
+					"name": {
+						"*": "Visual Novel",
+						"en-US": "Visual Novel"
+					},
+					"slug": "visual-novel"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391",
+				"51071842246739768",
+				"51141225463821636",
+				"51141227696328058",
+				"51141227910729860"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51071842246739768",
+					"name": {
+						"*": "Fantasy",
+						"en-US": "Fantasy"
+					},
+					"slug": "fantasy"
+				},
+				{
+					"id": "51141225463821636",
+					"name": {
+						"*": "Science fiction",
+						"en-US": "Science fiction"
+					},
+					"slug": "science-fiction"
+				},
+				{
+					"id": "51141227696328058",
+					"name": {
+						"*": "Mystery",
+						"en-US": "Mystery"
+					},
+					"slug": "mystery"
+				},
+				{
+					"id": "51141227910729860",
+					"name": {
+						"*": "Drama",
+						"en-US": "Drama"
+					},
+					"slug": "drama"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/521319c9e7aa362948aa0c04fac623ae3b75eee428107abea64acb3decccc4fe{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8b6c31d09b932ccbac9b3e87ff403b6b76fb68809d824f6776a529897097f903{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b41d9d9b5c8faa37aaad8b0dd4a4d1e646622b2188edce3e4411cb3908b95fec{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/08ecde89a6929d51eefea4aa78e72670ee07ea32e9e62cdc8a611ebeb4857366{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4e97904fb2fea534282ec018715408a2562d7049ff84f2ff94bd6db849a8f7d3{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a6aa8074ea653d9b2cd9627ee654b72f3213aab6470f397417222ee064e53b61{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/692d5c63b4c57ec57217933b237be193c82ad19cc1f6b12f203dcee70da1e2ca{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/9bcdcb5283f26083d6d12f37747a5e351e180e984b141f41ad06ff94d7222ed0{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/02fa6f8c42a606efc0c8595d0d569c717512329ea33accefdf0bff1d10161ae9{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/400c4c11b20cd15e87cf63036ea394127d760df2839e2fb5ac24155f285a9027{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/6c083cc3f5d22dbbf3c9fc1acdc44d5ab2fef61e4de9e67da029ac0b6f472651{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "Q-b6rdyIJsY",
+					"thumbnail_id": "Q-b6rdyIJsY",
+					"name": "Cinematic Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "wuMKHMa6QVs",
+					"thumbnail_id": "wuMKHMa6QVs",
+					"name": "Gameplay Video"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "-cOU-S37u8g",
+					"thumbnail_id": "-cOU-S37u8g",
+					"name": "Gameplay Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "ppDfdCnOF1o",
+					"thumbnail_id": "ppDfdCnOF1o",
+					"name": "Cinematic Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "bPzwL8AwPXY",
+					"thumbnail_id": "bPzwL8AwPXY",
+					"name": "Game Intro"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/85b3486723efd7da1c1beb873bafcc029ace257805bb5421905538e62e49a702{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Honkai Impact 3rd follows Valkyries as they defend the world from Honkai, the “mysterious power responsible for destroying human civilization countless times.” You’ll captain the warship Hyperion as you journey across the globe, leading the girls against these otherworldly creatures wherever they appear.",
+				"en-US": "Honkai Impact 3rd follows Valkyries as they defend the world from Honkai, the “mysterious power responsible for destroying human civilization countless times.” You’ll captain the warship Hyperion as you journey across the globe, leading the girls against these otherworldly creatures wherever they appear."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": null,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				},
+				{
+					"id": "53051898010278634",
+					"name": "Co-operative",
+					"slug": "co-operative"
+				},
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/1bbd4b9d81644b37360885596c9bfb4dc7fce5e79d1204b413a8b1be8a956c23{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/1bbd4b9d81644b37360885596c9bfb4dc7fce5e79d1204b413a8b1be8a956c23{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/2fadacf4b1bbf50f5b0914ba3b6c100a4fd47f908894d18c4e1c13776304a36b{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/2fadacf4b1bbf50f5b0914ba3b6c100a4fd47f908894d18c4e1c13776304a36b{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/2fadacf4b1bbf50f5b0914ba3b6c100a4fd47f908894d18c4e1c13776304a36b{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/798dd9d93b89cca941db6d425a46154a86aff8c8bae91cca1bb264fafbe52867{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "Honkai Impact 3rd",
+			"en-US": "Honkai Impact 3rd"
+		},
+		"sorting_title": {
+			"*": "Honkai Impact 3rd",
+			"en-US": "Honkai Impact 3rd"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Honkai Impact 3rd follows Valkyries as they defend the world from Honkai, the “mysterious power responsible for destroying human civilization countless times.” You’ll captain the warship Hyperion as you journey across the globe, leading the girls against these otherworldly creatures wherever they appear.",
+			"en-US": "Honkai Impact 3rd follows Valkyries as they defend the world from Honkai, the “mysterious power responsible for destroying human civilization countless times.” You’ll captain the warship Hyperion as you journey across the globe, leading the girls against these otherworldly creatures wherever they appear."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			},
+			{
+				"id": "53051898010278634",
+				"name": "Co-operative",
+				"slug": "co-operative"
+			},
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
+			}
+		],
+		"logo": {
+			"url_format": "https://images.gog.com/2fadacf4b1bbf50f5b0914ba3b6c100a4fd47f908894d18c4e1c13776304a36b{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"05667caeb2e6c7680259002e08786008\""
+	},
+	"epic_ed93b18355a84230938c705121c63661": {
+		"id": "53968734735869057",
+		"game_id": "51295400441275501",
+		"platform_id": "epic",
+		"external_id": "ed93b18355a84230938c705121c63661",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "linux",
+				"name": "Linux"
+			},
+			{
+				"slug": "osx",
+				"name": "macOS"
+			},
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "51295400441275501",
+			"parent_id": null,
+			"dlcs_ids": [
+				"52376490847740791",
+				"53437891732863764",
+				"56070188649967762",
+				"56157269245670340"
+			],
+			"first_release_date": "2017-08-01T00:00:00+0000",
+			"releases": [
+				{
+					"id": "51295400470583396",
+					"platform_id": "steam",
+					"external_id": "305620",
+					"release_per_platform_id": "steam_305620"
+				},
+				{
+					"id": "51428759068093700",
+					"platform_id": "gog",
+					"external_id": "1447763046",
+					"release_per_platform_id": "gog_1447763046"
+				},
+				{
+					"id": "51701632145802864",
+					"platform_id": "xboxone",
+					"external_id": "690285705",
+					"release_per_platform_id": "xboxone_690285705"
+				},
+				{
+					"id": "52374133895263396",
+					"platform_id": "psn",
+					"external_id": "CUSA09690_00",
+					"release_per_platform_id": "psn_CUSA09690_00"
+				},
+				{
+					"id": "52375508715355433",
+					"platform_id": "psn",
+					"external_id": "CUSA08624_00",
+					"release_per_platform_id": "psn_CUSA08624_00"
+				},
+				{
+					"id": "52686773823387431",
+					"platform_id": "humble",
+					"external_id": "thelongdark_monthly_steam",
+					"release_per_platform_id": "humble_thelongdark_monthly_steam"
+				},
+				{
+					"id": "52961398750680394",
+					"platform_id": "test",
+					"external_id": "CUSA08624_00",
+					"release_per_platform_id": "test_CUSA08624_00"
+				},
+				{
+					"id": "52992718161610888",
+					"platform_id": "humble",
+					"external_id": "thelongdark_steam",
+					"release_per_platform_id": "humble_thelongdark_steam"
+				},
+				{
+					"id": "53065786236419675",
+					"platform_id": "humble",
+					"external_id": "thelongdark_gift",
+					"release_per_platform_id": "humble_thelongdark_gift"
+				},
+				{
+					"id": "53316653920338190",
+					"platform_id": "discord",
+					"external_id": "58151ab7-5fcd-426f-84d4-ae38337b0f6e",
+					"release_per_platform_id": "discord_58151ab7-5fcd-426f-84d4-ae38337b0f6e"
+				},
+				{
+					"id": "53776177466363055",
+					"platform_id": "test",
+					"external_id": "305620",
+					"release_per_platform_id": "test_305620"
+				},
+				{
+					"id": "53968734735869057",
+					"platform_id": "epic",
+					"external_id": "ed93b18355a84230938c705121c63661",
+					"release_per_platform_id": "epic_ed93b18355a84230938c705121c63661"
+				},
+				{
+					"id": "53992081297516424",
+					"platform_id": "test",
+					"external_id": "/the-long-dark-free-download/",
+					"release_per_platform_id": "test_/the-long-dark-free-download/"
+				},
+				{
+					"id": "54024451078380868",
+					"platform_id": "test",
+					"external_id": "the-long-dark",
+					"release_per_platform_id": "test_the-long-dark"
+				},
+				{
+					"id": "54230603552003301",
+					"platform_id": "test",
+					"external_id": "ed93b18355a84230938c705121c63661",
+					"release_per_platform_id": "test_ed93b18355a84230938c705121c63661"
+				},
+				{
+					"id": "54636390747066503",
+					"platform_id": "test",
+					"external_id": "steam_thelongdark",
+					"release_per_platform_id": "test_steam_thelongdark"
+				},
+				{
+					"id": "54640359983318135",
+					"platform_id": "test",
+					"external_id": "gfn_305620",
+					"release_per_platform_id": "test_gfn_305620"
+				},
+				{
+					"id": "55032344740429463",
+					"platform_id": "nuuvem",
+					"external_id": "3fdd2742f2e234f149817cbc58e1f768ea245b63",
+					"release_per_platform_id": "nuuvem_3fdd2742f2e234f149817cbc58e1f768ea245b63"
+				},
+				{
+					"id": "55285251319069268",
+					"platform_id": "humble",
+					"external_id": "thelongdark_standwithukraine_bundle_steam",
+					"release_per_platform_id": "humble_thelongdark_standwithukraine_bundle_steam"
+				},
+				{
+					"id": "55389832382607008",
+					"platform_id": "test",
+					"external_id": "100104511",
+					"release_per_platform_id": "test_100104511"
+				},
+				{
+					"id": "55389890854134446",
+					"platform_id": "test",
+					"external_id": "gfn_100104511",
+					"release_per_platform_id": "test_gfn_100104511"
+				},
+				{
+					"id": "55403729301412824",
+					"platform_id": "beamdog",
+					"external_id": "00000000-0000-0000-0000-000000005043",
+					"release_per_platform_id": "beamdog_00000000-0000-0000-0000-000000005043"
+				},
+				{
+					"id": "55406709948304269",
+					"platform_id": "beamdog",
+					"external_id": "ed93b18355a84230938c705121c63661",
+					"release_per_platform_id": "beamdog_ed93b18355a84230938c705121c63661"
+				},
+				{
+					"id": "55407077122059376",
+					"platform_id": "humble",
+					"external_id": "ed93b18355a84230938c705121c63661",
+					"release_per_platform_id": "humble_ed93b18355a84230938c705121c63661"
+				},
+				{
+					"id": "55420956097829859",
+					"platform_id": "egg",
+					"external_id": "ed93b18355a84230938c705121c63661",
+					"release_per_platform_id": "egg_ed93b18355a84230938c705121c63661"
+				},
+				{
+					"id": "56045590018236702",
+					"platform_id": "epic",
+					"external_id": "87441b64c6d746b7a7c90017c227dd0c",
+					"release_per_platform_id": "epic_87441b64c6d746b7a7c90017c227dd0c"
+				},
+				{
+					"id": "51295400441275501",
+					"platform_id": "generic",
+					"external_id": "51295400441275501",
+					"release_per_platform_id": "generic_51295400441275501"
+				}
+			],
+			"title": {
+				"*": "The Long Dark",
+				"en-US": "The Long Dark"
+			},
+			"sorting_title": {
+				"*": "Long Dark",
+				"en-US": "Long Dark"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51295400444021299"
+			],
+			"developers": [
+				{
+					"id": "51295400444021299",
+					"name": "Hinterland Studio Inc.",
+					"slug": "hinterland-studio-inc"
+				}
+			],
+			"publishers_ids": [
+				"51295400444021299"
+			],
+			"publishers": [
+				{
+					"id": "51295400444021299",
+					"name": "Hinterland Studio Inc.",
+					"slug": "hinterland-studio-inc"
+				}
+			],
+			"genres_ids": [
+				"51071842251704278",
+				"51071904337940794",
+				"51121492616405278",
+				"51141224821260861",
+				"51141224846123521"
+			],
+			"genres": [
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				},
+				{
+					"id": "51071904337940794",
+					"name": {
+						"*": "Strategy",
+						"en-US": "Strategy"
+					},
+					"slug": "strategy"
+				},
+				{
+					"id": "51121492616405278",
+					"name": {
+						"*": "Indie",
+						"en-US": "Indie"
+					},
+					"slug": "indie"
+				},
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				},
+				{
+					"id": "51141224846123521",
+					"name": {
+						"*": "Simulator",
+						"en-US": "Simulator"
+					},
+					"slug": "simulator"
+				}
+			],
+			"themes_ids": [
+				"51071842227872529",
+				"51071842231533391",
+				"51141225990825995",
+				"51141226418224461"
+			],
+			"themes": [
+				{
+					"id": "51071842227872529",
+					"name": {
+						"*": "Open world",
+						"en-US": "Open world"
+					},
+					"slug": "open-world"
+				},
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51141225990825995",
+					"name": {
+						"*": "Sandbox",
+						"en-US": "Sandbox"
+					},
+					"slug": "sandbox"
+				},
+				{
+					"id": "51141226418224461",
+					"name": {
+						"*": "Survival",
+						"en-US": "Survival"
+					},
+					"slug": "survival"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/6b3e4b4293eb97d2af894a590678a4f3fc2366585ae8e5edc18a7d3a236c9835{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7bef7e51d17589e1ff34cadc929f7ffbe196327ddd072466b9de20950f6aa8cb{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e821f22cf3a35bf36d7d523fb66a865c5a268971f103883ce87edced85522337{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1dea7e5f4cba1e8621aeb4e56dcf8b707c832b1a8c32c8313972ac27d882698d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1f5cedb494868c091f3a3855f15859e3787c7e9c1d23ed8ed2fe8cbbadf666e5{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e5035fde7ac5e7e84bb67ac0b96d88d55f1921548f309f6ba39f8a738df991ef{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/abe0b95e57e9a4b907eea7a7c36b1428f1c57323ff9fa89b3d359bd95b08521d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/6f815e16f53d7c10c7a21973eac4b1cfa5f944d7b0c372e5b170367f00f61c6e{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/527933746ee2e9e5ed589be215b74d386f2a73dd1112374d988819a495135341{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/d0a227c944c3bf14c1f2f3ddf1bf3eecb32f6a65b946742f26e500eaa7e5911a{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/30c66553f2f92d9e7539786794f3088d92fb24ebccb263d882738f393c552de7{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/049b9db15d027e7e013a1b890207040d2bb4f1cef47e74acf21a154c2d77279e{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/2d7a2d43e9b9d9b5eb8c9848c7d7d4adb2851d37aad9ce053c15b9f2f0675aea{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4925b95857284907ab1b3c7cb76f8672175a1de375c33d45b3c8f59f29ef3510{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b59ff7858d61c404dbadc44116209ab8cc1df79b93cf092f9411e2ead128238e{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/96e422e21efb2c6ade029a3366266cbde5577a49123a1a95a6628e6d01238362{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/302d0c013a1800c0caa33c85806510c2f63a9f2067bb584d035b8d01deee591d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7b7a9d438105d2e223d1bf62833dbfe0b52c9fce3d3583f19a166b3fb275409a{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f5b042ea7b8515bb82018bea954f2db2256d50b5d91ffc7db3909b62ed173ca2{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7240241a5766f0a8d71e67aa69b1b75e5a855512e16cd4bc023121a3c1dfe861{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/aa42e4553c0cbe6f90f937ff1d7bad8fc9f38586176cfbb0f7b4cd37d85784cf{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c89d382b51da9af7be8daf15a19736c20ff4cc3c1682c3b39e0ccdcd5c4db72b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/17d2bdda31587111b717df76a3e9b92e9a10dcc1cb2330f0434b1c18b174d423{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/78f1f12f4c77c737c2010c616763148fc0103a4911863ce75d42e09b6e088659{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5af897b5c25517130efb376ebdff14b5df061da5253489768fbc3eb1e8083a28{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/677f129f69a53302945833ee001aeae5f152d05aa903a66f036ceaefdb8cb03d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/0ee1d53f67a7a4e4c9a91580c514b44fd86bcaec8b21fca7fa92ec26721b9c93{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/2e25c607d7380ea77a41b26a19778d79a21e0fc1425e7ee9069eab966f2d2c34{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/234b6ac37ba50160f085b6d71605163c5185d5008f1ea685f399fdaa6b75627a{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/e63a91555e2b3b220d3acbf495155c19be580b9071e8b8d4fb9585d977480c39{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/64c0e5a0181991acd651849013dd03e659b94a638fedb88f6a3bcf598241117f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/7fd2ed04e11247c0da4d7c984d7b92b821e14709a8a7b751927da1298146494e{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/beb66ce45b1ec60378fe7869af02d8090909ec804e7493083e6123a390f81b50{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "AmKtKlufjwo",
+					"thumbnail_id": "AmKtKlufjwo",
+					"name": "E3 Xbox One Announcement Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "WIwjUU_6DIY",
+					"thumbnail_id": "WIwjUU_6DIY",
+					"name": "Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/f8afe1c12019c5f21d1ab9b2c391d823ad16cef130bfa778d9808dcb15e716b1{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Welcome to The Long Dark, the innovative exploration-survival experience Wired magazine calls \"the pinnacle of an entire genre\". The game is a thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. There are no zombies but only you, the cold, and all the threats Mother Nature can muster.",
+				"en-US": "Welcome to The Long Dark, the innovative exploration-survival experience Wired magazine calls \"the pinnacle of an entire genre\". The game is a thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. There are no zombies but only you, the cold, and all the threats Mother Nature can muster."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 82,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/3bad4f1560de2b399e74e10f8ae7f723373418d58257ef50b450f92a5814d65a{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/3bad4f1560de2b399e74e10f8ae7f723373418d58257ef50b450f92a5814d65a{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/2c4439f7fb85218fed26085b302fd28d15b8c28c159182a6b50d98a584d00f43{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/2c4439f7fb85218fed26085b302fd28d15b8c28c159182a6b50d98a584d00f43{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/d5fc1094972526a7efd5d2b834118790653dd61ff8414ec3cab4e25f8876ba40{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/c3586751629336ff1012fb11e93a8987b61977ae3013da6e8ab0a10926363204{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/f8afe1c12019c5f21d1ab9b2c391d823ad16cef130bfa778d9808dcb15e716b1{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "The Long Dark",
+			"en-US": "The Long Dark"
+		},
+		"sorting_title": {
+			"*": "Long Dark",
+			"en-US": "Long Dark"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Welcome to The Long Dark, the innovative exploration-survival experience Wired magazine calls \"the pinnacle of an entire genre\". The game is a thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. There are no zombies but only you, the cold, and all the threats Mother Nature can muster.",
+			"en-US": "Welcome to The Long Dark, the innovative exploration-survival experience Wired magazine calls \"the pinnacle of an entire genre\". The game is a thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. There are no zombies but only you, the cold, and all the threats Mother Nature can muster."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			}
+		],
+		"icon": {
+			"url_format": "https://images.gog.com/c3586751629336ff1012fb11e93a8987b61977ae3013da6e8ab0a10926363204{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/d5fc1094972526a7efd5d2b834118790653dd61ff8414ec3cab4e25f8876ba40{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"ee3e652a6f4e9e5ec4aee66b1d4d5368\""
+	},
+	"epic_Tern": {
+		"id": "53669072268220451",
+		"game_id": "51154125372861556",
+		"platform_id": "epic",
+		"external_id": "Tern",
+		"dlcs_ids": [
+			"53761953927199671"
+		],
+		"dlcs": [
+			{
+				"id": "53761953927199671",
+				"platform_id": "epic",
+				"external_id": "b514073cf8c84f12a8494fb36d492848",
+				"release_per_platform_id": "epic_b514073cf8c84f12a8494fb36d492848"
+			}
+		],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "51154125372861556",
+			"parent_id": null,
+			"dlcs_ids": [
+				"53761953954300411",
+				"54440533838470795",
+				"54440534029600839",
+				"54440534548479975",
+				"54440536304109038",
+				"54440536437413194",
+				"54440536551392968",
+				"54440536936557483",
+				"54440537072218488",
+				"54440537709351526",
+				"54440537939158428"
+			],
+			"first_release_date": "2017-05-30T00:00:00+0000",
+			"releases": [
+				{
+					"id": "51154125349690198",
+					"platform_id": "steam",
+					"external_id": "418460",
+					"release_per_platform_id": "steam_418460"
+				},
+				{
+					"id": "52576952836301717",
+					"platform_id": "humble",
+					"external_id": "risingstorm2_vietnam_plusdlc_monthly_steam",
+					"release_per_platform_id": "humble_risingstorm2_vietnam_plusdlc_monthly_steam"
+				},
+				{
+					"id": "52685099697500386",
+					"platform_id": "humble",
+					"external_id": "risingstorm2_vietnam_bundle_steam",
+					"release_per_platform_id": "humble_risingstorm2_vietnam_bundle_steam"
+				},
+				{
+					"id": "53041501076254116",
+					"platform_id": "humble",
+					"external_id": "risingstorm2_vietnam_steam",
+					"release_per_platform_id": "humble_risingstorm2_vietnam_steam"
+				},
+				{
+					"id": "53060709530712717",
+					"platform_id": "humble",
+					"external_id": "risingstorm2_vietnam_deluxe_steam",
+					"release_per_platform_id": "humble_risingstorm2_vietnam_deluxe_steam"
+				},
+				{
+					"id": "53669072268220451",
+					"platform_id": "epic",
+					"external_id": "Tern",
+					"release_per_platform_id": "epic_Tern"
+				},
+				{
+					"id": "53822863651753151",
+					"platform_id": "epic",
+					"external_id": "2ec78420710e4d0e9cabee7462ffdeda",
+					"release_per_platform_id": "epic_2ec78420710e4d0e9cabee7462ffdeda"
+				},
+				{
+					"id": "53822864224582188",
+					"platform_id": "epic",
+					"external_id": "TernStaging",
+					"release_per_platform_id": "epic_TernStaging"
+				},
+				{
+					"id": "53992080379989942",
+					"platform_id": "test",
+					"external_id": "/rising-storm-2-vietnam-free-download/",
+					"release_per_platform_id": "test_/rising-storm-2-vietnam-free-download/"
+				},
+				{
+					"id": "54428445490359145",
+					"platform_id": "humble",
+					"external_id": "risingstorm2vietnamdigitaldeluxe_bundle_steam",
+					"release_per_platform_id": "humble_risingstorm2vietnamdigitaldeluxe_bundle_steam"
+				},
+				{
+					"id": "54858041787320454",
+					"platform_id": "test",
+					"external_id": "gfn_100933511",
+					"release_per_platform_id": "test_gfn_100933511"
+				},
+				{
+					"id": "55093800117824548",
+					"platform_id": "test",
+					"external_id": "gfn_418460",
+					"release_per_platform_id": "test_gfn_418460"
+				},
+				{
+					"id": "55403729347296702",
+					"platform_id": "beamdog",
+					"external_id": "00000000-0000-0000-0000-000000006554",
+					"release_per_platform_id": "beamdog_00000000-0000-0000-0000-000000006554"
+				},
+				{
+					"id": "55406709907064243",
+					"platform_id": "beamdog",
+					"external_id": "Tern",
+					"release_per_platform_id": "beamdog_Tern"
+				},
+				{
+					"id": "55406917160935483",
+					"platform_id": "test",
+					"external_id": "Tern",
+					"release_per_platform_id": "test_Tern"
+				},
+				{
+					"id": "55407077072717648",
+					"platform_id": "humble",
+					"external_id": "Tern",
+					"release_per_platform_id": "humble_Tern"
+				},
+				{
+					"id": "55420956063663495",
+					"platform_id": "egg",
+					"external_id": "Tern",
+					"release_per_platform_id": "egg_Tern"
+				},
+				{
+					"id": "56207655233564487",
+					"platform_id": "itch",
+					"external_id": "Tern",
+					"release_per_platform_id": "itch_Tern"
+				},
+				{
+					"id": "51154125372861556",
+					"platform_id": "generic",
+					"external_id": "51154125372861556",
+					"release_per_platform_id": "generic_51154125372861556"
+				}
+			],
+			"title": {
+				"*": "Rising Storm 2: Vietnam",
+				"en-US": "Rising Storm 2: Vietnam"
+			},
+			"sorting_title": {
+				"*": "Rising Storm 2 Vietnam",
+				"en-US": "Rising Storm 2 Vietnam"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51152808040537433",
+				"51154125324737033"
+			],
+			"developers": [
+				{
+					"id": "51152808040537433",
+					"name": "Tripwire Interactive",
+					"slug": "tripwire-interactive"
+				},
+				{
+					"id": "51154125324737033",
+					"name": "Antimatter Games",
+					"slug": "antimatter-games"
+				}
+			],
+			"publishers_ids": [
+				"51152808040537433"
+			],
+			"publishers": [
+				{
+					"id": "51152808040537433",
+					"name": "Tripwire Interactive",
+					"slug": "tripwire-interactive"
+				}
+			],
+			"genres_ids": [
+				"51071904337940794",
+				"51121492616405278",
+				"51141224821260861",
+				"51141224846123521"
+			],
+			"genres": [
+				{
+					"id": "51071904337940794",
+					"name": {
+						"*": "Strategy",
+						"en-US": "Strategy"
+					},
+					"slug": "strategy"
+				},
+				{
+					"id": "51121492616405278",
+					"name": {
+						"*": "Indie",
+						"en-US": "Indie"
+					},
+					"slug": "indie"
+				},
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				},
+				{
+					"id": "51141224846123521",
+					"name": {
+						"*": "Simulator",
+						"en-US": "Simulator"
+					},
+					"slug": "simulator"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391",
+				"51071842249505927",
+				"51141225108229618"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51071842249505927",
+					"name": {
+						"*": "Historical",
+						"en-US": "Historical"
+					},
+					"slug": "historical"
+				},
+				{
+					"id": "51141225108229618",
+					"name": {
+						"*": "Warfare",
+						"en-US": "Warfare"
+					},
+					"slug": "warfare"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/84f9f0d0601a47b65355bc0463ded7d42f4b7888c128fa03c3f47fc374211c77{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/42fc03db025ac93208c38a634a333cb28745afc90359cecf3fa439f0e0de59f5{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/bdf7c2fae54c76c5ec204b2b8f5aeb8a2f57da6eea45441a13034102dcf3d0b6{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/71706717db4bd89c51dc3b3290a4b0eaad9ea1e713e1a9011a3332d35eb4614b{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a5d205545c2c8e65a216071559c4d8d2ed324482653b8020d22cebb3271f2634{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "YqyeNcNKxXs",
+					"thumbnail_id": "YqyeNcNKxXs",
+					"name": "Launch Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "yBYMluk3R4s",
+					"thumbnail_id": "yBYMluk3R4s",
+					"name": "Announcement trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/1e59b08a0af5cad7ed1a01ae20044351ba506116ea4a17cc22015422e5975eaf{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "Rising Storm 2: Vietnam is a sequel to the stand-alone expansion pack to Rising Storm and focuses on the Vietnam War.",
+				"en-US": "Rising Storm 2: Vietnam is a sequel to the stand-alone expansion pack to Rising Storm and focuses on the Vietnam War."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 72.5,
+			"game_modes": [
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
+				},
+				{
+					"id": "53051958246697755",
+					"name": "Massively Multiplayer Online (MMO)",
+					"slug": "massively-multiplayer-online-mmo"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/b647de0c422d1317c19a52ad3f73d2a3e5eb2d122c6167fc83d25bd7f3da915a{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/b647de0c422d1317c19a52ad3f73d2a3e5eb2d122c6167fc83d25bd7f3da915a{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/5fc3d7978f87d8533c760808a43983871740d67fe63d7be30ce9a8c011d6ae78{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/5fc3d7978f87d8533c760808a43983871740d67fe63d7be30ce9a8c011d6ae78{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/5fc3d7978f87d8533c760808a43983871740d67fe63d7be30ce9a8c011d6ae78{formatter}.{ext}?namespace=gamesdb"
+			},
+			"icon": {
+				"url_format": "https://images.gog.com/5fc3d7978f87d8533c760808a43983871740d67fe63d7be30ce9a8c011d6ae78{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/1e59b08a0af5cad7ed1a01ae20044351ba506116ea4a17cc22015422e5975eaf{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0,
+			"series": {
+				"id": "53028519106589420",
+				"name": "Rising Storm",
+				"slug": "rising-storm"
+			}
+		},
+		"title": {
+			"*": "Rising Storm 2: Vietnam Beta",
+			"en-US": "Rising Storm 2: Vietnam"
+		},
+		"sorting_title": {
+			"*": "Rising Storm 2 Vietnam Beta",
+			"en-US": "Rising Storm 2 Vietnam Beta"
+		},
+		"type": "game",
+		"summary": {
+			"*": "Rising Storm 2: Vietnam is a sequel to the stand-alone expansion pack to Rising Storm and focuses on the Vietnam War.",
+			"en-US": "Rising Storm 2: Vietnam is a sequel to the stand-alone expansion pack to Rising Storm and focuses on the Vietnam War."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
+			},
+			{
+				"id": "53051958246697755",
+				"name": "Massively Multiplayer Online (MMO)",
+				"slug": "massively-multiplayer-online-mmo"
+			}
+		],
+		"icon": {
+			"url_format": "https://images.gog.com/5fc3d7978f87d8533c760808a43983871740d67fe63d7be30ce9a8c011d6ae78{formatter}.{ext}?namespace=gamesdb"
+		},
+		"logo": {
+			"url_format": "https://images.gog.com/5fc3d7978f87d8533c760808a43983871740d67fe63d7be30ce9a8c011d6ae78{formatter}.{ext}?namespace=gamesdb"
+		},
+		"series": {
+			"id": "53028519106589420",
+			"name": "Rising Storm",
+			"slug": "rising-storm"
+		},
+		"etag": "W/\"e1d49bd85aef4c95af006fbd43d876be\""
+	},
+	"epic_Pewee": {
+		"id": "52705183586127163",
+		"game_id": "52602470180408094",
+		"platform_id": "epic",
+		"external_id": "Pewee",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "52602470180408094",
+			"parent_id": null,
+			"dlcs_ids": [
+				"53709821912500102"
+			],
+			"first_release_date": "2020-09-30T00:00:00+0000",
+			"releases": [
+				{
+					"id": "52705183586127163",
+					"platform_id": "epic",
+					"external_id": "Pewee",
+					"release_per_platform_id": "epic_Pewee"
+				},
+				{
+					"id": "52706542474556464",
+					"platform_id": "epic",
+					"external_id": "PeweeStaging",
+					"release_per_platform_id": "epic_PeweeStaging"
+				},
+				{
+					"id": "52706542544869160",
+					"platform_id": "epic",
+					"external_id": "PeweeTesting",
+					"release_per_platform_id": "epic_PeweeTesting"
+				},
+				{
+					"id": "53365471497169267",
+					"platform_id": "psn",
+					"external_id": "CUSA15138_00",
+					"release_per_platform_id": "psn_CUSA15138_00"
+				},
+				{
+					"id": "53365708308842327",
+					"platform_id": "psn",
+					"external_id": "CUSA15147_00",
+					"release_per_platform_id": "psn_CUSA15147_00"
+				},
+				{
+					"id": "53371940729940301",
+					"platform_id": "xboxone",
+					"external_id": "531437752",
+					"release_per_platform_id": "xboxone_531437752"
+				},
+				{
+					"id": "53445982820453014",
+					"platform_id": "epic",
+					"external_id": "PeweeStaging2",
+					"release_per_platform_id": "epic_PeweeStaging2"
+				},
+				{
+					"id": "53445985107546431",
+					"platform_id": "epic",
+					"external_id": "2a2bdbecd0df43c680f85d774bc72013",
+					"release_per_platform_id": "epic_2a2bdbecd0df43c680f85d774bc72013"
+				},
+				{
+					"id": "54024436828513984",
+					"platform_id": "test",
+					"external_id": "rogue-company",
+					"release_per_platform_id": "test_rogue-company"
+				},
+				{
+					"id": "54230603534834216",
+					"platform_id": "test",
+					"external_id": "Pewee",
+					"release_per_platform_id": "test_Pewee"
+				},
+				{
+					"id": "54585882202766395",
+					"platform_id": "steam",
+					"external_id": "872200",
+					"release_per_platform_id": "steam_872200"
+				},
+				{
+					"id": "54670100803174381",
+					"platform_id": "psn",
+					"external_id": "PPSA02091_00",
+					"release_per_platform_id": "psn_PPSA02091_00"
+				},
+				{
+					"id": "54670123971140103",
+					"platform_id": "psn",
+					"external_id": "PPSA02092_00",
+					"release_per_platform_id": "psn_PPSA02092_00"
+				},
+				{
+					"id": "54866545577967007",
+					"platform_id": "steam",
+					"external_id": "1666300",
+					"release_per_platform_id": "steam_1666300"
+				},
+				{
+					"id": "54898186478821695",
+					"platform_id": "test",
+					"external_id": "gfn_100854411",
+					"release_per_platform_id": "test_gfn_100854411"
+				},
+				{
+					"id": "55403729362440077",
+					"platform_id": "beamdog",
+					"external_id": "00000000-0000-0000-0000-000000006659",
+					"release_per_platform_id": "beamdog_00000000-0000-0000-0000-000000006659"
+				},
+				{
+					"id": "55406709904228181",
+					"platform_id": "beamdog",
+					"external_id": "Pewee",
+					"release_per_platform_id": "beamdog_Pewee"
+				},
+				{
+					"id": "55407077056718415",
+					"platform_id": "humble",
+					"external_id": "Pewee",
+					"release_per_platform_id": "humble_Pewee"
+				},
+				{
+					"id": "55420956042216338",
+					"platform_id": "egg",
+					"external_id": "Pewee",
+					"release_per_platform_id": "egg_Pewee"
+				},
+				{
+					"id": "56163502295973238",
+					"platform_id": "test",
+					"external_id": "epic_Pewee",
+					"release_per_platform_id": "test_epic_Pewee"
+				},
+				{
+					"id": "56163627127803219",
+					"platform_id": "test",
+					"external_id": "100854411",
+					"release_per_platform_id": "test_100854411"
+				},
+				{
+					"id": "52602470180408094",
+					"platform_id": "generic",
+					"external_id": "52602470180408094",
+					"release_per_platform_id": "generic_52602470180408094"
+				}
+			],
+			"title": {
+				"*": "Rogue Company",
+				"en-US": "Rogue Company"
+			},
+			"sorting_title": {
+				"*": "Rogue Company",
+				"en-US": "Rogue Company"
+			},
+			"type": "game",
+			"developers_ids": [
+				"52867811458257857"
+			],
+			"developers": [
+				{
+					"id": "52867811458257857",
+					"name": "First Watch Games",
+					"slug": "first-watch-games"
+				}
+			],
+			"publishers_ids": [
+				"51152918273609965"
+			],
+			"publishers": [
+				{
+					"id": "51152918273609965",
+					"name": "Hi-Rez Studios",
+					"slug": "hi-rez-studios"
+				}
+			],
+			"genres_ids": [
+				"51141224821260861"
+			],
+			"genres": [
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/edd5d59f4a1ddc8e77ec0b18996fcb3048dfea38d49f34cf1ee061b5189463c5{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b6e17464fe0f05c7255437312b4e695a48e86484ce2b559bc57631cc37634242{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/f47d047a678dcfdcd2ba47636c2184845ae00866ee5a7c7e3222399278410288{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8ebad68b042ca000f473c741a9d84bdc91a08868cb72a21fe5943e82bc23e0d1{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/c297cd914028674e762a77ef0b421f4f1f40408b93fc0398f7c6774cb4ab48a0{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/8f37c742609936eaead9c7db28507fe66abeebeb9b5184cfc6d0b74cb3b3bdb4{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/986a9f2634281ce8711f1c3333a3ca8bdfa54cc41c0b98e9b67a283538a92696{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/6f0600cf7f5332641e8a57cdb7608c7dfa6867aeea0e2a811f657c2917922f85{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/58c82a96626f788d369c9e533e21726d312db8a50e596e7aa39ac637d4577b31{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ab7e93d10e43d6541faae15910098e25c5f6961cd46571c38225f4abac20807f{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/1cdb716fa6414124f40fce4f42116e87c76915e87e4eec6b2953d554f15e33d9{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/cd69c990d0be4afdc93a4f56f58fc1e1c0234f02c159cbf79f63a3697777a17e{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/bc9479463f04835aef3e896e919b72828c52b311f3d0cd58fd72091df615f173{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/3d97b9b732f0415950ece111cb5d0f8798a62f28b3c623fa4e90b116b3b7c1c0{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/05bde6743b0d048b5d08d22b69c55f1330d270382f1457208a2b8523a3fc203e{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/4a362eacdddf9b0820ba7be04b7780ea43ae1152dd422945b44477867b2f6d50{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "EVfkcfjbuQ8",
+					"thumbnail_id": "EVfkcfjbuQ8",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "0t6BaAH2D2I",
+					"thumbnail_id": "0t6BaAH2D2I",
+					"name": "Teaser"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "a6JtFmWCBAM",
+					"thumbnail_id": "a6JtFmWCBAM",
+					"name": "Trailer"
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/b706c5fd1af19ed2377370ee01591d36c8dbf23df129503d0c932d9a71e4fb19{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/34c23c0b99d3dff372ee249026c4ad23758def724f22f5988fbdd338f7023451{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "A new game from Hi-Rez Studios.\r\nROGUE COMPANY IS A TOP-SECRET SYNDICATE OF ELITE MERCENARIES AROUND THE GLOBE. TO MOST OF THE WORLD, THE ELUSIVE MERCENARIES ARE A RUMOR AT BEST. HOWEVER, TO THOSE IN THE KNOW, ROGUE COMPANY OPERATIVES ARE INDISPENSABLE TO SOLVING THE WORLD’S DEADLIEST AND MOST CHALLENGING MISSIONS. AS A ROGUE COMPANY MERCENARY, PLAYERS WILL GRAB THEIR WEAPON OF CHOICE AND DIVE INTO ICONIC LOCATIONS TO COMPETE ONLINE IN VARIOUS PVP GAME MODES.",
+				"en-US": "Gear up and drop in to Rogue Company, the third-person tactical action shooter that puts the fate of the world in your hands. Defeat the enemy team in objective and action based game modes featuring exotic locales, thrilling gun-play, and explosions…lots of explosions. Save the day. Look Good. Get Paid."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 85,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				},
+				{
+					"id": "53051898010278634",
+					"name": "Co-operative",
+					"slug": "co-operative"
+				},
+				{
+					"id": "53051908711988230",
+					"name": "Multiplayer",
+					"slug": "multiplayer"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/d6428144c18d56b894654f8c3bb718f666ce4787b5389ffefd5c3c05f89d1749{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/d6428144c18d56b894654f8c3bb718f666ce4787b5389ffefd5c3c05f89d1749{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/b746433f4501a705f799f73240be80b4ce44cf9843ce84207452acc810c8d304{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/b746433f4501a705f799f73240be80b4ce44cf9843ce84207452acc810c8d304{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/1f7e54226fee1585435768c26ba6b2a8f01dd3eced7b5b863dc83f8496c53179{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/c1cedd065e06453f9ea489df862376a1b2f05423149c793e2f7b8608e4d572c0{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0
+		},
+		"title": {
+			"*": "Rogue Company",
+			"en-US": "Rogue Company"
+		},
+		"sorting_title": {
+			"*": "Rogue Company",
+			"en-US": "Rogue Company"
+		},
+		"type": "game",
+		"summary": {
+			"*": "A new game from Hi-Rez Studios.\r\nROGUE COMPANY IS A TOP-SECRET SYNDICATE OF ELITE MERCENARIES AROUND THE GLOBE. TO MOST OF THE WORLD, THE ELUSIVE MERCENARIES ARE A RUMOR AT BEST. HOWEVER, TO THOSE IN THE KNOW, ROGUE COMPANY OPERATIVES ARE INDISPENSABLE TO SOLVING THE WORLD’S DEADLIEST AND MOST CHALLENGING MISSIONS. AS A ROGUE COMPANY MERCENARY, PLAYERS WILL GRAB THEIR WEAPON OF CHOICE AND DIVE INTO ICONIC LOCATIONS TO COMPETE ONLINE IN VARIOUS PVP GAME MODES.",
+			"en-US": "Gear up and drop in to Rogue Company, the third-person tactical action shooter that puts the fate of the world in your hands. Defeat the enemy team in objective and action based game modes featuring exotic locales, thrilling gun-play, and explosions…lots of explosions. Save the day. Look Good. Get Paid."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			},
+			{
+				"id": "53051898010278634",
+				"name": "Co-operative",
+				"slug": "co-operative"
+			},
+			{
+				"id": "53051908711988230",
+				"name": "Multiplayer",
+				"slug": "multiplayer"
+			}
+		],
+		"logo": {
+			"url_format": "https://images.gog.com/1f7e54226fee1585435768c26ba6b2a8f01dd3eced7b5b863dc83f8496c53179{formatter}.{ext}?namespace=gamesdb"
+		},
+		"etag": "W/\"e6ecbbc56cbf7d49302d298af3e8fcba\""
+	},
+	"epic_4123bcce398b4b1d8b9ef878f81055d1": {
+		"id": "57464693870284835",
+		"game_id": "51295406365568404",
+		"platform_id": "epic",
+		"external_id": "4123bcce398b4b1d8b9ef878f81055d1",
+		"dlcs_ids": [],
+		"dlcs": [],
+		"parent_id": null,
+		"supported_operating_systems": [
+			{
+				"slug": "osx",
+				"name": "macOS"
+			},
+			{
+				"slug": "windows",
+				"name": "Windows"
+			}
+		],
+		"available_languages": [
+			{
+				"code": "en-US"
+			}
+		],
+		"first_release_date": null,
+		"game": {
+			"id": "51295406365568404",
+			"parent_id": null,
+			"dlcs_ids": [
+				"52172107438354862",
+				"52376532126343740",
+				"52376599559204537"
+			],
+			"first_release_date": "2014-02-25T00:00:00+0000",
+			"releases": [
+				{
+					"id": "51295406354660210",
+					"platform_id": "steam",
+					"external_id": "239160",
+					"release_per_platform_id": "steam_239160"
+				},
+				{
+					"id": "51538974656915358",
+					"platform_id": "xboxone",
+					"external_id": "1181281124",
+					"release_per_platform_id": "xboxone_1181281124"
+				},
+				{
+					"id": "51790726967074119",
+					"platform_id": "xboxone",
+					"external_id": "1406389095",
+					"release_per_platform_id": "xboxone_1406389095"
+				},
+				{
+					"id": "52089659162983969",
+					"platform_id": "psn",
+					"external_id": "CUSA00250_00",
+					"release_per_platform_id": "psn_CUSA00250_00"
+				},
+				{
+					"id": "52376516519194958",
+					"platform_id": "psn",
+					"external_id": "CUSA00252_00",
+					"release_per_platform_id": "psn_CUSA00252_00"
+				},
+				{
+					"id": "52495446619089214",
+					"platform_id": "uplay",
+					"external_id": "709",
+					"release_per_platform_id": "uplay_709"
+				},
+				{
+					"id": "52503746129216168",
+					"platform_id": "psn",
+					"external_id": "CUSA00373_00",
+					"release_per_platform_id": "psn_CUSA00373_00"
+				},
+				{
+					"id": "52646597659320579",
+					"platform_id": "humble",
+					"external_id": "thief_standard_steam",
+					"release_per_platform_id": "humble_thief_standard_steam"
+				},
+				{
+					"id": "52947317549239236",
+					"platform_id": "psn",
+					"external_id": "EP0082-NPEB01912_00-GTHIEFXXXX000001",
+					"release_per_platform_id": "psn_EP0082-NPEB01912_00-GTHIEFXXXX000001"
+				},
+				{
+					"id": "53101151106259086",
+					"platform_id": "humble",
+					"external_id": "thief_standard_withbankheist_steam",
+					"release_per_platform_id": "humble_thief_standard_withbankheist_steam"
+				},
+				{
+					"id": "53193524760094530",
+					"platform_id": "humble",
+					"external_id": "thief_standard_feral_steam",
+					"release_per_platform_id": "humble_thief_standard_feral_steam"
+				},
+				{
+					"id": "53261690602937355",
+					"platform_id": "origin",
+					"external_id": "09f118df5bbaefe16780a88b32d42c7638b46867",
+					"release_per_platform_id": "origin_09f118df5bbaefe16780a88b32d42c7638b46867"
+				},
+				{
+					"id": "53261704558983411",
+					"platform_id": "origin",
+					"external_id": "2378f723f0816212d12949b01d85336cadda4779d8550af64ff6000e271a513a",
+					"release_per_platform_id": "origin_2378f723f0816212d12949b01d85336cadda4779d8550af64ff6000e271a513a"
+				},
+				{
+					"id": "54182903481882796",
+					"platform_id": "playfire",
+					"external_id": "thief",
+					"release_per_platform_id": "playfire_thief"
+				},
+				{
+					"id": "54670124922224151",
+					"platform_id": "psn",
+					"external_id": "CUSA00652_00",
+					"release_per_platform_id": "psn_CUSA00652_00"
+				},
+				{
+					"id": "54672278235951783",
+					"platform_id": "psn",
+					"external_id": "CUSA00664_00",
+					"release_per_platform_id": "psn_CUSA00664_00"
+				},
+				{
+					"id": "57464693870284835",
+					"platform_id": "epic",
+					"external_id": "4123bcce398b4b1d8b9ef878f81055d1",
+					"release_per_platform_id": "epic_4123bcce398b4b1d8b9ef878f81055d1"
+				},
+				{
+					"id": "51295406365568404",
+					"platform_id": "generic",
+					"external_id": "51295406365568404",
+					"release_per_platform_id": "generic_51295406365568404"
+				}
+			],
+			"title": {
+				"*": "Thief",
+				"en-US": "Thief"
+			},
+			"sorting_title": {
+				"*": "Thief",
+				"en-US": "Thief"
+			},
+			"type": "game",
+			"developers_ids": [
+				"51152762736380777"
+			],
+			"developers": [
+				{
+					"id": "51152762736380777",
+					"name": "Eidos Montréal",
+					"slug": "eidos-montreal"
+				}
+			],
+			"publishers_ids": [
+				"51141225662415964",
+				"51141413950380111",
+				"51152762736380777"
+			],
+			"publishers": [
+				{
+					"id": "51141225662415964",
+					"name": "Square Enix",
+					"slug": "square-enix"
+				},
+				{
+					"id": "51141413950380111",
+					"name": "Feral Interactive",
+					"slug": "feral-interactive"
+				},
+				{
+					"id": "51152762736380777",
+					"name": "Eidos Montréal",
+					"slug": "eidos-montreal"
+				}
+			],
+			"genres_ids": [
+				"51071842251704278",
+				"51141224821260861"
+			],
+			"genres": [
+				{
+					"id": "51071842251704278",
+					"name": {
+						"*": "Adventure",
+						"en-US": "Adventure"
+					},
+					"slug": "adventure"
+				},
+				{
+					"id": "51141224821260861",
+					"name": {
+						"*": "Shooter",
+						"en-US": "Shooter"
+					},
+					"slug": "shooter"
+				}
+			],
+			"themes_ids": [
+				"51071842231533391",
+				"51141225770763638",
+				"51141225990825995"
+			],
+			"themes": [
+				{
+					"id": "51071842231533391",
+					"name": {
+						"*": "Action",
+						"en-US": "Action"
+					},
+					"slug": "action"
+				},
+				{
+					"id": "51141225770763638",
+					"name": {
+						"*": "Stealth",
+						"en-US": "Stealth"
+					},
+					"slug": "stealth"
+				},
+				{
+					"id": "51141225990825995",
+					"name": {
+						"*": "Sandbox",
+						"en-US": "Sandbox"
+					},
+					"slug": "sandbox"
+				}
+			],
+			"screenshots": [
+				{
+					"url_format": "https://images.gog.com/9859646843213e01fe07a2f747933307daa5752f9727a664b646b9c6531d6d26{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ed488014dc23c14d866b1df076edb81acf8ef74551eb907f39a38e42281a4241{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/dc34d72e56cda9f69e67bbc4a9fa441ee37267aa23445f62f74ff2ec303282b6{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/b7cb98b9ae1cf138b5b89f624ef0bf67d8b3131bcc58279426bc61f49331e50a{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/48891e2a88b4f3fad06689310fbb9bcc4ad04deda8b84635c328ab41339b671e{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"videos": [
+				{
+					"provider": "youtube",
+					"video_id": "of_3FxnsCZc",
+					"thumbnail_id": "of_3FxnsCZc",
+					"name": "Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "HMDEcqj_1M4",
+					"thumbnail_id": "HMDEcqj_1M4",
+					"name": "Teaser"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "OELJ8qZ8Fe8",
+					"thumbnail_id": "OELJ8qZ8Fe8",
+					"name": "Gameplay Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "83tF5EKdT5c",
+					"thumbnail_id": "83tF5EKdT5c",
+					"name": "Launch Trailer"
+				},
+				{
+					"provider": "youtube",
+					"video_id": "Q3QQHurZrrU",
+					"thumbnail_id": "Q3QQHurZrrU",
+					"name": "Uprising Trailer "
+				}
+			],
+			"artworks": [
+				{
+					"url_format": "https://images.gog.com/cc4b1e67cc853903878fc167dda2a210764d3d709edb54187a2247b07bc5fef9{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/18b8edc596eec246f7fb2529b2cd15fbb2e6445ab6a04bb4e714ffab3b2aabb3{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/233aa56285af4cafe824db5593fe838f8953f3dd19b3f2cf52d2b0d0783f939a{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/76eabcad6c06f819cd9114f9592bd22d23ffba9ccba6e53bfdae5797c2183b6d{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/0f5944114e7628d8c729ee171b20402a788f76c32c2bef2a422cc0a72731c0f0{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ae30bfd2002b6c51b9056b7a7d6176193fa685afcf9edca25c50966adfdea1fe{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/9322ffe784c8ee813e161e2a853429256680af21446dcf0f68432c6d76a26e62{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ec06b70380655f3c4b21b0d033f3879e5648d135e45866c7a6dcbfede9ca7218{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/ebc169fb4c6151dd26505b1d6511e5cc2b1991dd42ad540177241019917bf29e{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5da8bfcb87ae11ff0a1b30db06f2887f0c32c27add22147d8a02ab6839033f0c{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/bd71b1a14894b7c40f247928ee9d7e05ceea07dd1dc7e24d5c193a73324eb001{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/a93e14bdb5daed9561e92c1eb6b79fba73d91a5bdc19bd8afe6405958113f210{formatter}.{ext}?namespace=gamesdb"
+				},
+				{
+					"url_format": "https://images.gog.com/5619e6a121e576b792c59eae446d78e8a9c598635c956787b1d42e68fa5e54fc{formatter}.{ext}?namespace=gamesdb"
+				}
+			],
+			"summary": {
+				"*": "There is a rising tide of fear in The City. Hatred saturates every stone and whilst the rich prosper, the less fortunate face misery and repression. Ravaged with sickness and famine, they wait for something to change.\r\nInto this shadowy world steps Garrett, THE master thief in Thief, a reinvention of a franchise that helped define an entire genre of games. This first-person adventure features intelligent design that allows players to take full control, with freedom to choose their path through the game's levels and how they approach and overcome each challenge.",
+				"en-US": "There is a rising tide of fear in The City. Hatred saturates every stone and whilst the rich prosper, the less fortunate face misery and repression. Ravaged with sickness and famine, they wait for something to change.\nInto this shadowy world steps Garrett, THE master thief in Thief, a reinvention of a franchise that helped define an entire genre of games. This first-person adventure features intelligent design that allows players to take full control, with freedom to choose their path through the game's levels and how they approach and overcome each challenge."
+			},
+			"visible_in_library": true,
+			"aggregated_rating": 63.6429,
+			"game_modes": [
+				{
+					"id": "53051895165351137",
+					"name": "Single player",
+					"slug": "single-player"
+				}
+			],
+			"horizontal_artwork": {
+				"url_format": "https://images.gog.com/6c8c001088060e3ee35675ee58f73125fbf12ba224f3c05c0e24042d4f47ef47{formatter}.{ext}?namespace=gamesdb"
+			},
+			"background": {
+				"url_format": "https://images.gog.com/6c8c001088060e3ee35675ee58f73125fbf12ba224f3c05c0e24042d4f47ef47{formatter}.{ext}?namespace=gamesdb"
+			},
+			"vertical_cover": {
+				"url_format": "https://images.gog.com/47563d4b87c63c289a3893f7a1d73598b82be3d58f4e5a2c40db8746ac371b3d{formatter}.{ext}?namespace=gamesdb"
+			},
+			"cover": {
+				"url_format": "https://images.gog.com/47563d4b87c63c289a3893f7a1d73598b82be3d58f4e5a2c40db8746ac371b3d{formatter}.{ext}?namespace=gamesdb"
+			},
+			"logo": {
+				"url_format": "https://images.gog.com/47563d4b87c63c289a3893f7a1d73598b82be3d58f4e5a2c40db8746ac371b3d{formatter}.{ext}?namespace=gamesdb"
+			},
+			"square_icon": {
+				"url_format": "https://images.gog.com/5619e6a121e576b792c59eae446d78e8a9c598635c956787b1d42e68fa5e54fc{formatter}.{ext}?namespace=gamesdb"
+			},
+			"global_popularity_all_time": 0,
+			"global_popularity_current": 0,
+			"series": {
+				"id": "53028463426681216",
+				"name": "Thief",
+				"slug": "thief"
+			}
+		},
+		"title": {
+			"*": "Thief",
+			"en-US": "Thief"
+		},
+		"sorting_title": {
+			"*": "Thief",
+			"en-US": "Thief"
+		},
+		"type": "game",
+		"summary": {
+			"*": "There is a rising tide of fear in The City. Hatred saturates every stone and whilst the rich prosper, the less fortunate face misery and repression. Ravaged with sickness and famine, they wait for something to change.\r\nInto this shadowy world steps Garrett, THE master thief in Thief, a reinvention of a franchise that helped define an entire genre of games. This first-person adventure features intelligent design that allows players to take full control, with freedom to choose their path through the game's levels and how they approach and overcome each challenge.",
+			"en-US": "There is a rising tide of fear in The City. Hatred saturates every stone and whilst the rich prosper, the less fortunate face misery and repression. Ravaged with sickness and famine, they wait for something to change.\nInto this shadowy world steps Garrett, THE master thief in Thief, a reinvention of a franchise that helped define an entire genre of games. This first-person adventure features intelligent design that allows players to take full control, with freedom to choose their path through the game's levels and how they approach and overcome each challenge."
+		},
+		"videos": [],
+		"game_modes": [
+			{
+				"id": "53051895165351137",
+				"name": "Single player",
+				"slug": "single-player"
+			}
+		],
+		"logo": {
+			"url_format": "https://images.gog.com/47563d4b87c63c289a3893f7a1d73598b82be3d58f4e5a2c40db8746ac371b3d{formatter}.{ext}?namespace=gamesdb"
+		},
+		"series": {
+			"id": "53028463426681216",
+			"name": "Thief",
+			"slug": "thief"
+		},
+		"etag": "W/\"a8a9c2083f003ab6495904b5771482c0\""
+	}
+}

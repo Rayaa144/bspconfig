@@ -1,0 +1,162 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Iragarkiak"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Eragozpenak"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Defektuzkoa"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Malware domeinuak"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Bestelakoak"
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Pribatutasuna"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "Eskualdeak, hizkuntzak"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "Aldaketen erregistroa"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "Iturburu kodea (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "Laguntzaileak"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "Kanpo menpekotasunak (GPLv3 lizentziarekin bateragarriak):"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "Iragazki-zerrendak"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Honi buruz"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "Pribatutasun politika"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "Iturburu-kodea"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "Itzulpenak"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Orria automatikoki kargatuko da iragazteko modua aldatuko denean"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "Oinarrizko sarea iragaztea, hautatutako iragazkien zerrendetatik abiatuta.\n\nEz da baimenik behar webguneetan datuak irakurtzeko eta aldatzeko."
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "portaera or jokaera"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "\nSare aurreratuko iragazketa gehi hedapen espezifiko eta generikoa hautatutako iragazkien zerrendetan.\n\nBaimen zabala behar da webgune guztietan datuak irakurri eta aldatzeko.\n\nIragazte hedatu generikoak web-orriaren baliabide gehiago erabiltzea eragin dezake.\n"
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO Lite - Lan-lekua"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "Iragazteko aurrez zehaztutako modua webgunearen arabera iragazteko moduen bidez deuseztatuko da. Edozein webgunetan iragazteko modua doitu dezake, webgune horretan hobekien funtzionatzen duen moduaren arabera. Modu bakoitzak bere abantailak eta desabantailak ditu."
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "Lehenetsitako iragazteko modua"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "Probatako eta baimenik behar ez duen eduki-blokeatzailea. Iragarkiak, jarraitzeko tresnak, eta gehiago instalatzean bertan."
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "iragazkirik gabe\n"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "Oinarrizkoa"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "optimo"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "eginda"
+   },
+   "firstRunDescription": {
+      "description": "Descriptive text shown at first install time only ",
+      "message": "uBO Lite instalatu berri duzu. Hemen, webgune guztietan erabiltzeko iragazteko modu lehenetsia hauta dezakezu.\n\nAurrez zehaztuta, \u003Cem>Oinarrizkoa \u003C/em>modua hautatzen da, ez baita baimenik behar datuak irakurtzeko eta aldatzeko. uBO Lite-n konfiantza baduzu, webgune guztietan datuak irakurtzeko eta aldatzeko baimen zabala eman dezakezu, webgune guztietarako iragazteko gaitasun aurreratuagoak gaitzeko, aldez aurretik zehaztuta."
+   },
+   "firstRunSectionLabel": {
+      "description": "The header text for the welcome message section",
+      "message": "Ongi etorri"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "Filtrorik ezarriko ez zaien zerbitzarien izenak"
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "\nSare aurreratuaren iragazketa gehi hautatutako iragazkien zerrenden berariazko hedapena.\n\nBaimen zabala behar da webgune guztietan datuak irakurri eta aldatzeko.\n"
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "{{ruleCount}} erregela, {{filterCount}} sare-filtrotik bihurtuta."
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "Iragazteko modua"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "Gutxiago"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "Gehiago"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "Ireki lan-lekua"
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "Ezarpenak"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Tresna-barraren ikonoan blokeatutako eskaeren kopurua erakutsi"
+   }
+}

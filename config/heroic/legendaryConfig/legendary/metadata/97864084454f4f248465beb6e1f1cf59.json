@@ -1,0 +1,2223 @@
+{
+  "app_name": "97864084454f4f248465beb6e1f1cf59",
+  "app_title": "Disney Speedstorm",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "97864084454f4f248465beb6e1f1cf59",
+      "asset_id": "97864084454f4f248465beb6e1f1cf59",
+      "build_version": "1.7.5b_8161bdae_1719890375",
+      "catalog_item_id": "48bd73a02a1648e6bea119942f1dba05",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "47bf168a2214456fb7bd4c217e2a4fd6"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2021-08-02T17:46:02.762Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "DisneySpeedstorm"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "47bf168a2214456fb7bd4c217e2a4fd6"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Disney Speedstorm",
+    "developer": "Gameloft SE",
+    "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+    "dlcItemList": [
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:12:29.962Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_Pack_2_Extra2 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "f5b68e85aaf542e5988e0ff479f4f9ad",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f5b68e85aaf542e5988e0ff479f4f9ad",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.732Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_Pack_2_Extra2 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:07:31.379Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_Pack_1_Extra3 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "707e3faddbfb4d35967cbb20b6dfab47",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "707e3faddbfb4d35967cbb20b6dfab47",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.705Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_Pack_1_Extra3 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:03:47.844Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_Pack_1_Extra4 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "06e43bd567cd430c911ce34607b91371",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "06e43bd567cd430c911ce34607b91371",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.678Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_Pack_1_Extra4 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:15:58.073Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_Pack_4_Extra2 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "51737f07529643dc983d292cdb06ad9d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "51737f07529643dc983d292cdb06ad9d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.697Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_Pack_4_Extra2 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:17:10.668Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_Pack_5_Extra2 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "d79a45fd5c844cf2936d11b897c38865",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d79a45fd5c844cf2936d11b897c38865",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.728Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_Pack_5_Extra2 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:14:38.365Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_Pack_3_Extra2 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "a81001fba44d4a0fa2a3b8b696e0b8de",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a81001fba44d4a0fa2a3b8b696e0b8de",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.712Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_Pack_3_Extra2 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:11:45.073Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_Pack_2_Extra4 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "848b04254af847a080f1f13b2976f602",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "848b04254af847a080f1f13b2976f602",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.707Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_Pack_2_Extra4 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:15:12.391Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_Pack_4_Extra4 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "0e9f6d01dae74923b4bdb39d2be44cbf",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0e9f6d01dae74923b4bdb39d2be44cbf",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.682Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_Pack_4_Extra4 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:19:08.348Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_pack_6_promo2 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "5e7d6194bd30453192b886b2891e6e8b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5e7d6194bd30453192b886b2891e6e8b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.702Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_pack_6_promo2 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:10:36.556Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_Pack_1_Extra2 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "c1539da07761453dba160ee86b64a5e7",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c1539da07761453dba160ee86b64a5e7",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.726Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_Pack_1_Extra2 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:16:32.824Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_Pack_4_Extra1 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "ad435120e71c4f49bd112eaaef05db0b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ad435120e71c4f49bd112eaaef05db0b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.715Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_Pack_4_Extra1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:13:59.572Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_Pack_3_Extra4 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "dd3c413442a84105a0ae9c84398397b9",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dd3c413442a84105a0ae9c84398397b9",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.730Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_Pack_3_Extra4 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-04-21T14:18:56.111Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Founder Pack 1",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "9f05dd1464ac4944b51542b998d074b0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "9f05dd1464ac4944b51542b998d074b0",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-04-21T14:18:56.111Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Founder Pack 1",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:18:34.018Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_pack_5_promo4 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "2f75e4365a7147d49aa666763228a50d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2f75e4365a7147d49aa666763228a50d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.693Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_pack_5_promo4 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:19:42.064Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_pack_5_promo2 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "95776b7b6a3f41bea9b97da243e0d242",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "95776b7b6a3f41bea9b97da243e0d242",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.709Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_pack_5_promo2 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-04-21T14:19:34.334Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Founder Pack 2",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "caf6eb73cd314040b5b66e883ab17d5b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "caf6eb73cd314040b5b66e883ab17d5b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-04-21T14:19:34.334Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Founder Pack 2",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-04-21T14:22:24.903Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Founder Pack 3",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "6020baf58c7944e8b3fe24305f433a3e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "6020baf58c7944e8b3fe24305f433a3e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2022-04-21T14:22:24.903Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Founder Pack 3",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:17:46.775Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_pack_3_promo2 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "b7d37ccf99264e51808c4d5c24f57055",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "b7d37ccf99264e51808c4d5c24f57055",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.721Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_pack_3_promo2 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:13:18.065Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_Pack_2_Extra1 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "5a47e98e2ad445e19e5e8f720288ea0d",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5a47e98e2ad445e19e5e8f720288ea0d",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.700Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_Pack_2_Extra1 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2022-07-28T14:09:46.964Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "Token_Pack_1_Extra5 audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "16140f00f2e44979a1b2037e1b5f3079",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "16140f00f2e44979a1b2037e1b5f3079",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-05-22T13:48:20.685Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Token_Pack_1_Extra5 audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2022-11-22T16:12:26.942Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Disney Speedstorm - Ultimate Edition",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "2f54ec29b1094f5b819ff9600d628888",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2f54ec29b1094f5b819ff9600d628888",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-23T15:24:59.690Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Disney Speedstorm - Ultimate Edition",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-20T19:51:24.698Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "iowa Standard Prepurchase Content",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "3067a8abf1dd42f2a1058e1789c58609",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3067a8abf1dd42f2a1058e1789c58609",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-16T15:55:36.713Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "iowa Standard Prepurchase Content",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-20T19:52:04.998Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "iowa Deluxe Prepurchase Content",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "c93a36935e4c43f88f9a699e00edfb34",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c93a36935e4c43f88f9a699e00edfb34",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-23T14:52:50.304Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "iowa Deluxe Prepurchase Content",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-20T19:52:32.625Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "iowa Ultimate Prepurchase Content",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "dc83ccf9890b445184579e57040f34dd",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dc83ccf9890b445184579e57040f34dd",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-02-23T14:52:50.311Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "iowa Ultimate Prepurchase Content",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-20T19:53:42.341Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "iowa Standard Edition Content",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "0afdcba8bfc74593844e03db3089f5d7",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0afdcba8bfc74593844e03db3089f5d7",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-16T15:55:36.692Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "iowa Standard Edition Content",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-21T16:14:00.052Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "iowa Ultimate Edition Content",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "67c953a7ab8a4710ad6d9bfbcf70b7f7",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "67c953a7ab8a4710ad6d9bfbcf70b7f7",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-16T15:55:36.736Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "iowa Ultimate Edition Content",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-02-21T16:13:27.612Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "iowa Deluxe Edition Content",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "d05efd430fe44d059d6c0bef894f43b4",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "d05efd430fe44d059d6c0bef894f43b4",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-03-16T15:55:36.747Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "iowa Deluxe Edition Content",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "audience"
+          },
+          {
+            "path": "public"
+          }
+        ],
+        "creationDate": "2023-06-13T17:34:07.164Z",
+        "customAttributes": {
+          "SupportedPlatforms": {
+            "type": "STRING",
+            "value": "Windows"
+          }
+        },
+        "description": "iowa Test Consumable audience",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "ea4c244ec57f4f42b06a8a69f08e4f6b",
+        "entitlementType": "AUDIENCE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "ea4c244ec57f4f42b06a8a69f08e4f6b",
+        "itemType": "CONSUMABLE",
+        "lastModifiedDate": "2023-06-13T17:34:07.164Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "iowa Test Consumable audience",
+        "unsearchable": true,
+        "useCount": 1
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-10-30T18:22:34.410Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "iowa GK",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "c2461af818e9490282a2e52b8f20f6ef",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c2461af818e9490282a2e52b8f20f6ef",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-12-13T15:43:52.547Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "iowa GK",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-09T17:20:02.546Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "iowa WP",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "aaf635cd9615488291cd5bf096c625af",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "aaf635cd9615488291cd5bf096c625af",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-12-21T19:40:18.103Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "iowa WP",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-09T17:20:43.619Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "iowa SP",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "05a36b23f92241e28505a0ee0f8cb5ad",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "05a36b23f92241e28505a0ee0f8cb5ad",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-12-21T19:40:18.098Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "iowa SP",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2023-11-09T17:21:03.544Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "iowa LP",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "258e1e5292644b3984dfc6e3c792161a",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "258e1e5292644b3984dfc6e3c792161a",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2023-12-21T19:40:18.099Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "iowa LP",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:16.350Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Gen P",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "0dadcfd624894de982b9b5069c1a0595",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0dadcfd624894de982b9b5069c1a0595",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-19T07:58:49.796Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Gen P",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:13.245Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "SelR",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "4753f5a2652e4c3dbad01a33256e9d10",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4753f5a2652e4c3dbad01a33256e9d10",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-08T16:12:46.759Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "SelR",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:07.394Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "GP",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "81ac752ccfe84c35ac3c3868bfa2b07f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "81ac752ccfe84c35ac3c3868bfa2b07f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-05T15:38:46.534Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "GP",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:08.746Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "VP - MI",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "26be03e22f12410698563d6e8ba13f49",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "26be03e22f12410698563d6e8ba13f49",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-05T15:38:46.527Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "VP - MI",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:12.529Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "VPB - L&S",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "2a9bec1f9cb645628de22d09cf8281dc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2a9bec1f9cb645628de22d09cf8281dc",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-05T15:38:46.527Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "VPB - L&S",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:11.745Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "VP - L&S",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "f88a9c42b9e8436e97db67fd52e7fbf0",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f88a9c42b9e8436e97db67fd52e7fbf0",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-05T15:38:46.540Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "VP - L&S",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:15.532Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Vil P",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "3cfe3f13ec1e4cd5a9c18bb2fcc2118b",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3cfe3f13ec1e4cd5a9c18bb2fcc2118b",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-08T16:12:46.758Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Vil P",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:17.083Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Bal P",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "4b8d6aa480914acfb5fabd2209eaa41f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "4b8d6aa480914acfb5fabd2209eaa41f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-19T07:58:49.805Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Bal P",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:10.235Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "VP - TS",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "5fb0260f418a499a82cb3fa20c20a4dc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5fb0260f418a499a82cb3fa20c20a4dc",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-05T15:38:46.533Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "VP - TS",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:18.651Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Bz P",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "dbd5bc3b0dbe49089bab2ebd49c48d7e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "dbd5bc3b0dbe49089bab2ebd49c48d7e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-19T07:58:49.812Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Bz P",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:09.469Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "VPB - MI",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "8bed843f373c413395bc044351246f8e",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "8bed843f373c413395bc044351246f8e",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-05T15:38:46.534Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "VPB - MI",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:17.822Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Sul P",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "c8eb591982b24225b241e70aa4bf2eef",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c8eb591982b24225b241e70aa4bf2eef",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-19T07:58:49.810Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Sul P",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:10.996Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "VPB - TS",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "bdb9d93a897e443a93a9c1f8aa96b1dc",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "bdb9d93a897e443a93a9c1f8aa96b1dc",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-05T15:38:46.537Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "VPB - TS",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:14.741Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Al P",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "2c2ce387782b42909a1779664c6b70b9",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "2c2ce387782b42909a1779664c6b70b9",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-19T07:58:49.803Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Al P",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:07.661Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "GPB",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "f7753d8850f44deebe9ac2b3cb2f41ba",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "f7753d8850f44deebe9ac2b3cb2f41ba",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-05T15:38:46.540Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "GPB",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-04-02T19:37:14.033Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "UniBP",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "0b25054650b34ea381b5044ec2bf2bde",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "0b25054650b34ea381b5044ec2bf2bde",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-04-19T07:58:49.795Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "UniBP",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-09T19:29:01.662Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Monochromatic Pack - Racer Stitch",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "5b5c608ddf0642beadb6ac22efdc4fcf",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "5b5c608ddf0642beadb6ac22efdc4fcf",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "height": 1440,
+            "md5": "8c17932fef953e42667cec9794e30ef9",
+            "size": 587878,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-05-15T13:33:39.277Z",
+            "url": "https://cdn1.epicgames.com/item/47bf168a2214456fb7bd4c217e2a4fd6/s1_2560x1440-8c17932fef953e42667cec9794e30ef9",
+            "width": 2560
+          },
+          {
+            "height": 1600,
+            "md5": "e1a82f263259a1cc281e3653563c8948",
+            "size": 507127,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-05-15T13:33:43.086Z",
+            "url": "https://cdn1.epicgames.com/item/47bf168a2214456fb7bd4c217e2a4fd6/s2_1200x1600-e1a82f263259a1cc281e3653563c8948",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-05-16T13:46:02.686Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Monochromatic Pack - Racer Stitch",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-30T14:14:47.737Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "VP - M",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "34a68d0d7e84456ba93aa1449d93e476",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "34a68d0d7e84456ba93aa1449d93e476",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-06-12T19:11:54.866Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "VP - M",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-30T14:16:35.581Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "VP - A",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "049bbcb6ceff4d018392d5d9747c834f",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "049bbcb6ceff4d018392d5d9747c834f",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-06-12T19:11:54.862Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "VP - A",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-30T14:18:46.063Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "VP - F",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "fbb76b42ec1c42f5af058386353de813",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "fbb76b42ec1c42f5af058386353de813",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-30T14:18:46.063Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "VP - F",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-30T14:19:37.348Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "VPB - M",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "3c44bce174054b1486c848ff89693a49",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "3c44bce174054b1486c848ff89693a49",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-06-12T19:11:54.867Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "VPB - M",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-30T14:20:04.187Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "VPB - A",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "c4f8c2a1bdd04c4d8228102f660f6af6",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "c4f8c2a1bdd04c4d8228102f660f6af6",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-06-12T19:11:54.867Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "VPB - A",
+        "unsearchable": true
+      },
+      {
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-30T14:20:35.384Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "VPB - F",
+        "developer": "Gameloft SE",
+        "developerId": "o-p55z3hey6z3yqmg4f475wbbcznxvxh",
+        "endOfSupport": false,
+        "entitlementName": "a3c4f59d44b04f64add4e17aaf324c60",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "a3c4f59d44b04f64add4e17aaf324c60",
+        "itemType": "DURABLE",
+        "lastModifiedDate": "2024-05-30T14:20:35.384Z",
+        "mainGameItem": {
+          "id": "48bd73a02a1648e6bea119942f1dba05",
+          "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+          "unsearchable": false
+        },
+        "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "VPB - F",
+        "unsearchable": true
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "48bd73a02a1648e6bea119942f1dba05",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "48bd73a02a1648e6bea119942f1dba05",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "41432df2e81f64f0b390aa21614ad967",
+        "size": 864558,
+        "type": "DieselGameBox",
+        "uploadedDate": "2023-09-28T13:23:49.487Z",
+        "url": "https://cdn1.epicgames.com/item/47bf168a2214456fb7bd4c217e2a4fd6/EGS_DisneySpeedstorm_Gameloft_S1_2560x1440-41432df2e81f64f0b390aa21614ad967",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "4a7069d4bbb207dfe5f33a97dc975c49",
+        "size": 611674,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2023-09-28T13:23:52.226Z",
+        "url": "https://cdn1.epicgames.com/item/47bf168a2214456fb7bd4c217e2a4fd6/EGS_DisneySpeedstorm_Gameloft_S2_1200x1600-4a7069d4bbb207dfe5f33a97dc975c49",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-30T14:20:35.394Z",
+    "namespace": "47bf168a2214456fb7bd4c217e2a4fd6",
+    "releaseInfo": [
+      {
+        "appId": "97864084454f4f248465beb6e1f1cf59",
+        "id": "3194209bc59b40ef8b2819fe42b32f96",
+        "platform": [
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "Disney Speedstorm",
+    "unsearchable": true
+  }
+}

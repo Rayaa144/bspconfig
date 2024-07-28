@@ -1,0 +1,66 @@
+{
+	"general-logs": {
+		"currentLogFile": "/home/paul/.config/heroic/logs/2024-07-27T23_58_52-heroic.log",
+		"lastLogFile": "",
+		"legendaryLogFile": "/home/paul/.config/heroic/logs/2024-07-27T23_58_52-legendary.log",
+		"gogdlLogFile": "/home/paul/.config/heroic/logs/2024-07-27T23_58_52-gogdl.log",
+		"nileLogFile": "/home/paul/.config/heroic/logs/2024-07-27T23_58_52-nile.log"
+	},
+	"userHome": "/home/paul",
+	"language": "en",
+	"settings": {
+		"checkUpdatesInterval": 10,
+		"enableUpdates": false,
+		"addDesktopShortcuts": false,
+		"addStartMenuShortcuts": false,
+		"autoInstallDxvk": true,
+		"autoInstallVkd3d": true,
+		"autoInstallDxvkNvapi": false,
+		"addSteamShortcuts": false,
+		"preferSystemLibs": false,
+		"checkForUpdatesOnStartup": false,
+		"autoUpdateGames": false,
+		"customWinePaths": [],
+		"defaultInstallPath": "/home/paul/Games/Heroic",
+		"libraryTopSection": "disabled",
+		"defaultSteamPath": "/home/paul/.steam/steam",
+		"defaultWinePrefix": "/home/paul/Games/Heroic/Prefixes/default",
+		"hideChangelogsOnStartup": false,
+		"language": "en",
+		"maxWorkers": 0,
+		"minimizeOnLaunch": false,
+		"nvidiaPrime": false,
+		"enviromentOptions": [],
+		"wrapperOptions": [],
+		"showFps": true,
+		"useGameMode": false,
+		"wineCrossoverBottle": "Heroic",
+		"winePrefix": "/home/paul/Games/Heroic/Prefixes/default",
+		"wineVersion": {
+			"bin": "/home/paul/.config/heroic/tools/proton/Proton-GE-latest/proton",
+			"name": "Proton - Proton-GE-latest",
+			"type": "proton"
+		},
+		"enableEsync": true,
+		"enableFsync": true,
+		"enableMsync": false,
+		"eacRuntime": true,
+		"battlEyeRuntime": true,
+		"framelessWindow": false,
+		"beforeLaunchScriptPath": "",
+		"afterLaunchScriptPath": "",
+		"customThemesPath": ""
+	},
+	"userInfo": {
+		"account_id": "91f58a2677d042189263586caebdbd4d",
+		"displayName": "pranoy069",
+		"user": "paul"
+	},
+	"window-props": {
+		"x": 10,
+		"y": 10,
+		"width": 1900,
+		"height": 1060,
+		"maximized": false
+	}
+}

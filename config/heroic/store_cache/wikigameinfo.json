@@ -1,0 +1,293 @@
+{
+	"Ghostwire Tokyo": {
+		"pcgamingwiki": {
+			"steamID": "1475810",
+			"howLongToBeatID": "68156",
+			"metacritic": {
+				"score": "81",
+				"urlid": "ghostwire-tokyo"
+			},
+			"opencritic": {
+				"score": "76",
+				"urlid": "ghostwire-tokyo"
+			},
+			"igdb": {
+				"score": "76",
+				"urlid": "ghostwire-tokyo"
+			},
+			"direct3DVersions": [
+				"12"
+			],
+			"genres": [
+				"ARPG",
+				"Openworld"
+			],
+			"releaseDate": [
+				"Windows: March 25, 2022"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"comp_100": 146479,
+			"comp_main": 40042,
+			"comp_plus": 79963
+		},
+		"gamesdb": {
+			"steamID": "1475810"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 3
+		}
+	},
+	"__timestamp": {
+		"Ghostwire Tokyo": "Sun Jul 28 2024 05:48:31 GMT+0530 (India Standard Time)",
+		"Heroes  Generals WWII": "Sun Jul 28 2024 05:50:19 GMT+0530 (India Standard Time)",
+		"Honkai Impact 3rd": "Sun Jul 28 2024 05:50:23 GMT+0530 (India Standard Time)",
+		"The Long Dark": "Sun Jul 28 2024 05:50:27 GMT+0530 (India Standard Time)",
+		"Rising Storm 2 Vietnam": "Sun Jul 28 2024 05:52:27 GMT+0530 (India Standard Time)",
+		"Rogue Company": "Sun Jul 28 2024 05:52:33 GMT+0530 (India Standard Time)",
+		"Thief": "Sun Jul 28 2024 05:52:54 GMT+0530 (India Standard Time)"
+	},
+	"Heroes  Generals WWII": {
+		"pcgamingwiki": {
+			"steamID": "227940",
+			"howLongToBeatID": "",
+			"metacritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"opencritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"igdb": {
+				"score": "",
+				"urlid": ""
+			},
+			"direct3DVersions": [
+				"11",
+				"12"
+			],
+			"genres": [
+				""
+			],
+			"releaseDate": [
+				"Windows: September 22, 2016"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": null,
+		"gamesdb": {
+			"steamID": "227940"
+		},
+		"steamInfo": {
+			"steamDeckCatagory": 1
+		}
+	},
+	"Honkai Impact 3rd": {
+		"pcgamingwiki": {
+			"steamID": "1671200",
+			"howLongToBeatID": "54968",
+			"metacritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"opencritic": {
+				"score": "",
+				"urlid": ""
+			},
+			"igdb": {
+				"score": "",
+				"urlid": ""
+			},
+			"direct3DVersions": [
+				"11"
+			],
+			"genres": [
+				"Hackandslash",
+				"JRPG"
+			],
+			"releaseDate": [
+				"Windows: September 5, 2019",
+				"OS X: April 25, 2024"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"comp_100": 1375093,
+			"comp_main": 360017,
+			"comp_plus": 646970
+		},
+		"gamesdb": {
+			"steamID": "1672740"
+		},
+		"steamInfo": null
+	},
+	"The Long Dark": {
+		"pcgamingwiki": {
+			"steamID": "305620",
+			"howLongToBeatID": "21471",
+			"metacritic": {
+				"score": "77",
+				"urlid": "the-long-dark"
+			},
+			"opencritic": {
+				"score": "78",
+				"urlid": "4403/the-long-dark"
+			},
+			"igdb": {
+				"score": "81",
+				"urlid": "the-long-dark"
+			},
+			"direct3DVersions": [
+				"11"
+			],
+			"genres": [
+				"Adventure",
+				"Openworld",
+				"Sandbox",
+				"Survival"
+			],
+			"releaseDate": [
+				"Windows: August 1, 2017|ref=<ref name=\"release date\">[http://thelongdark.com/news/posts/frequently-asked-questions/ The Long Dark - News - Frequently Asked Questions]</ref>",
+				"OS X: August 1, 2017|ref=<ref name=\"release date\"/>",
+				"Linux: August 1, 2017|ref=<ref name=\"release date\"/>"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"comp_100": 913016,
+			"comp_main": 75427,
+			"comp_plus": 186447
+		},
+		"gamesdb": {
+			"steamID": "305620"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 3
+		}
+	},
+	"Rising Storm 2 Vietnam": {
+		"pcgamingwiki": {
+			"steamID": "418460",
+			"howLongToBeatID": "26793",
+			"metacritic": {
+				"score": "81",
+				"urlid": "rising-storm-2-vietnam"
+			},
+			"opencritic": {
+				"score": "79",
+				"urlid": "4414/rising-storm-2-vietnam"
+			},
+			"igdb": {
+				"score": "",
+				"urlid": ""
+			},
+			"direct3DVersions": [
+				"11"
+			],
+			"genres": [
+				"Tacticalshooter"
+			],
+			"releaseDate": [
+				"Windows: May 30, 2017"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"comp_100": 0,
+			"comp_main": 6090,
+			"comp_plus": 201600
+		},
+		"gamesdb": {
+			"steamID": "418460"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "bronze",
+			"steamDeckCatagory": 1
+		}
+	},
+	"Rogue Company": {
+		"pcgamingwiki": {
+			"steamID": "872200",
+			"howLongToBeatID": "70213",
+			"metacritic": {
+				"score": "75",
+				"urlid": "rogue-company"
+			},
+			"opencritic": {
+				"score": "75",
+				"urlid": "9865/rogue-company"
+			},
+			"igdb": {
+				"score": "",
+				"urlid": ""
+			},
+			"direct3DVersions": [
+				"11"
+			],
+			"genres": [
+				"Shooter"
+			],
+			"releaseDate": [
+				"Windows: June 30, 2020"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"comp_100": 116622,
+			"comp_main": 52632,
+			"comp_plus": 97104
+		},
+		"gamesdb": {
+			"steamID": "872200"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "silver",
+			"steamDeckCatagory": 2
+		}
+	},
+	"Thief": {
+		"pcgamingwiki": {
+			"steamID": "1659420",
+			"howLongToBeatID": "101083",
+			"metacritic": {
+				"score": "88",
+				"urlid": "uncharted-legacy-of-thieves-collection"
+			},
+			"opencritic": {
+				"score": "88",
+				"urlid": "12559/uncharted-legacy-of-thieves-collection"
+			},
+			"igdb": {
+				"score": "91",
+				"urlid": "uncharted-legacy-of-thieves-collection"
+			},
+			"direct3DVersions": [
+				"12"
+			],
+			"genres": [
+				"Action",
+				"Adventure"
+			],
+			"releaseDate": [
+				"Windows: October 19, 2022|ref=<ref name=\"UnchartedPrePurchaseTrailer\">{{Refurl|url=https://www.youtube.com/watch?v=eYJMMLg2FpU|title=Pre-purchase Trailer|date=2022-09-15"
+			]
+		},
+		"applegamingwiki": null,
+		"howlongtobeat": {
+			"comp_100": 162203,
+			"comp_main": 39518,
+			"comp_plus": 81010
+		},
+		"gamesdb": {
+			"steamID": "239160"
+		},
+		"steamInfo": {
+			"compatibilityLevel": "gold",
+			"steamDeckCatagory": 2
+		}
+	}
+}

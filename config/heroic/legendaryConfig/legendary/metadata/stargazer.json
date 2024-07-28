@@ -1,0 +1,103 @@
+{
+  "app_name": "stargazer",
+  "app_title": "Magic The Gathering Arena",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "stargazer",
+      "asset_id": "stargazer",
+      "build_version": "6218.1078427",
+      "catalog_item_id": "3debdea646834df18a900bcbe76b9013",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "5fdcc0dc67294af3be740f362bd976fd"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2019-05-20T18:23:14.550Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "MagicTheGathering"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "{}"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "Magic The Gathering Arena",
+    "developer": "Wizards of the Coast",
+    "developerId": "o-xlb74ml56wsa5dcfcgrpvu4ywndlmm",
+    "endOfSupport": false,
+    "entitlementName": "3debdea646834df18a900bcbe76b9013",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "3debdea646834df18a900bcbe76b9013",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "9b96700ebd055b81496de046eb9ad386",
+        "size": 1017259,
+        "type": "DieselGameBox",
+        "uploadedDate": "2024-04-16T16:05:16.020Z",
+        "url": "https://cdn1.epicgames.com/item/5fdcc0dc67294af3be740f362bd976fd/mtg_outlaws_wide_2560x1440-9b96700ebd055b81496de046eb9ad386",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "3082eacb0f04a5e79749d4e585f1ed8d",
+        "size": 886780,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2024-04-16T16:05:18.892Z",
+        "url": "https://cdn1.epicgames.com/item/5fdcc0dc67294af3be740f362bd976fd/mtg_outlaws_tall_1200x1600-3082eacb0f04a5e79749d4e585f1ed8d",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-04-16T16:05:49.552Z",
+    "namespace": "5fdcc0dc67294af3be740f362bd976fd",
+    "releaseInfo": [
+      {
+        "appId": "stargazer",
+        "dateAdded": "2019-08-15T00:00:00.000Z",
+        "id": "281de43179d84854802776d0a732efad",
+        "platform": [
+          "Windows",
+          "Mac",
+          "Win32"
+        ]
+      }
+    ],
+    "status": "ACTIVE",
+    "title": "Magic The Gathering Arena",
+    "unsearchable": false
+  }
+}

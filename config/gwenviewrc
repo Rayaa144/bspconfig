@@ -1,0 +1,17 @@
+[General]
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/2024-07-25-002014_1920x1080_scrot.png
+File2[$e]=$HOME/Downloads/wallpaperbetter.com_1284x2778.jpg
+File3[$e]=$HOME/Downloads/wallpaperbetter.com_1920x1080.jpg
+Name1[$e]=2024-07-25-002014_1920x1080_scrot.png
+Name2[$e]=wallpaperbetter.com_1284x2778.jpg
+Name3[$e]=wallpaperbetter.com_1920x1080.jpg
+
+[SideBar]
+InformationSplitterSizes=210,243

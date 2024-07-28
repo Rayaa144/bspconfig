@@ -1,0 +1,296 @@
+{
+  "app_name": "2dc25e07aa624edf9ff132c09ce23a7c",
+  "app_title": "GigaBash",
+  "asset_infos": {
+    "Windows": {
+      "app_name": "2dc25e07aa624edf9ff132c09ce23a7c",
+      "asset_id": "2dc25e07aa624edf9ff132c09ce23a7c",
+      "build_version": "243",
+      "catalog_item_id": "b61305fc1b184d289c6707ef7ee0f72b",
+      "label_name": "Live-Windows",
+      "metadata": {},
+      "namespace": "16fc138ed83846bc90d923fe0d87ad72"
+    }
+  },
+  "base_urls": [],
+  "metadata": {
+    "ageGatings": {},
+    "applicationId": "",
+    "categories": [
+      {
+        "path": "public"
+      },
+      {
+        "path": "games"
+      },
+      {
+        "path": "applications"
+      }
+    ],
+    "creationDate": "2024-03-20T18:24:29.231Z",
+    "customAttributes": {
+      "CanRunOffline": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CanSkipKoreanIdVerification": {
+        "type": "STRING",
+        "value": "true"
+      },
+      "CloudSaveFolder": {
+        "type": "STRING",
+        "value": "{AppData}/TitanXX/Saved/SaveGames"
+      },
+      "FolderName": {
+        "type": "STRING",
+        "value": "Gigabash"
+      },
+      "MaxSizeMB": {
+        "type": "STRING",
+        "value": "100"
+      },
+      "MonitorPresence": {
+        "type": "STRING",
+        "value": "false"
+      },
+      "PresenceId": {
+        "type": "STRING",
+        "value": "16fc138ed83846bc90d923fe0d87ad72"
+      },
+      "RequirementsJson": {
+        "type": "STRING",
+        "value": "[]"
+      },
+      "UseAccessControl": {
+        "type": "STRING",
+        "value": "false"
+      }
+    },
+    "description": "GigaBash",
+    "developer": "Passion Republic Games",
+    "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+    "dlcItemList": [
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-03-20T18:24:29.233Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Lisbon Tokyo",
+        "developer": "Passion Republic Games",
+        "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+        "endOfSupport": false,
+        "entitlementName": "067620b978db40dfb9f8fda077b82040",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "067620b978db40dfb9f8fda077b82040",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "GigaBash - Godzilla 4 Kaiju Pack-222268",
+            "height": 1440,
+            "md5": "f1ea4c931b8b45561d454346584485e0",
+            "size": 965893,
+            "type": "DieselGameBox",
+            "uploadedDate": "2022-12-08T14:04:22.876Z",
+            "url": "https://cdn1.epicgames.com/offer/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBashGodzilla4KaijuPack_PassionRepublicGames_DLC_S1_2560x1440-f1ea4c931b8b45561d454346584485e0",
+            "width": 2560
+          },
+          {
+            "alt": "Download GigaBash GigaBash - Godzilla 4 Kaiju Pack Offer",
+            "height": 1600,
+            "md5": "32ba6e8d87adae8ac6741929fe8b4020",
+            "size": 989160,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-03-27T10:26:37.063Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/914d2eef9b3f4fb19392214b77061ece/gigabash-1wvgx.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-05-17T02:52:35.461Z",
+        "mainGameItem": {
+          "id": "b61305fc1b184d289c6707ef7ee0f72b",
+          "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+          "unsearchable": false
+        },
+        "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lisbon Tokyo",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-03-20T18:24:29.229Z",
+        "customAttributes": {
+          "CanRunOffline": {
+            "type": "STRING",
+            "value": "true"
+          }
+        },
+        "description": "Lisbon DLC2",
+        "developer": "Passion Republic Games",
+        "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+        "endOfSupport": false,
+        "entitlementName": "36c7f7d4220547229e7b32b9f17ea426",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [
+          "egstore"
+        ],
+        "id": "36c7f7d4220547229e7b32b9f17ea426",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "GigaBash - Ultraman 4 Characters Pack-932061",
+            "height": 1440,
+            "md5": "8063aa5f06409f9799e6e84033eb6c41",
+            "size": 1011531,
+            "type": "DieselGameBox",
+            "uploadedDate": "2023-11-07T14:45:40.429Z",
+            "url": "https://cdn1.epicgames.com/offer/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBashUltraman4CharactersPack_PassionRepublicGames_DLC_S1_2560x1440-8063aa5f06409f9799e6e84033eb6c41",
+            "width": 2560
+          },
+          {
+            "alt": "Download GigaBash GigaBash - Ultraman 4 Characters Pack Offer",
+            "height": 1600,
+            "md5": "55ec45e7ac5411ce702b4bf393d4fc3e",
+            "size": 958143,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-03-27T10:27:26.148Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/914d2eef9b3f4fb19392214b77061ece/gigabash-1sjxv.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-05-17T02:52:35.461Z",
+        "mainGameItem": {
+          "id": "b61305fc1b184d289c6707ef7ee0f72b",
+          "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+          "unsearchable": false
+        },
+        "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "Lisbon DLC2",
+        "unsearchable": true
+      },
+      {
+        "ageGatings": {},
+        "applicationId": "",
+        "categories": [
+          {
+            "path": "addons"
+          }
+        ],
+        "creationDate": "2024-05-17T02:52:35.484Z",
+        "customAttributes": {},
+        "description": "The Nemeses of Godzilla have arrived! Play as King Ghidorah and Hedorah to challenge #Godzilla for the ultimate Kaiju showdown in the GigaBash universe. Both characters feature a unique skillset and playstyle inspired by iconic moments seen in their films.",
+        "developer": "Passion Republic Games",
+        "developerId": "o-rbx4uqtxzlz5fmxe82f2frtebbz92h",
+        "endOfSupport": false,
+        "entitlementName": "e539fa24318e45499b8e9549212b88fb",
+        "entitlementType": "EXECUTABLE",
+        "eulaIds": [],
+        "id": "e539fa24318e45499b8e9549212b88fb",
+        "itemType": "DURABLE",
+        "keyImages": [
+          {
+            "alt": "GigaBash GigaBash | Godzilla: Nemesis DLC Offer",
+            "height": 1440,
+            "md5": "e2e154b5dab7cad9906ff623514c6331",
+            "size": 2722589,
+            "type": "DieselGameBox",
+            "uploadedDate": "2024-04-20T04:12:06.103Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/914d2eef9b3f4fb19392214b77061ece/gigabash-1ycvl.jpg",
+            "width": 2560
+          },
+          {
+            "alt": "Download GigaBash GigaBash | Godzilla: Nemesis DLC Offer",
+            "height": 1600,
+            "md5": "5d5715e6206191419e82c0ab6675bbcf",
+            "size": 1632859,
+            "type": "DieselGameBoxTall",
+            "uploadedDate": "2024-04-20T04:13:23.822Z",
+            "url": "https://cdn1.epicgames.com/spt-assets/914d2eef9b3f4fb19392214b77061ece/gigabash-rf2f9.jpg",
+            "width": 1200
+          }
+        ],
+        "lastModifiedDate": "2024-05-17T02:52:35.484Z",
+        "mainGameItem": {
+          "id": "b61305fc1b184d289c6707ef7ee0f72b",
+          "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+          "unsearchable": false
+        },
+        "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+        "releaseInfo": [],
+        "requiresSecureAccount": false,
+        "status": "ACTIVE",
+        "title": "GigaBash | Godzilla: Nemesis DLC",
+        "unsearchable": false
+      }
+    ],
+    "endOfSupport": false,
+    "entitlementName": "b61305fc1b184d289c6707ef7ee0f72b",
+    "entitlementType": "EXECUTABLE",
+    "eulaIds": [
+      "egstore"
+    ],
+    "id": "b61305fc1b184d289c6707ef7ee0f72b",
+    "installModes": [],
+    "itemType": "DURABLE",
+    "keyImages": [
+      {
+        "height": 1440,
+        "md5": "f0d657610403750a33b2ed4a372d21ec",
+        "size": 959193,
+        "type": "DieselGameBox",
+        "uploadedDate": "2022-08-04T14:54:49.892Z",
+        "url": "https://cdn1.epicgames.com/item/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBash_PassionRepublicGames_S1_2560x1440-f0d657610403750a33b2ed4a372d21ec",
+        "width": 2560
+      },
+      {
+        "height": 1600,
+        "md5": "76be44277917f4d28d1bad123938d27d",
+        "size": 811547,
+        "type": "DieselGameBoxTall",
+        "uploadedDate": "2022-08-04T14:54:59.707Z",
+        "url": "https://cdn1.epicgames.com/item/16fc138ed83846bc90d923fe0d87ad72/EGS_GigaBash_PassionRepublicGames_S2_1200x1600-76be44277917f4d28d1bad123938d27d",
+        "width": 1200
+      }
+    ],
+    "lastModifiedDate": "2024-05-17T02:52:35.950Z",
+    "namespace": "16fc138ed83846bc90d923fe0d87ad72",
+    "releaseInfo": [
+      {
+        "appId": "2dc25e07aa624edf9ff132c09ce23a7c",
+        "id": "68b3afb7913a4b3d852c2516c42b44e2",
+        "platform": [
+          "Win32",
+          "Windows"
+        ]
+      }
+    ],
+    "requiresSecureAccount": false,
+    "status": "ACTIVE",
+    "title": "GigaBash",
+    "unsearchable": true
+  }
+}

@@ -1,0 +1,176 @@
+{
+	"a93cd6111251461c953776a0c4ea4d80": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-ghostwiretokyo-tangogameworks-s2-1200x1600-bc5b488534af.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Tango Gameworks",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Bethesda Softworks",
+			"description": "# Face the unknown, uncover the truth and save the city \n\nTokyo is overrun by deadly supernatural forces, perpetrated by a dangerous occultist, causing Tokyo’s population to vanish in an instant. Ally with a powerful spectral entity on their quest for vengeance and master a powerful arsenal of abilities to unravel the dark truth behind the disappearance as you FACE THE UNKNOWN in Ghostwire: Tokyo. \n\n# A beautifully haunted Tokyo \n\nExplore a unique vision of Tokyo twisted by a supernatural presence. From its ultra-modern cityscape to its traditional temples and narrow alleyways, discover a hauntingly beautiful city teeming with Yokai - vengeful spirts spirits that prowl the streets. Discover iconic landmarks like Shibuya Crossing and Tokyo Tower, stunningly rendered with incredible detail and built to take advantage of next-generation technology. Experience the city frozen in time when the city’s population disappeared, and travel to the surreal underworld on your quest to save your family. \n\n# Devastating Elemental Abilities  \n\nWield a combination of upgradeable elemental powers and ghost-hunting skills to combat the supernatural threat. Use your ethereal abilities to ascend to the to the top of Tokyo's skyline and soar over the streets to discover new missions or even get the drop on your enemies.\n\n# Explore all-new content with the Ghostwire: Tokyo Spider's Thread Update\n\nFree for all players, the Spider's Thread update contains several additions to the base game, including a new area to explore, extended cutscenes, new side-missions, all-new enemies, added quality of life improvements, extra combat skills and a new roguelite \"The Spider's Thread\" game mode!",
+			"shortDescription": "Tokyo's population has vanished and deadly supernatural forces prowl the streets. Hone your otherwordly abilities to unravel the truth behind the disappearance and save the city. Explore brand-new single player content with the Spider's Thread update!",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "64bit Windows10 (version 1909 or higher)",
+				"recommended": "64bit Windows10 (version 1909 or higher)"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Core i7 4770K @3.5ghz / Ryzen 5 2600",
+				"recommended": "Core i7 6700 @3.4ghz / Ryzen 5 2600"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "12 GB",
+				"recommended": "16 GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "26GB Available (SSD Recommended)",
+				"recommended": "26GB Available (SSD Recommended)"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "DirectX",
+				"minimum": "Version 12",
+				"recommended": "Version 12"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": "GTX1060 / RX5500XT / Arc A380*  (VRAM 6GB or higher)",
+				"recommended": "GTX1080 / RX5600XT / Arc A750* (VRAM 6GB or higher)"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Other",
+				"minimum": "*Please check Intel's website for Arc compatible CPU and motherboard requirements.",
+				"recommended": "*Please check Intel's website for Arc compatible CPU and motherboard requirements."
+			}
+		],
+		"releaseDate": "2022-03-24T23:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/ghostwire-tokyo"
+	},
+	"__timestamp": {
+		"a93cd6111251461c953776a0c4ea4d80": "Sun Jul 28 2024 05:48:30 GMT+0530 (India Standard Time)",
+		"58dfcd1952ee48c1a1fa31c6ace5fe3d": "Sun Jul 28 2024 05:50:22 GMT+0530 (India Standard Time)",
+		"933ada2ec45e4184ae840d64c99e0ba9": "Sun Jul 28 2024 05:52:32 GMT+0530 (India Standard Time)"
+	},
+	"58dfcd1952ee48c1a1fa31c6ace5fe3d": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/egs-thelongdark-hinterlandstudioinc-s6-1200x1600-725926878cfb.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "Hinterland Studio Inc.",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Hinterland Studio Inc.",
+			"description": "Bright lights flare across the night sky. The wind rages outside the thin walls of your wooden cabin. A wolf howls in the distance. You look at the meager supplies in your pack, and wish for the days before the power mysteriously went out. How much longer will you survive?\n\nWelcome to THE LONG DARK, the innovative exploration-survival experience Wired magazine calls \"the pinnacle of an entire genre\".\n\nThe Long Dark is a thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. There are no zombies -- only you, the cold, and all the threats Mother Nature can muster.\n\n# WINTERMUTE\n\nThe episodic story-mode for The Long Dark, WINTERMUTE, includes two of the five episodes that form its Season One. Both episodes were given a complete overhaul in December 2018, as part of the Redux Update: new mission structure, story beats, dialogue, animations etc.\n\n# EPISODE ONE - “Do Not Go Gentle”\n\nBush pilot Will Mackenzie (player character) and Dr. Astrid Greenwood are separated after their plane crashes deep in the Northern Canadian wilderness in the aftermath of a mysterious flash of light in the sky. Struggling to survive as he desperately searches for Astrid, Mackenzie comes across the small town of Milton, where he begins to understand the scope of this quiet apocalypse.\n\n# EPISODE TWO - “Luminance Fugue”\n\nMackenzie’s search for Astrid takes him deeper into the savage Winter wilderness. A mysterious trapper may be the key to finding Astrid, but can he be trusted?\n\n# EPISODE THREE - \"Crossroads Elegy\"\n\nIn the aftermath of events in Milton, an enigmatic stranger rescues Dr. Astrid Greenwood (player character) from near death. Facing the blizzards of Pleasant Valley, Astrid must bring all her skills as a doctor to bear on the survivors she encounters. But will she find Mackenzie, and get closer to the mystery that's taking them to Perseverance Mills?\n\n# EPISODE FOUR: FURY, THEN SILENCE\n\nA murderous gang of convicts has captured Mackenzie. Desperate to escape one of the darkest corners of Great Bear Island, he must somehow survive his fiercest enemy yet. Can Mackenzie recover the Hardcase, continue his search for Astrid, and also save the innocents caught up in this deadly confrontation?\n\nThe four episodes of WINTERMUTE represent approximately 30 hours of gameplay. Episodes Five will be included in the price of the game, and will be unlocked for free as they are released.\n\nFeatures performances by Jennifer Hale, Mark Meer, David Hayter, and Elias Toufexis (Episode Three), and the music of Cris Velasco.\n\n# SURVIVAL MODE\n\nSurvival is your only goal, and death your only end. Make your own survival story with every game.\n\nFour distinct Experience Modes let you find a challenge level you are comfortable with, such as Pilgrim Mode, which is meant to be quiet and pensive, all the way to Interloper Mode, where only the most experienced survivors have a chance to last a week. If none of the four Experiences suits you, use Custom Mode settings to tailor your Survival Mode game to your specific tastes.\n\nFeatures the music of Sascha Dikiciyan.\n\n# CHALLENGES\n\nSeveral standalone Challenge Modes offer objective-based experiences designed to last 1-3 hours each, such as Whiteout -- the race to gather enough supplies to prepare for a monster blizzard. Or Hunted, where you need to escape a murderous Bear. Complete them to unlock Feats that provide long-term gameplay benefits in Survival Mode. Five Challenges exist at launch, with more on the way in future updates.\n\n# FUTURE UPDATES\n\nIn addition to releasing the remaining three episodes of WINTERMUTE, we intend to continue updating Survival Mode, as we have done with about 100 updates/hotfixes over the past three years of Early Access. Keep in mind that your purchase of The Long Dark entitles you to all five episodes of WINTERMUTE, as well as the free updates we release to Survival Mode along the way.",
+			"shortDescription": "A thoughtful, exploration-survival experience that challenges solo players to think for themselves as they explore an expansive frozen wilderness in the aftermath of a geomagnetic disaster. Only you, the cold, and all the threats Mother Nature can muster.",
+			"title": "Welcome to the Quiet Apocalypse",
+			"developerLogo": {
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Win 7",
+				"recommended": "Win 10"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Processor",
+				"minimum": "Dual-Core Intel i5 CPU @ 2GHz+",
+				"recommended": "Intel i7 CPU @ 2.6GHz or higher"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Memory",
+				"minimum": "4 GB RAM",
+				"recommended": "8 GB RAM"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "8GB",
+				"recommended": "8GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Direct X",
+				"minimum": "Directx 11"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Graphics",
+				"minimum": " Intel 4xxx Series w/ 512MB VRAM or better",
+				"recommended": "nVidia GTX 1060+"
+			}
+		],
+		"releaseDate": "2014-09-22T15:00:00",
+		"storeUrl": "https://www.epicgames.com/store/product/the-long-dark"
+	},
+	"933ada2ec45e4184ae840d64c99e0ba9": {
+		"about": {
+			"image": {
+				"src": "https://cdn2.unrealengine.com/roco-egs-3-4-portraitproductimg-1200x1600-1200x1600-8db7fe6bbe07.jpg",
+				"_type": "Diesel Image"
+			},
+			"developerAttribution": "First Watch Games",
+			"_type": "Diesel Product About",
+			"publisherAttribution": "Hi-Rez Studios",
+			"description": "Gear up and drop in to Rogue Company, the third-person tactical action shooter that puts the fate of the world in your hands. Defeat the enemy team in objective and action based game modes featuring exotic locales, thrilling gun-play, and explosions…lots of explosions. Assemble your team and play FREE now!\n\nSkydive into high-stakes missions in hot spots around the globe. Take part in action-packed 4v4 and 6v6 game modes; control the point in King of the Hill, fight to survive in Strikeout, or plant and defuse bombs in Demolition. Looking to be more competitive? Join the Ranked queue to show off your skills. Or relax in a rotating Limited-Time Mode.\n\nThroughout each match, you’ll earn cash to spend in the in-game store. Choose how you approach each round -- will you buy a katana to get up-and-personal with your foes, or the Tyr sniper rifle to take them down from afar? You can also unlock high-tech gadgets, ranging from Dima’s favorite explosives to a disorienting tear gas.\n\nRogue Company is 100% Free to Play. All Rogues can be unlocked free and come with additional free rewards that you can collect just by playing the game. Even better: Rogue Company supports full cross-play and cross-progression, meaning you can play with your friends regardless of platform, and bring your unlocks wherever you game.\n\nAre you ready to save the day, look good, and get paid? Download Rogue Company and play for FREE today!",
+			"shortDescription": "Join 20+ million players in Rogue Company, the ultimate third-person tactical action shooter! Become an agent of Rogue Company and wield powerful weapons, high-tech gadgets, and game-changing abilities. Accept the mission and jump into a variety of 4v4 and 6v6 game modes. Play FREE today!",
+			"title": "Rogue Company",
+			"developerLogo": {
+				"src": "https://cdn2.unrealengine.com/roco-egs-basegame-devlogo-200x200-200x200-491680520.png",
+				"_type": "Diesel Image"
+			}
+		},
+		"reqs": [
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "OS",
+				"minimum": "Windows 10",
+				"recommended": "Windows 10"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "CPU",
+				"minimum": "Intel(R) Core i5-2320",
+				"recommended": "Intel Core i7"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "GPU",
+				"minimum": "Nvidia GTX 650",
+				"recommended": "Nvidia GTX 960"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "RAM",
+				"minimum": "4GB",
+				"recommended": "16GB"
+			},
+			{
+				"_type": "Diesel System Detail Item",
+				"title": "Storage",
+				"minimum": "20GB",
+				"recommended": "20GB"
+			}
+		],
+		"storeUrl": "https://www.epicgames.com/store/product/rogue-company"
+	}
+}

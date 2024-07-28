@@ -1,0 +1,547 @@
+(05:28:52) INFO:    [Legendary]:        Legendary location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary
+(05:28:52) INFO:    [Gog]:              GOGDL location: /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl
+(05:28:52) INFO:    [Connection]:       Connectivity: check-online
+(05:28:52) INFO:    [Connection]:       Pinging external endpoints
+(05:28:52) INFO:    [Gog]:              Checking for existing gog manifests
+(05:28:53) INFO:    [Connection]:       Connectivity: online
+(05:28:53) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/paul/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/paul/.config/heroic/gog_store/auth.json auth
+(05:28:55) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(05:28:55) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/paul/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/paul/.config/heroic/gog_store/auth.json --version
+(05:28:55) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/paul/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+(05:28:56) INFO:    [Backend]:          
+System Information:
+CPU: 8x AMD Ryzen 5 3550H with Radeon Vega Mobile Gfx
+Memory: 7.73 GB (used: 1.93 GB)
+GPUs:
+  GPU 0:
+    Name: Advanced Micro Devices, Inc. [AMD/ATI] Picasso/Raven 2 [Radeon Vega Series / Radeon Vega Mobile Series]
+    IDs: D=15d8 V=1002 SD=18f1 SV=1043
+    Driver: amdgpu
+  GPU 1:
+    Name: NVIDIA Corporation TU117M [GeForce GTX 1650 Mobile / Max-Q]
+    IDs: D=1f91 V=10de SD=10cf SV=1043
+    Driver: nvidia
+OS: Arch Linux 6.9.10-zen1-1-zen (linux)
+
+The current system is not a Steam Deck
+We are not running inside a Flatpak container
+
+Software Versions:
+  Heroic: 2.14.1 Flame Emperor Sabo
+  Legendary: 0.20.34 Direct Intervention
+  gogdl: 1.0.1
+  Nile: 1.0.2 Jonathan Joestar
+
+(05:29:02) INFO:    [Backend]:          DRM module staus {
+  "oimompecagnajdejgnnjijobebaeigek": {
+    "status": "updated",
+    "title": "Widevine Content Decryption Module",
+    "version": "4.10.2710.0"
+  }
+}
+(05:29:02) INFO:    [Backend]:          User Not Found, removing it from Store
+(05:29:02) ERROR:   [Gog]:              Unable to syncQueued playtime, userData not present
+(05:29:02) WARNING: [Backend]:          Protocol already registered.
+(05:29:03) INFO:    [Backend]:          Frontend Ready
+(05:29:03) INFO:    [Backend]:          Checking for new Heroic Updates
+(05:29:03) INFO:    [Backend]:          Checking for current version changelog
+(05:29:03) INFO:    [Frontend]:         Updated to a new version, cleaaning up the cache.
+(05:29:03) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary cleanup
+(05:29:03) INFO:    [Frontend]:         Refreshing undefined Library
+(05:29:03) WARNING: [Backend]:          refresh not implemented on Sideload Library Manager
+(05:29:03) INFO:    [Legendary]:        Refreshing library...
+(05:29:04) INFO:    [Backend]:          AreWeAntiCheatYet data downloaded
+(05:29:05) DEBUG:   [Backend]:          Unable to load Steam Libraries, libraryfolders.vdf not found
+(05:29:05) INFO:    [Winetricks]:       Downloading Winetricks
+(05:29:05) INFO:    [WineDownloader]:   Updating wine versions info
+(05:29:05) INFO:    [WineDownloader]:   Fetching upstream information...
+(05:29:05) INFO:    [DXVKInstaller]:    Updating vkd3d to: vkd3d-proton-2.13
+(05:29:06) INFO:    [DXVKInstaller]:    Updating dxvk to: dxvk-2.4
+(05:29:06) INFO:    [DXVKInstaller]:    Updating dxvk-nvapi to: dxvk-nvapi-v0.7.1
+(05:29:07) INFO:    [WineDownloader]:   wine versions updated
+(05:29:07) INFO:    [WineDownloader]:   Start installation of wine version Wine-GE-Proton8-26
+(05:29:07) INFO:    [WineDownloader]:   Updating wine versions info
+(05:29:07) INFO:    [WineDownloader]:   Fetching upstream information...
+(05:29:08) INFO:    [Backend]:          Starting the Download Queue
+(05:29:08) INFO:    [WineDownloader]:   wine versions updated
+(05:29:17) INFO:    [DownloadManager]:  Downloader: Finished downloading https://github.com/Heroic-Games-Launcher/vkd3d-proton/releases/download/v2.13/vkd3d-proton-2.13.tar.xz
+(05:29:17) INFO:    [DXVKInstaller]:    Downloaded vkd3d, extracting...
+(05:29:17) INFO:    [Backend]:          Extracting /home/paul/.config/heroic/tools/vkd3d/vkd3d-proton-2.13.tar.xz to /home/paul/.config/heroic/tools/vkd3d/vkd3d-proton-2.13 using native tar
+(05:29:17) INFO:    [DXVKInstaller]:    vkd3d updated!
+(05:29:18) INFO:    [DownloadManager]:  Downloader: Finished downloading https://github.com/jp7677/dxvk-nvapi/releases/download/v0.7.1/dxvk-nvapi-v0.7.1.tar.gz
+(05:29:18) INFO:    [DXVKInstaller]:    Downloaded dxvk-nvapi, extracting...
+(05:29:18) INFO:    [Backend]:          Extracting /home/paul/.config/heroic/tools/dxvk-nvapi/dxvk-nvapi-v0.7.1.tar.gz to /home/paul/.config/heroic/tools/dxvk-nvapi/dxvk-nvapi-v0.7.1 using native tar
+(05:29:18) INFO:    [DXVKInstaller]:    dxvk-nvapi updated!
+(05:29:18) INFO:    [Backend]:          Downloaded: 1.35 KB / 222.76 MB  @231.44 Bytes/s (0.00%)
+(05:29:21) INFO:    [Backend]:          Downloaded: 1.68 MB / 222.76 MB  @684.7 KB/s (0.76%)
+(05:29:22) INFO:    [DownloadManager]:  Downloader: Finished downloading https://github.com/doitsujin/dxvk/releases/download/v2.4/dxvk-2.4.tar.gz
+(05:29:22) INFO:    [DXVKInstaller]:    Downloaded dxvk, extracting...
+(05:29:22) INFO:    [Backend]:          Extracting /home/paul/.config/heroic/tools/dxvk/dxvk-2.4.tar.gz to /home/paul/.config/heroic/tools/dxvk/dxvk-2.4 using native tar
+(05:29:22) INFO:    [DXVKInstaller]:    dxvk updated!
+(05:29:23) INFO:    [Backend]:          Downloaded: 4.37 MB / 222.76 MB  @1.07 MB/s (1.96%)
+(05:29:26) INFO:    [Backend]:          Downloaded: 8.38 MB / 222.76 MB  @1.6 MB/s (3.76%)
+(05:29:28) INFO:    [Backend]:          Downloaded: 11.64 MB / 222.76 MB  @1.19 MB/s (5.22%)
+(05:29:31) INFO:    [Backend]:          Downloaded: 15.6 MB / 222.76 MB  @1.58 MB/s (7.00%)
+(05:29:33) INFO:    [Backend]:          Downloaded: 19.69 MB / 222.76 MB  @1.63 MB/s (8.84%)
+(05:29:36) INFO:    [Backend]:          Downloaded: 23.69 MB / 222.76 MB  @1.6 MB/s (10.64%)
+(05:29:38) INFO:    [Backend]:          Downloaded: 27.66 MB / 222.76 MB  @1.58 MB/s (12.42%)
+(05:29:40) INFO:    [Backend]:          Downloaded: 30.92 MB / 222.76 MB  @1.51 MB/s (13.88%)
+(05:29:43) INFO:    [Backend]:          Downloaded: 34.57 MB / 222.76 MB  @1.45 MB/s (15.52%)
+(05:29:46) INFO:    [Backend]:          Downloaded: 39.17 MB / 222.76 MB  @1.6 MB/s (17.59%)
+(05:29:48) INFO:    [Backend]:          Downloaded: 42.79 MB / 222.76 MB  @1.44 MB/s (19.21%)
+(05:29:51) INFO:    [Backend]:          Downloaded: 46.21 MB / 222.76 MB  @1.36 MB/s (20.75%)
+(05:29:53) INFO:    [Backend]:          Downloaded: 49.57 MB / 222.76 MB  @1.34 MB/s (22.25%)
+(05:29:55) INFO:    [Backend]:          Downloaded: 51.96 MB / 222.76 MB  @1.32 MB/s (23.32%)
+(05:29:58) INFO:    [Backend]:          Downloaded: 55.94 MB / 222.76 MB  @1.59 MB/s (25.11%)
+(05:30:00) INFO:    [Backend]:          Downloaded: 59.65 MB / 222.76 MB  @1.48 MB/s (26.78%)
+(05:30:03) INFO:    [Backend]:          Downloaded: 63.26 MB / 222.76 MB  @1.43 MB/s (28.40%)
+(05:30:05) INFO:    [Backend]:          Downloaded: 66.8 MB / 222.76 MB  @1.42 MB/s (29.99%)
+(05:30:06) INFO:    [Backend]:          Downloaded: 68.7 MB / 222.76 MB  @1.6 MB/s (30.84%)
+(05:30:08) INFO:    [Backend]:          Downloaded: 71.6 MB / 222.76 MB  @1.64 MB/s (32.14%)
+(05:30:11) INFO:    [Backend]:          Downloaded: 75.65 MB / 222.76 MB  @1.62 MB/s (33.96%)
+(05:30:13) INFO:    [Backend]:          Downloaded: 79.53 MB / 222.76 MB  @1.55 MB/s (35.70%)
+(05:30:16) INFO:    [Backend]:          Downloaded: 83.73 MB / 222.76 MB  @1.68 MB/s (37.59%)
+(05:30:19) INFO:    [Backend]:          Downloaded: 88.52 MB / 222.76 MB  @1.67 MB/s (39.74%)
+(05:30:21) INFO:    [Backend]:          Downloaded: 91.85 MB / 222.76 MB  @1.59 MB/s (41.24%)
+(05:30:23) INFO:    [Backend]:          Downloaded: 94.79 MB / 222.76 MB  @1.17 MB/s (42.55%)
+(05:30:26) INFO:    [Backend]:          Downloaded: 98.91 MB / 222.76 MB  @1.64 MB/s (44.40%)
+(05:30:28) INFO:    [Backend]:          Downloaded: 102.78 MB / 222.76 MB  @1.54 MB/s (46.14%)
+(05:30:30) INFO:    [Backend]:          Downloaded: 106.01 MB / 222.76 MB  @1.58 MB/s (47.59%)
+(05:30:33) INFO:    [Backend]:          Downloaded: 109 MB / 222.76 MB  @1.19 MB/s (48.93%)
+(05:30:35) INFO:    [Backend]:          Downloaded: 113.15 MB / 222.76 MB  @1.65 MB/s (50.80%)
+(05:30:38) INFO:    [Backend]:          Downloaded: 117.19 MB / 222.76 MB  @1.61 MB/s (52.61%)
+(05:30:41) INFO:    [Backend]:          Downloaded: 121.33 MB / 222.76 MB  @1.1 MB/s (54.47%)
+(05:30:44) INFO:    [Backend]:          Downloaded: 125.4 MB / 222.76 MB  @1.62 MB/s (56.30%)
+(05:30:46) INFO:    [Backend]:          Downloaded: 128.57 MB / 222.76 MB  @1.61 MB/s (57.72%)
+(05:30:47) INFO:    [Backend]:          Downloaded: 131.27 MB / 222.76 MB  @1.72 MB/s (58.93%)
+(05:30:50) INFO:    [Backend]:          Downloaded: 134.41 MB / 222.76 MB  @1.25 MB/s (60.34%)
+(05:30:52) INFO:    [Backend]:          Downloaded: 138.4 MB / 222.76 MB  @1.59 MB/s (62.13%)
+(05:30:55) INFO:    [Backend]:          Downloaded: 142.43 MB / 222.76 MB  @1.61 MB/s (63.94%)
+(05:30:58) INFO:    [Backend]:          Downloaded: 146.48 MB / 222.76 MB  @993.18 KB/s (65.76%)
+(05:31:01) INFO:    [Backend]:          Downloaded: 150.53 MB / 222.76 MB  @1.61 MB/s (67.58%)
+(05:31:03) INFO:    [Backend]:          Downloaded: 154.42 MB / 222.76 MB  @1.55 MB/s (69.32%)
+(05:31:05) INFO:    [Backend]:          Downloaded: 156.68 MB / 222.76 MB  @1.63 MB/s (70.34%)
+(05:31:08) INFO:    [Backend]:          Downloaded: 160.34 MB / 222.76 MB  @1.35 MB/s (71.98%)
+(05:31:10) INFO:    [Backend]:          Downloaded: 164.24 MB / 222.76 MB  @1.56 MB/s (73.73%)
+(05:31:13) INFO:    [Backend]:          Downloaded: 168.33 MB / 222.76 MB  @1.62 MB/s (75.57%)
+(05:31:16) INFO:    [Backend]:          Downloaded: 171.67 MB / 222.76 MB  @962.62 KB/s (77.07%)
+(05:31:18) INFO:    [Backend]:          Downloaded: 175.75 MB / 222.76 MB  @1.63 MB/s (78.90%)
+(05:31:21) INFO:    [Backend]:          Downloaded: 179.82 MB / 222.76 MB  @1.62 MB/s (80.73%)
+(05:31:22) INFO:    [Backend]:          Downloaded: 182.01 MB / 222.76 MB  @1.71 MB/s (81.71%)
+(05:31:25) INFO:    [Backend]:          Downloaded: 184.52 MB / 222.76 MB  @1 MB/s (82.84%)
+(05:31:27) INFO:    [Backend]:          Downloaded: 188.4 MB / 222.76 MB  @1.54 MB/s (84.58%)
+(05:31:30) INFO:    [Backend]:          Downloaded: 192.31 MB / 222.76 MB  @1.56 MB/s (86.33%)
+(05:31:31) INFO:    [Backend]:          Downloaded: 194.75 MB / 222.76 MB  @1.71 MB/s (87.43%)
+(05:31:34) INFO:    [Backend]:          Downloaded: 197.95 MB / 222.76 MB  @1.28 MB/s (88.87%)
+(05:31:36) INFO:    [Backend]:          Downloaded: 202.31 MB / 222.76 MB  @1.73 MB/s (90.82%)
+(05:31:39) INFO:    [Backend]:          Downloaded: 206.62 MB / 222.76 MB  @1.72 MB/s (92.76%)
+(05:31:41) INFO:    [Backend]:          Downloaded: 208.84 MB / 222.76 MB  @665.2 KB/s (93.75%)
+(05:31:44) INFO:    [Backend]:          Downloaded: 211.2 MB / 222.76 MB  @965.63 KB/s (94.81%)
+(05:31:46) INFO:    [Backend]:          Downloaded: 215.29 MB / 222.76 MB  @1.63 MB/s (96.65%)
+(05:31:48) INFO:    [Backend]:          Downloaded: 217.93 MB / 222.76 MB  @1.84 MB/s (97.83%)
+(05:31:51) INFO:    [Backend]:          Downloaded: 220.99 MB / 222.76 MB  @934.03 KB/s (99.21%)
+(05:31:52) INFO:    [Backend]:          Downloaded: 222.76 MB / 222.76 MB  @1.58 MB/s (100.00%)
+(05:31:52) INFO:    [DownloadManager]:  Downloader: Finished downloading https://github.com/GloriousEggroll/wine-ge-custom/releases/download/GE-Proton8-26/wine-lutris-GE-Proton8-26-x86_64.tar.xz
+(05:31:53) INFO:    [Backend]:          Extracting /home/paul/.config/heroic/tools/wine/wine-lutris-GE-Proton8-26-x86_64.tar.xz to /home/paul/.config/heroic/tools/wine/Wine-GE-Proton8-26 using native tar
+(05:32:02) INFO:    [WineDownloader]:   Finished installation of wine version Wine-GE-Proton8-26
+(05:32:02) DEBUG:   [Backend]:          Unable to load Steam Libraries, libraryfolders.vdf not found
+(05:32:02) INFO:    [Backend]:          Changing wine version to Wine - Wine-GE-Proton8-26
+(05:32:02) INFO:    [Backend]:          Heroic: Setting wineVersion to {"bin":"/home/paul/.config/heroic/tools/wine/Wine-GE-Proton8-26/bin/wine","name":"Wine - Wine-GE-Proton8-26","type":"wine","lib":"/home/paul/.config/heroic/tools/wine/Wine-GE-Proton8-26/lib64","lib32":"/home/paul/.config/heroic/tools/wine/Wine-GE-Proton8-26/lib","wineserver":"/home/paul/.config/heroic/tools/wine/Wine-GE-Proton8-26/bin/wineserver"} (previous value: {"bin":"","name":"Default Wine - Not Found","type":"wine"})
+(05:34:19) INFO:    [Legendary]:        Logging in: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+(05:34:24) INFO:    [Frontend]:         Refreshing legendary Library
+(05:34:24) INFO:    [Legendary]:        Refreshing library...
+(05:34:24) INFO:    [Legendary]:        Refreshing Epic Games...
+(05:34:25) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(05:34:34) INFO:    [Legendary]:        Game list updated, got 91 games & DLCs
+(05:34:34) INFO:    [Frontend]:         No cache found, getting data from legendary...
+(05:34:34) INFO:    [Legendary]:        Refreshing library...
+(05:34:34) INFO:    [Legendary]:        Refreshing Epic Games...
+(05:34:34) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+(05:34:37) INFO:    [Backend]:          Writing config for Heroic
+(05:34:37) INFO:    [Backend]:          Changed config: customThemesPath from undefined to 
+(05:34:39) INFO:    [Legendary]:        Game list updated, got 91 games & DLCs
+(05:34:39) INFO:    [Frontend]:         Force Update
+(05:34:41) INFO:    [Backend]:          Heroic: Setting defaultInstallPath to "/home/paul/Games" (previous value: "/home/paul/Games/Heroic")
+(05:34:54) INFO:    [Backend]:          Heroic: Setting defaultInstallPath to "/home/paul/Games/Heroic" (previous value: "/home/paul/Games")
+(05:35:41) INFO:    [Backend]:          Heroic: Setting checkForUpdatesOnStartup to false (previous value: true)
+(05:35:49) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+(05:35:49) INFO:    [Gog]:              Running command: GOGDL_CONFIG_PATH=/home/paul/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/paul/.config/heroic/gog_store/auth.json --version
+(05:35:49) INFO:    [Nile]:             Running command: NILE_CONFIG_PATH=/home/paul/.config/heroic/nile_config /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/nile --version
+(05:35:50) DEBUG:   [Backend]:          Unable to load Steam Libraries, libraryfolders.vdf not found
+(05:36:06) INFO:    [WineDownloader]:   Start installation of wine version Proton-GE-latest
+(05:36:15) INFO:    [Backend]:          Downloaded: 1.35 KB / 413.26 MB  @351.08 Bytes/s (0.00%)
+(05:36:17) INFO:    [Backend]:          Downloaded: 3.83 MB / 413.26 MB  @1.53 MB/s (0.93%)
+(05:36:20) INFO:    [Backend]:          Downloaded: 8.08 MB / 413.26 MB  @1.7 MB/s (1.96%)
+(05:36:22) INFO:    [Backend]:          Downloaded: 12.19 MB / 413.26 MB  @1.64 MB/s (2.95%)
+(05:36:25) INFO:    [Backend]:          Downloaded: 16.3 MB / 413.26 MB  @1.64 MB/s (3.94%)
+(05:36:26) INFO:    [Backend]:          Downloaded: 18.26 MB / 413.26 MB  @1.68 MB/s (4.42%)
+(05:36:28) DEBUG:   [Backend]:          Unable to load Steam Libraries, libraryfolders.vdf not found
+(05:36:29) INFO:    [Backend]:          Downloaded: 20.47 MB / 413.26 MB  @903.44 KB/s (4.95%)
+(05:36:31) INFO:    [Backend]:          Downloaded: 24.62 MB / 413.26 MB  @1.65 MB/s (5.96%)
+(05:36:34) INFO:    [Backend]:          Downloaded: 28.29 MB / 413.26 MB  @1.47 MB/s (6.85%)
+(05:36:35) INFO:    [Backend]:          Downloaded: 29.95 MB / 413.26 MB  @1.31 MB/s (7.25%)
+(05:36:37) INFO:    [Backend]:          Downloaded: 33.91 MB / 413.26 MB  @1.58 MB/s (8.21%)
+(05:36:40) INFO:    [Backend]:          Heroic: Setting showFps to true (previous value: false)
+(05:36:40) INFO:    [Backend]:          Downloaded: 37.16 MB / 413.26 MB  @1.29 MB/s (8.99%)
+(05:36:42) INFO:    [Backend]:          Downloaded: 40.55 MB / 413.26 MB  @1.35 MB/s (9.81%)
+(05:36:45) INFO:    [Backend]:          Downloaded: 42.33 MB / 413.26 MB  @710 KB/s (10.24%)
+(05:36:46) INFO:    [Backend]:          Downloaded: 44.82 MB / 413.26 MB  @2.39 MB/s (10.84%)
+(05:36:49) INFO:    [Backend]:          Downloaded: 49.28 MB / 413.26 MB  @1.78 MB/s (11.93%)
+(05:36:51) INFO:    [Backend]:          Downloaded: 52.5 MB / 413.26 MB  @1.29 MB/s (12.70%)
+(05:36:56) INFO:    [Backend]:          Downloaded: 54.44 MB / 413.26 MB  @436.91 KB/s (13.17%)
+(05:36:58) INFO:    [Backend]:          Downloaded: 62.28 MB / 413.26 MB  @3.12 MB/s (15.07%)
+(05:37:01) INFO:    [Backend]:          Downloaded: 66.88 MB / 413.26 MB  @1.63 MB/s (16.18%)
+(05:37:03) INFO:    [Backend]:          Downloaded: 70.04 MB / 413.26 MB  @1.26 MB/s (16.95%)
+(05:37:06) INFO:    [Backend]:          Downloaded: 73.3 MB / 413.26 MB  @1.3 MB/s (17.74%)
+(05:37:08) INFO:    [Backend]:          Downloaded: 76.64 MB / 413.26 MB  @1.33 MB/s (18.55%)
+(05:37:11) INFO:    [Backend]:          Downloaded: 81.14 MB / 413.26 MB  @1.62 MB/s (19.63%)
+(05:37:14) INFO:    [Backend]:          Downloaded: 84.33 MB / 413.26 MB  @1.27 MB/s (20.41%)
+(05:37:18) INFO:    [Backend]:          Downloaded: 85.69 MB / 413.26 MB  @330.33 KB/s (20.73%)
+(05:37:21) INFO:    [Backend]:          Downloaded: 90.8 MB / 413.26 MB  @2.04 MB/s (21.97%)
+(05:37:23) INFO:    [Backend]:          Downloaded: 94.92 MB / 413.26 MB  @1.64 MB/s (22.97%)
+(05:37:26) INFO:    [Backend]:          Downloaded: 99.31 MB / 413.26 MB  @1.74 MB/s (24.03%)
+(05:37:27) INFO:    [Backend]:          Downloaded: 101.61 MB / 413.26 MB  @2.04 MB/s (24.59%)
+(05:37:30) INFO:    [Backend]:          Downloaded: 108.1 MB / 413.26 MB  @2.33 MB/s (26.16%)
+(05:37:32) INFO:    [Backend]:          Downloaded: 111.47 MB / 413.26 MB  @1.34 MB/s (26.97%)
+(05:37:35) INFO:    [Backend]:          Downloaded: 114.75 MB / 413.26 MB  @1.31 MB/s (27.77%)
+(05:37:37) INFO:    [Backend]:          Downloaded: 117.8 MB / 413.26 MB  @1.19 MB/s (28.51%)
+(05:37:39) INFO:    [Backend]:          Downloaded: 119.62 MB / 413.26 MB  @1.01 MB/s (28.95%)
+(05:37:41) INFO:    [Backend]:          Downloaded: 122.88 MB / 413.26 MB  @1.29 MB/s (29.73%)
+(05:37:44) INFO:    [Backend]:          Downloaded: 126.09 MB / 413.26 MB  @1.27 MB/s (30.51%)
+(05:37:47) INFO:    [Backend]:          Downloaded: 126.43 MB / 413.26 MB  @100.51 KB/s (30.59%)
+(05:37:50) INFO:    [Backend]:          Downloaded: 126.47 MB / 413.26 MB  @11.24 KB/s (30.60%)
+(05:37:54) INFO:    [Backend]:          Downloaded: 128.73 MB / 413.26 MB  @686.33 KB/s (31.15%)
+(05:37:56) INFO:    [Backend]:          Downloaded: 139.64 MB / 413.26 MB  @4.34 MB/s (33.79%)
+(05:37:59) INFO:    [Backend]:          Downloaded: 144.54 MB / 413.26 MB  @2.14 MB/s (34.97%)
+(05:38:00) INFO:    [Backend]:          Downloaded: 146.74 MB / 413.26 MB  @1.3 MB/s (35.51%)
+(05:38:03) INFO:    [Backend]:          Downloaded: 150.43 MB / 413.26 MB  @1.47 MB/s (36.40%)
+(05:38:05) INFO:    [Backend]:          Downloaded: 153.73 MB / 413.26 MB  @1.32 MB/s (37.20%)
+(05:38:08) INFO:    [Backend]:          Downloaded: 157.15 MB / 413.26 MB  @1.36 MB/s (38.03%)
+(05:38:11) INFO:    [Backend]:          Downloaded: 161.57 MB / 413.26 MB  @1.28 MB/s (39.10%)
+(05:38:14) INFO:    [Backend]:          Downloaded: 164.88 MB / 413.26 MB  @1.32 MB/s (39.90%)
+(05:38:17) INFO:    [Backend]:          Downloaded: 165.66 MB / 413.26 MB  @208.55 KB/s (40.09%)
+(05:38:20) INFO:    [Backend]:          Downloaded: 169.15 MB / 413.26 MB  @1.5 MB/s (40.93%)
+(05:38:22) INFO:    [Backend]:          Downloaded: 176.02 MB / 413.26 MB  @2.74 MB/s (42.59%)
+(05:38:25) INFO:    [Backend]:          Downloaded: 179.19 MB / 413.26 MB  @1.26 MB/s (43.36%)
+(05:38:27) INFO:    [Backend]:          Downloaded: 181.59 MB / 413.26 MB  @1.28 MB/s (43.94%)
+(05:38:29) INFO:    [Backend]:          Downloaded: 184.66 MB / 413.26 MB  @1.22 MB/s (44.68%)
+(05:38:32) INFO:    [Backend]:          Downloaded: 187.97 MB / 413.26 MB  @1.23 MB/s (45.49%)
+(05:38:34) INFO:    [Backend]:          Downloaded: 191.25 MB / 413.26 MB  @1.31 MB/s (46.28%)
+(05:38:37) INFO:    [Backend]:          Downloaded: 194.62 MB / 413.26 MB  @1.34 MB/s (47.09%)
+(05:38:39) INFO:    [Backend]:          Downloaded: 197.94 MB / 413.26 MB  @1.32 MB/s (47.90%)
+(05:38:44) INFO:    [Backend]:          Downloaded: 199.07 MB / 413.26 MB  @280.16 KB/s (48.17%)
+(05:38:46) INFO:    [Backend]:          Downloaded: 201.72 MB / 413.26 MB  @1.05 MB/s (48.81%)
+(05:38:50) INFO:    [Backend]:          Downloaded: 202.89 MB / 413.26 MB  @327.33 KB/s (49.09%)
+(05:38:53) INFO:    [Backend]:          Downloaded: 215.44 MB / 413.26 MB  @2.35 MB/s (52.13%)
+(05:38:55) INFO:    [Backend]:          Downloaded: 218.45 MB / 413.26 MB  @1.2 MB/s (52.86%)
+(05:38:57) INFO:    [Backend]:          Downloaded: 220.49 MB / 413.26 MB  @1.23 MB/s (53.35%)
+(05:38:59) INFO:    [Backend]:          Downloaded: 222.85 MB / 413.26 MB  @1.26 MB/s (53.92%)
+(05:39:01) INFO:    [Backend]:          Downloaded: 225.69 MB / 413.26 MB  @1.31 MB/s (54.61%)
+(05:39:04) INFO:    [Backend]:          Downloaded: 228.88 MB / 413.26 MB  @1.28 MB/s (55.38%)
+(05:39:06) INFO:    [Backend]:          Downloaded: 232.06 MB / 413.26 MB  @1.27 MB/s (56.15%)
+(05:39:09) INFO:    [Backend]:          Downloaded: 235.31 MB / 413.26 MB  @1.3 MB/s (56.94%)
+(05:39:10) INFO:    [Backend]:          Downloaded: 237.68 MB / 413.26 MB  @1.31 MB/s (57.51%)
+(05:39:16) INFO:    [Backend]:          Downloaded: 240.04 MB / 413.26 MB  @479.51 KB/s (58.09%)
+(05:39:19) INFO:    [Backend]:          Downloaded: 242.82 MB / 413.26 MB  @775.82 KB/s (58.76%)
+(05:39:22) INFO:    [Backend]:          Downloaded: 249.08 MB / 413.26 MB  @2.48 MB/s (60.27%)
+(05:39:24) INFO:    [Backend]:          Downloaded: 255.45 MB / 413.26 MB  @2.21 MB/s (61.81%)
+(05:39:27) INFO:    [Backend]:          Downloaded: 258.51 MB / 413.26 MB  @1.22 MB/s (62.55%)
+(05:39:29) INFO:    [Backend]:          Downloaded: 261.77 MB / 413.26 MB  @1.3 MB/s (63.34%)
+(05:39:32) INFO:    [Backend]:          Downloaded: 265.04 MB / 413.26 MB  @1.3 MB/s (64.13%)
+(05:39:34) INFO:    [Backend]:          Downloaded: 268.35 MB / 413.26 MB  @1.32 MB/s (64.93%)
+(05:39:36) INFO:    [Backend]:          Downloaded: 269.97 MB / 413.26 MB  @1.19 MB/s (65.33%)
+(05:39:38) INFO:    [Backend]:          Downloaded: 273.22 MB / 413.26 MB  @1.22 MB/s (66.11%)
+(05:39:41) INFO:    [Backend]:          Downloaded: 276.22 MB / 413.26 MB  @1.2 MB/s (66.84%)
+(05:39:46) INFO:    [Backend]:          Downloaded: 278.41 MB / 413.26 MB  @454.25 KB/s (67.37%)
+(05:39:48) INFO:    [Backend]:          Downloaded: 281.92 MB / 413.26 MB  @1.4 MB/s (68.22%)
+(05:39:51) INFO:    [Backend]:          Downloaded: 289.36 MB / 413.26 MB  @2.03 MB/s (70.02%)
+(05:39:54) INFO:    [Backend]:          Downloaded: 292.69 MB / 413.26 MB  @1.33 MB/s (70.82%)
+(05:39:56) INFO:    [Backend]:          Downloaded: 295.95 MB / 413.26 MB  @1.3 MB/s (71.61%)
+(05:39:59) INFO:    [Backend]:          Downloaded: 299.22 MB / 413.26 MB  @1.31 MB/s (72.40%)
+(05:40:01) INFO:    [Backend]:          Downloaded: 302.51 MB / 413.26 MB  @1.32 MB/s (73.20%)
+(05:40:04) INFO:    [Backend]:          Downloaded: 305.74 MB / 413.26 MB  @1.29 MB/s (73.98%)
+(05:40:06) INFO:    [Backend]:          Downloaded: 309.04 MB / 413.26 MB  @1.31 MB/s (74.78%)
+(05:40:09) INFO:    [Backend]:          Downloaded: 312.33 MB / 413.26 MB  @1.31 MB/s (75.58%)
+(05:40:13) INFO:    [Backend]:          Downloaded: 314.34 MB / 413.26 MB  @452.23 KB/s (76.06%)
+(05:40:14) INFO:    [Backend]:          Downloaded: 317.53 MB / 413.26 MB  @2.9 MB/s (76.84%)
+(05:40:17) INFO:    [Backend]:          Downloaded: 323.6 MB / 413.26 MB  @1.41 MB/s (78.30%)
+(05:40:20) INFO:    [Backend]:          Downloaded: 326.85 MB / 413.26 MB  @1.29 MB/s (79.09%)
+(05:40:23) INFO:    [Backend]:          Downloaded: 327.62 MB / 413.26 MB  @211.19 KB/s (79.28%)
+(05:40:26) INFO:    [Backend]:          Downloaded: 327.71 MB / 413.26 MB  @34.67 KB/s (79.30%)
+(05:40:30) INFO:    [Backend]:          Downloaded: 336.6 MB / 413.26 MB  @2.51 MB/s (81.45%)
+(05:40:32) INFO:    [Backend]:          Downloaded: 343.09 MB / 413.26 MB  @2.59 MB/s (83.02%)
+(05:40:35) INFO:    [Backend]:          Downloaded: 346.44 MB / 413.26 MB  @1.34 MB/s (83.83%)
+(05:40:37) INFO:    [Backend]:          Downloaded: 349.73 MB / 413.26 MB  @1.32 MB/s (84.63%)
+(05:40:40) INFO:    [Backend]:          Downloaded: 352.98 MB / 413.26 MB  @1.27 MB/s (85.41%)
+(05:40:42) INFO:    [Backend]:          Downloaded: 355.53 MB / 413.26 MB  @1.3 MB/s (86.03%)
+(05:40:43) INFO:    [Backend]:          Downloaded: 357.1 MB / 413.26 MB  @1.33 MB/s (86.41%)
+(05:40:45) INFO:    [Backend]:          Downloaded: 360.34 MB / 413.26 MB  @1.29 MB/s (87.19%)
+(05:40:47) INFO:    [Backend]:          Downloaded: 361.84 MB / 413.26 MB  @1.33 MB/s (87.56%)
+(05:40:49) INFO:    [Backend]:          Downloaded: 365.09 MB / 413.26 MB  @1.3 MB/s (88.34%)
+(05:40:52) INFO:    [Backend]:          Downloaded: 369.07 MB / 413.26 MB  @1.31 MB/s (89.31%)
+(05:41:00) INFO:    [Backend]:          Downloaded: 371.33 MB / 413.26 MB  @295.94 KB/s (89.85%)
+(05:41:03) INFO:    [Backend]:          Downloaded: 379.54 MB / 413.26 MB  @2.54 MB/s (91.84%)
+(05:41:06) INFO:    [Backend]:          Downloaded: 384.07 MB / 413.26 MB  @1.79 MB/s (92.94%)
+(05:41:08) INFO:    [Backend]:          Downloaded: 389.29 MB / 413.26 MB  @1.96 MB/s (94.20%)
+(05:41:11) INFO:    [Backend]:          Downloaded: 392.53 MB / 413.26 MB  @1.28 MB/s (94.98%)
+(05:41:13) INFO:    [Backend]:          Downloaded: 395.84 MB / 413.26 MB  @1.32 MB/s (95.78%)
+(05:41:16) INFO:    [Backend]:          Downloaded: 398.58 MB / 413.26 MB  @1.09 MB/s (96.45%)
+(05:41:19) INFO:    [Backend]:          Downloaded: 402.96 MB / 413.26 MB  @1.3 MB/s (97.51%)
+(05:41:20) INFO:    [Backend]:          Downloaded: 405.48 MB / 413.26 MB  @1.75 MB/s (98.12%)
+(05:41:23) INFO:    [Backend]:          Downloaded: 406.33 MB / 413.26 MB  @344.91 KB/s (98.32%)
+(05:41:25) INFO:    [Backend]:          Downloaded: 407.76 MB / 413.26 MB  @586.45 KB/s (98.67%)
+(05:41:28) INFO:    [Backend]:          Downloaded: 410.44 MB / 413.26 MB  @1.07 MB/s (99.32%)
+(05:41:30) INFO:    [Backend]:          Downloaded: 413.26 MB / 413.26 MB  @1.6 MB/s (100.00%)
+(05:41:30) INFO:    [DownloadManager]:  Downloader: Finished downloading https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton9-10/GE-Proton9-10.tar.gz
+(05:41:32) INFO:    [Backend]:          Extracting /home/paul/.config/heroic/tools/proton/GE-Proton9-10.tar.gz to /home/paul/.config/heroic/tools/proton/Proton-GE-latest using native tar
+(05:41:39) INFO:    [WineDownloader]:   Finished installation of wine version Proton-GE-latest
+(05:41:53) DEBUG:   [Backend]:          Unable to load Steam Libraries, libraryfolders.vdf not found
+(05:41:55) INFO:    [Backend]:          Heroic: Setting wineVersion to {"bin":"/home/paul/.config/heroic/tools/proton/Proton-GE-latest/proton","name":"Proton - Proton-GE-latest","type":"proton"} (previous value: {"bin":"/home/paul/.config/heroic/tools/wine/Wine-GE-Proton8-26/bin/wine","name":"Wine - Wine-GE-Proton8-26","type":"wine","lib":"/home/paul/.config/heroic/tools/wine/Wine-GE-Proton8-26/lib64","lib32":"/home/paul/.config/heroic/tools/wine/Wine-GE-Proton8-26/lib","wineserver":"/home/paul/.config/heroic/tools/wine/Wine-GE-Proton8-26/bin/wineserver"})
+(05:42:08) DEBUG:   [Backend]:          Unable to load Steam Libraries, libraryfolders.vdf not found
+(05:48:17) DEBUG:   [Backend]:          Unable to load Steam Libraries, libraryfolders.vdf not found
+(05:48:27) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Ghostwire Tokyo
+(05:48:27) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Ghostwire Tokyo
+(05:48:27) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Ghostwire Tokyo
+(05:48:27) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Ghostwire Tokyo
+(05:48:27) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Ghostwire Tokyo
+(05:48:27) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Ghostwire Tokyo
+(05:48:27) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Ghostwire Tokyo
+(05:48:27) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Ghostwire Tokyo
+(05:48:27) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:48:27) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:48:28) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 007ff8f4e30845a687e66aa77eb3e965 --json --platform Windows
+(05:48:28) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 007ff8f4e30845a687e66aa77eb3e965 --json --platform Windows
+(05:48:29) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(05:48:30) DEBUG:   [Backend]:          SteamDeck data for 1475810 {"success":1,"results":{"appid":1475810,"resolved_category":3,"resolved_items":[{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"},{"display_type":1,"loc_token":"#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"},{"display_type":1,"loc_token":"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"}],"steam_deck_blog_url":"","search_id":null}}
+(05:48:30) INFO:    [Legendary]:        Getting Info from Epic API
+(05:48:31) DEBUG:   [Backend]:          SteamDeck data for 1475810 {"success":1,"results":{"appid":1475810,"resolved_category":3,"resolved_items":[{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"},{"display_type":1,"loc_token":"#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"},{"display_type":1,"loc_token":"#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"}],"steam_deck_blog_url":"","search_id":null}}
+(05:48:31) DEBUG:   [Backend]:          ProtonDB data for 1475810 {"bestReportedTier":"platinum","confidence":"strong","score":0.67,"tier":"gold","total":79,"trendingTier":"gold"}
+(05:48:31) DEBUG:   [Backend]:          ProtonDB data for 1475810 {"bestReportedTier":"platinum","confidence":"strong","score":0.67,"tier":"gold","total":79,"trendingTier":"gold"}
+(05:50:06) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Heroes  Generals WWII
+(05:50:06) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Heroes  Generals WWII
+(05:50:06) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Heroes  Generals WWII
+(05:50:06) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Heroes  Generals WWII
+(05:50:06) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Heroes  Generals WWII
+(05:50:06) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Heroes  Generals WWII
+(05:50:06) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Heroes  Generals WWII
+(05:50:06) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Heroes  Generals WWII
+(05:50:06) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:50:06) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:50:07) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 8836f84a700140bb86103556cd7db0d4 --json --platform Windows
+(05:50:07) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 8836f84a700140bb86103556cd7db0d4 --json --platform Windows
+(05:50:08) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(05:50:08) ERROR:   [ExtraGameInfo]:    HowLongToBeat response for Heroes  Generals WWII is malformed {
+  "_errors": [],
+  "data": {
+    "_errors": [
+      "Array must contain at least 1 element(s)"
+    ]
+  }
+}
+(05:50:09) ERROR:   [ExtraGameInfo]:    HowLongToBeat response for Heroes  Generals WWII is malformed {
+  "_errors": [],
+  "data": {
+    "_errors": [
+      "Array must contain at least 1 element(s)"
+    ]
+  }
+}
+(05:50:09) DEBUG:   [Backend]:          SteamDeck data for 227940 {"success":1,"results":{"appid":227940,"resolved_category":1,"resolved_items":[{"display_type":2,"loc_token":"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"}],"steam_deck_blog_url":"","search_id":null}}
+(05:50:09) DEBUG:   [Backend]:          SteamDeck data for 227940 {"success":1,"results":{"appid":227940,"resolved_category":1,"resolved_items":[{"display_type":2,"loc_token":"#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"}],"steam_deck_blog_url":"","search_id":null}}
+(05:50:10) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(05:50:10) ERROR:   [Legendary]:        Error Getting Info from Epic API
+(05:50:11) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Honkai Impact 3rd
+(05:50:11) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Honkai Impact 3rd
+(05:50:11) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Honkai Impact 3rd
+(05:50:11) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Honkai Impact 3rd
+(05:50:11) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Honkai Impact 3rd
+(05:50:11) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Honkai Impact 3rd
+(05:50:11) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Honkai Impact 3rd
+(05:50:11) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Honkai Impact 3rd
+(05:50:11) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:50:11) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:50:11) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 0dc22b543a40440fab5a98d1e40c02c1 --json --platform Windows
+(05:50:11) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 0dc22b543a40440fab5a98d1e40c02c1 --json --platform Windows
+(05:50:13) DEBUG:   [Backend]:          SteamDeck data for 1672740 {"success":1,"results":[]}
+(05:50:13) ERROR:   [Backend]:          No resolved_category in response, API changed?
+(05:50:13) DEBUG:   [Backend]:          SteamDeck data for 1672740 {"success":1,"results":[]}
+(05:50:13) ERROR:   [Backend]:          No resolved_category in response, API changed?
+(05:50:18) ERROR:   [ExtraGameInfo]:    Was not able to get ProtonDB data for 227940 undefined
+(05:50:18) DEBUG:   [Backend]:          No response when getting ProtonDB info
+(05:50:19) ERROR:   [ExtraGameInfo]:    Was not able to get ProtonDB data for 227940 undefined
+(05:50:19) DEBUG:   [Backend]:          No response when getting ProtonDB info
+(05:50:20) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for The Long Dark
+(05:50:20) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for The Long Dark
+(05:50:20) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for The Long Dark
+(05:50:20) INFO:    [ExtraGameInfo]:    Getting GamesDB data for The Long Dark
+(05:50:20) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for The Long Dark
+(05:50:20) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for The Long Dark
+(05:50:20) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for The Long Dark
+(05:50:20) INFO:    [ExtraGameInfo]:    Getting GamesDB data for The Long Dark
+(05:50:20) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:50:20) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:50:20) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info ed93b18355a84230938c705121c63661 --json --platform Windows
+(05:50:20) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info ed93b18355a84230938c705121c63661 --json --platform Windows
+(05:50:20) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(05:50:22) INFO:    [Legendary]:        Getting Info from Epic API
+(05:50:22) DEBUG:   [Backend]:          SteamDeck data for 305620 {"success":1,"results":{"appid":305620,"resolved_category":3,"resolved_items":[{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"}],"steam_deck_blog_url":"","search_id":null}}
+(05:50:23) ERROR:   [ExtraGameInfo]:    Was not able to get ProtonDB data for 1672740 undefined
+(05:50:23) DEBUG:   [Backend]:          No response when getting ProtonDB info
+(05:50:23) DEBUG:   [Backend]:          SteamDeck data for 305620 {"success":1,"results":{"appid":305620,"resolved_category":3,"resolved_items":[{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"}],"steam_deck_blog_url":"","search_id":null}}
+(05:50:23) ERROR:   [ExtraGameInfo]:    Was not able to get ProtonDB data for 1672740 undefined
+(05:50:23) DEBUG:   [Backend]:          No response when getting ProtonDB info
+(05:50:27) DEBUG:   [Backend]:          ProtonDB data for 305620 {"bestReportedTier":"platinum","confidence":"strong","score":0.56,"tier":"gold","total":74,"trendingTier":"gold"}
+(05:50:27) DEBUG:   [Backend]:          ProtonDB data for 305620 {"bestReportedTier":"platinum","confidence":"strong","score":0.56,"tier":"gold","total":74,"trendingTier":"gold"}
+(05:50:32) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(05:50:34) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(05:50:34) ERROR:   [Legendary]:        Error Getting Info from Epic API
+(05:51:59) INFO:    [ExtraGameInfo]:    Using cached ExtraGameInfo data for The Long Dark
+(05:51:59) INFO:    [ExtraGameInfo]:    Using cached ExtraGameInfo data for The Long Dark
+(05:51:59) DEBUG:   [Legendary]:        Using cached install info
+(05:51:59) DEBUG:   [Legendary]:        Using cached install info
+(05:52:24) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Rising Storm 2 Vietnam
+(05:52:24) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Rising Storm 2 Vietnam
+(05:52:24) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Rising Storm 2 Vietnam
+(05:52:24) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Rising Storm 2 Vietnam
+(05:52:24) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Rising Storm 2 Vietnam
+(05:52:24) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Rising Storm 2 Vietnam
+(05:52:24) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Rising Storm 2 Vietnam
+(05:52:24) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Rising Storm 2 Vietnam
+(05:52:24) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:52:24) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:52:24) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Tern --json --platform Windows
+(05:52:24) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Tern --json --platform Windows
+(05:52:26) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(05:52:26) DEBUG:   [Backend]:          SteamDeck data for 418460 {"success":1,"results":{"appid":418460,"resolved_category":1,"resolved_items":[{"display_type":2,"loc_token":"#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"}],"steam_deck_blog_url":"","search_id":null}}
+(05:52:26) DEBUG:   [Backend]:          SteamDeck data for 418460 {"success":1,"results":{"appid":418460,"resolved_category":1,"resolved_items":[{"display_type":2,"loc_token":"#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"}],"steam_deck_blog_url":"","search_id":null}}
+(05:52:27) DEBUG:   [Backend]:          ProtonDB data for 418460 {"bestReportedTier":"platinum","confidence":"strong","score":0.21,"tier":"bronze","total":135,"trendingTier":"silver"}
+(05:52:27) DEBUG:   [Backend]:          ProtonDB data for 418460 {"bestReportedTier":"platinum","confidence":"strong","score":0.21,"tier":"bronze","total":135,"trendingTier":"silver"}
+(05:52:28) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(05:52:28) ERROR:   [Legendary]:        Error Getting Info from Epic API
+(05:52:29) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Rogue Company
+(05:52:29) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Rogue Company
+(05:52:29) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Rogue Company
+(05:52:29) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Rogue Company
+(05:52:29) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Rogue Company
+(05:52:29) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Rogue Company
+(05:52:29) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Rogue Company
+(05:52:29) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Rogue Company
+(05:52:29) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:52:29) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:52:29) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Pewee --json --platform Windows
+(05:52:29) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Pewee --json --platform Windows
+(05:52:29) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(05:52:30) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Rogue Company
+(05:52:30) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Rogue Company
+(05:52:30) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Rogue Company
+(05:52:30) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Rogue Company
+(05:52:30) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Rogue Company
+(05:52:30) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Rogue Company
+(05:52:30) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Rogue Company
+(05:52:30) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Rogue Company
+(05:52:31) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:52:31) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:52:31) INFO:    [Legendary]:        Getting Info from Epic API
+(05:52:31) DEBUG:   [Backend]:          ProtonDB data for 872200 {"bestReportedTier":"platinum","confidence":"strong","score":0.32,"tier":"silver","total":100,"trendingTier":"silver"}
+(05:52:31) DEBUG:   [Backend]:          ProtonDB data for 872200 {"bestReportedTier":"platinum","confidence":"strong","score":0.32,"tier":"silver","total":100,"trendingTier":"silver"}
+(05:52:31) DEBUG:   [Backend]:          SteamDeck data for 872200 {"success":1,"results":{"appid":872200,"resolved_category":2,"resolved_items":[{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"},{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"}],"steam_deck_blog_url":"","search_id":null}}
+(05:52:31) DEBUG:   [Backend]:          SteamDeck data for 872200 {"success":1,"results":{"appid":872200,"resolved_category":2,"resolved_items":[{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"},{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"}],"steam_deck_blog_url":"","search_id":null}}
+(05:52:31) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Pewee --json --platform Windows
+(05:52:31) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Pewee --json --platform Windows
+(05:52:32) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(05:52:32) INFO:    [Legendary]:        Getting Info from Epic API
+(05:52:32) DEBUG:   [Backend]:          ProtonDB data for 872200 {"bestReportedTier":"platinum","confidence":"strong","score":0.32,"tier":"silver","total":100,"trendingTier":"silver"}
+(05:52:32) DEBUG:   [Backend]:          ProtonDB data for 872200 {"bestReportedTier":"platinum","confidence":"strong","score":0.32,"tier":"silver","total":100,"trendingTier":"silver"}
+(05:52:32) DEBUG:   [Backend]:          SteamDeck data for 872200 {"success":1,"results":{"appid":872200,"resolved_category":2,"resolved_items":[{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"},{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"}],"steam_deck_blog_url":"","search_id":null}}
+(05:52:33) DEBUG:   [Backend]:          SteamDeck data for 872200 {"success":1,"results":{"appid":872200,"resolved_category":2,"resolved_items":[{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"},{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"}],"steam_deck_blog_url":"","search_id":null}}
+(05:52:51) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Thief
+(05:52:51) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Thief
+(05:52:51) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Thief
+(05:52:51) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Thief
+(05:52:51) INFO:    [ExtraGameInfo]:    Getting ExtraGameInfo data for Thief
+(05:52:51) INFO:    [ExtraGameInfo]:    Getting PCGamingWiki data for Thief
+(05:52:51) INFO:    [ExtraGameInfo]:    Getting HowLongToBeat data for Thief
+(05:52:51) INFO:    [ExtraGameInfo]:    Getting GamesDB data for Thief
+(05:52:51) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:52:51) INFO:    [Legendary]:        Getting more details with 'legendary info'
+(05:52:52) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 4123bcce398b4b1d8b9ef878f81055d1 --json --platform Windows
+(05:52:52) INFO:    [Legendary]:        Running command: LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 4123bcce398b4b1d8b9ef878f81055d1 --json --platform Windows
+(05:52:53) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(05:52:53) DEBUG:   [Backend]:          ProtonDB data for 239160 {"bestReportedTier":"platinum","confidence":"strong","score":0.77,"tier":"gold","total":123,"trendingTier":"gold"}
+(05:52:53) DEBUG:   [Backend]:          SteamDeck data for 239160 {"success":1,"results":{"appid":239160,"resolved_category":2,"resolved_items":[{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"}],"steam_deck_blog_url":"","search_id":null}}
+(05:52:54) DEBUG:   [Backend]:          ProtonDB data for 239160 {"bestReportedTier":"platinum","confidence":"strong","score":0.77,"tier":"gold","total":123,"trendingTier":"gold"}
+(05:52:54) DEBUG:   [Backend]:          SteamDeck data for 239160 {"success":1,"results":{"appid":239160,"resolved_category":2,"resolved_items":[{"display_type":3,"loc_token":"#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_InterfaceTextIsLegible"},{"display_type":4,"loc_token":"#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"}],"steam_deck_blog_url":"","search_id":null}}
+(05:52:55) ERROR:   [Legendary]:        Error: Request failed with status code 403
+    at createError (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/createError.js:16:15)
+    at settle (/opt/Heroic/resources/app.asar/node_modules/axios/lib/core/settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (/opt/Heroic/resources/app.asar/node_modules/axios/lib/adapters/http.js:322:11)
+    at IncomingMessage.emit (node:events:526:35)
+    at endReadableNT (node:internal/streams/readable:1408:12)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+(05:52:55) ERROR:   [Legendary]:        Error Getting Info from Epic API

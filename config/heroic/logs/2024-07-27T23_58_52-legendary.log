@@ -1,0 +1,240 @@
+[7/28/2024, 5:28:55 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+legendary version "0.20.34", codename "Direct Intervention"
+[7/28/2024, 5:29:03 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary cleanup
+[cli] INFO: Cleanup complete! Removed 0.00 MiB.
+[7/28/2024, 5:34:19 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary auth --code <redacted>
+[cli] INFO: Testing existing login data if present...
+[cli] INFO: Successfully logged in as "pranoy069"
+[7/28/2024, 5:34:25 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Getting game list... (this may take a while)
+[Core] INFO: Fetching metadata for 91 app(s).
+
+Available games:
+ * 20 Minutes Till Dawn (App name: 4656facc740742a39e265b026e13d075 | Version: 1.0-win)
+ * 3 out of 10, EP 1: "Welcome To Shovelworks" (App name: Flounder | Version: R01_S01_E05_V007_CL16693)
+ * 3 out of 10, EP 2: "Foundation 101" (App name: 1317e4e3b3ed40c289dde85b194347d3 | Version: R02_S01_E02_V007_CL16693)
+ * 3 out of 10, EP 3: "Pivot Like A Champion" (App name: d86f9cb568014746a15f66025dcc5733 | Version: R03_S01_E01_V007_CL16693)
+ * 3 out of 10, EP 4: "Thank You For Being An Asset" (App name: b2f57e24edcb4537bd76dff8b056a03e | Version: R04_S01_E04_V007_CL16693)
+ * 3 out of 10, EP 5: "The Rig Is Up!" (App name: 69c5351eacc540fd8850e12e90726e59 | Version: R05_S01_E06_V007_CL16693)
+ * ABZU (App name: Curry | Version: 1.0)
+ * Amnesia: A Machine for Pigs (App name: d7db33dfe7634d6b8a188c708f2caa3c | Version: 1.2)
+ * Amnesia: Rebirth (App name: f59de18db4dc445f88ffeff24d081234 | Version: 1.42)
+ * Among Us (App name: 963137e4c29d4c79a81323b8fab03a40 | Version: 4320)
+ * Battle Breakers (App name: WorldExplorersLive | Version: 1.88.244-r17036752-Windows)
+ * Blair Witch (App name: 247a0f0f5803429eb3be2c06f3ea77ff | Version: BLAIR_WIN_SRC_20191209_1642)
+ * Borderlands 3 (App name: Catnip | Version: 1.0.25_CL_3248593_Borderlands_3)
+ * Call of the Wild: The Angler™ (App name: fe4168b810314c2fb93f1803e2fe431e | Version: tortoise_delivery_2803459_2803459)
+ * Cat Quest (App name: 051eaac0842c46d7a5a62858ad534d5a | Version: 1.4)
+ * Circus Electrique (App name: f9d7a68aa77a4b30902af341533abe22 | Version: 0.1.3611.21444)
+ * Control (App name: Calluna | Version: 01.13)
+ * Costume Quest 2 (App name: 82a78a4dd6ef4eaa892707791b705073 | Version: 1)
+ * Dark and Darker (App name: 273854fd9c764c42a8e0f5c59aef343a | Version: 0.6.2.3999-2315)
+ * DARQ (App name: ee96375fac2f47de978170a24398e581 | Version: 1.3.2d)
+ * Dauntless (App name: Jackal | Version: 1.14.7.647472)
+ * Defense Grid: The Awakening (App name: a434dcb20f0d439b93aaa31dac9e3210 | Version: 1.263117)
+ * Delores: A Thimbleweed Park mini-adventure (App name: fe6c485736bc4ed48c835290ce48099b | Version: 1.0.89185-win)
+ * Destiny 2 (App name: 592c359fb0e0413fb46dee2d24448eb4 | Version: 9452248)
+ * Diabotical (App name: Honeycreeper | Version: 0.20.471s)
+ * Discord (App name: 6fbbc765b38c4f2ea3d9a9caa620bae7 | Version: 1.0.9054.win)
+ * Disney Speedstorm (App name: 97864084454f4f248465beb6e1f1cf59 | Version: 1.7.5b_8161bdae_1719890375)
+ * Doki Doki Literature Club Plus! (App name: c5109bdceb3a453bb38c2fdc964ddee8 | Version: Windows_1.0.7)
+ * Escape Academy (App name: 4237ffc575c94a0e89ef9ab7dd884ad5 | Version: v3.0.6.1)
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_7528)
+ * Fallout 3: Game of the Year Edition (App name: adeae8bbfc94427db57c7dfecce3f1d4 | Version: 1.11)
+ * Farming Simulator 22 (App name: f452ea20ae1b43698209998b56c2cc1c | Version: 1.14.0.0_FarmP_1_1_win_b29250_r86546)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-30.30-CL-34891016-Windows)
+  + Rocket Racing (App name: 5291abb43ba449859549cb41535e8c8f | Version: 1.0)
+ * Genshin Impact (App name: 41869934302e4b8cafac2d3c0e7c293d | Version: 91)
+ * Ghostbusters Remastered (App name: Mint | Version: retail10)
+ * Ghostrunner (App name: ea8df71f923649a193ab1c1fded7e1b3 | Version: 42507)
+ * Ghostwire Tokyo (App name: 007ff8f4e30845a687e66aa77eb3e965 | Version: CL642509-A)
+ * GigaBash (App name: 2dc25e07aa624edf9ff132c09ce23a7c | Version: 243)
+ * Hell is other demons (App name: 5ade01bafec54a148024665ce978b2a4 | Version: 0.0.17-win)
+ * Heroes & Generals WWII (App name: 8836f84a700140bb86103556cd7db0d4 | Version: live-173288)
+ * Honkai Impact 3rd (App name: 0dc22b543a40440fab5a98d1e40c02c1 | Version: 2.33.7.2)
+ * Honkai: Star Rail (App name: 86ae9acccf8443e18fca6950e0181288 | Version: 1.0.5)
+ * INDUSTRIA (App name: 78903903b1f1419bae248467f27ff470 | Version: 1.3.2)
+ * Infinifactory (App name: c7b3c16f56cb45abbfd915d59fd39689 | Version: 1.0.13)
+ * Insurmountable (App name: 8b556e7471ac46eda46445d93fa2e73f | Version: 2.0.7.3)
+ * Invincible Presents: Atom Eve (App name: ef50503adc284a8ba65d4dea1ecce91a | Version: 1.0.25523)
+ * Just Die Already (App name: 06621054d7d24f44bf13e3c31c9ec05d | Version: 1.4.2)
+ * Kingdom New Lands (App name: cacao | Version: 1.2.8-r2121-Windows)
+ * Layers of Fear 2 (App name: 473e24df09f843a1acc4aa16b01dae83 | Version: 1.0.0.0)
+ * LISA: The Joyful - Definitive Edition (App name: a42a95a46dc942318350cd4d0ee3163b | Version: 1.5_4)
+ * LISA: The Painful - Definitive Edition (App name: ee6a6b5ad66e4d94abe462ba331ddc4b | Version: 1.5_2)
+ * Lost Castle (App name: 7d5ec41fb5ae49c5beca9360034fd57e | Version: 2.08.1)
+ * LOVE (App name: f99d3d6da3454662913621222037417d | Version: 0005live)
+ * Magic The Gathering Arena (App name: stargazer | Version: 6218.1078427)
+ * Marvel's Guardians of the Galaxy (App name: 63a665088eb1480298f1e57943b225d8 | Version: 2984448)
+  + Marvel's Guardians of the Galaxy: Social-Lord Outfit (App name: 9596620d263b40c083ddf1f0c662c8ff | Version: 2978210)
+ * Marvel's Midnight Suns (App name: 49550aa9fcd74552ae07c4e9f2c262fe | Version: 1.0.0.930465)
+ * Melvor Idle (App name: 7458160f5c18450cad7e95844a5dcdff | Version: 1.0.0-14-x64-sdk)
+ * Metro 2033 Redux (App name: Petunia | Version: 0.1.0.0)
+ * Oddworld: New 'n' Tasty (App name: 7c566548d24343e48151125ced4b494c | Version: Epic 1.0)
+ * Overcooked! 2 (App name: Potoo | Version: 246.807171)
+ * Paladins (App name: Antbird | Version: 1219)
+ * Paradigm (App name: 7a2c2b2504844b2c9c96bc08a12da647 | Version: 1.025)
+ * Path of Exile (App name: 9a05967bb86f48278f8626be42548985 | Version: 3.25.0.8)
+ * Pikuniku (App name: 48619f5656da446abccb727b78cda644 | Version: Win64_1)
+ * Predecessor (App name: 97b084f37e344733ac82f493ac90753c | Version: Release-0.19.1-186378-Shipping-plive-137582)
+ * Rise of the Tomb Raider: 20 Year Celebration (App name: f7cc1c999ac146f39b356f53e3489514 | Version: TR2_30112021_1027.0_1224023_303770_132827583431143041_)
+ * Rising Storm 2: Vietnam (App name: Tern | Version: 20210514-403690-36)
+ * Rocket League® (App name: Sugar | Version: BC2_Update51+454952)
+ * Rogue Company (App name: Pewee | Version: 1787)
+ * Sail Forth (App name: 11ba63f98ce94a38b631104a12c7adab | Version: Win_2024-02-07_13-13-35)
+ * Saints Row (App name: Cormorant | Version: Manor_Wrapper_Update_RC1_CL4735700-230829_0259UTC)
+ * Shadow of the Tomb Raider: Definitive Edition (App name: 890d9cf396d04922a1559333df419fed | Version: TR11_10072023_492.0_1227914_740629_133334955480774690_)
+ * Sludge Life (App name: Morganite | Version: V201003)
+ * SMITE (App name: Greenbul | Version: 2132)
+ * Spellbreak (App name: Newt | Version: release.15196-7866)
+ * Sunless Skies: Sovereign Edition (App name: b979fad811c64939af282f5892049b50 | Version: 2.0.5.6e8c8ff-a-Windows)
+ * Super Meat Boy Forever (App name: Moose | Version: 6755.1848.1962.152)
+ * SYNCED (App name: 3efc912d8fe04bbcb2b57c431c7f93f9 | Version: 1.1.36E)
+ * Terraforming Mars (App name: 582c8940f499450d9033840efe5937a6 | Version: Windows_2.5.3.130154_master)
+ * The Big Con (App name: 573b2b742fa04eda83ea73cb17d7abc0 | Version: TBC_DRM_1.6.18)
+ * The Long Dark (App name: ed93b18355a84230938c705121c63661 | Version: Windows_137484)
+  + The Long Dark: Wintermute (App name: 87441b64c6d746b7a7c90017c227dd0c | Version: Windows_WM_135958)
+ * The Spectrum Retreat (App name: 7b8fb449c8d3404ba7eda9cd4da1401b | Version: 1.0rc)
+ * Thief (App name: 4123bcce398b4b1d8b9ef878f81055d1 | Version: TH4_EPIC_1.7.0.5)
+ * Tomb Raider GAME OF THE YEAR EDITION (App name: d6264d56f5ba434e91d4b0a0b056c83a | Version: TRAS_15112021_838.0_1224060,275025(132814434654404397))
+ * Trackmania Starter Access (App name: Pigeon | Version: 1.3)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * VALORANT (App name: 602eb4abc8764c87b7f2607a1ef8c18e | Version: 1168-327)
+ * Warframe (App name: 398965b67f314d31b0683b8ea11c93a4 | Version: 2024.03.28.14.05-21293)
+ * XCOM 2 (App name: 3be3c4d681bc46b3b8b26c5df3ae0a18 | Version: 1.0.1_CL-870730)
+
+Total: 88
+[7/28/2024, 5:34:34 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary list --third-party
+[cli] INFO: Logging in...
+[Core] INFO: Trying to re-use existing login session...
+[cli] INFO: Getting game list... (this may take a while)
+
+Available games:
+ * 20 Minutes Till Dawn (App name: 4656facc740742a39e265b026e13d075 | Version: 1.0-win)
+ * 3 out of 10, EP 1: "Welcome To Shovelworks" (App name: Flounder | Version: R01_S01_E05_V007_CL16693)
+ * 3 out of 10, EP 2: "Foundation 101" (App name: 1317e4e3b3ed40c289dde85b194347d3 | Version: R02_S01_E02_V007_CL16693)
+ * 3 out of 10, EP 3: "Pivot Like A Champion" (App name: d86f9cb568014746a15f66025dcc5733 | Version: R03_S01_E01_V007_CL16693)
+ * 3 out of 10, EP 4: "Thank You For Being An Asset" (App name: b2f57e24edcb4537bd76dff8b056a03e | Version: R04_S01_E04_V007_CL16693)
+ * 3 out of 10, EP 5: "The Rig Is Up!" (App name: 69c5351eacc540fd8850e12e90726e59 | Version: R05_S01_E06_V007_CL16693)
+ * ABZU (App name: Curry | Version: 1.0)
+ * Amnesia: A Machine for Pigs (App name: d7db33dfe7634d6b8a188c708f2caa3c | Version: 1.2)
+ * Amnesia: Rebirth (App name: f59de18db4dc445f88ffeff24d081234 | Version: 1.42)
+ * Among Us (App name: 963137e4c29d4c79a81323b8fab03a40 | Version: 4320)
+ * Battle Breakers (App name: WorldExplorersLive | Version: 1.88.244-r17036752-Windows)
+ * Blair Witch (App name: 247a0f0f5803429eb3be2c06f3ea77ff | Version: BLAIR_WIN_SRC_20191209_1642)
+ * Borderlands 3 (App name: Catnip | Version: 1.0.25_CL_3248593_Borderlands_3)
+ * Call of the Wild: The Angler™ (App name: fe4168b810314c2fb93f1803e2fe431e | Version: tortoise_delivery_2803459_2803459)
+ * Cat Quest (App name: 051eaac0842c46d7a5a62858ad534d5a | Version: 1.4)
+ * Circus Electrique (App name: f9d7a68aa77a4b30902af341533abe22 | Version: 0.1.3611.21444)
+ * Control (App name: Calluna | Version: 01.13)
+ * Costume Quest 2 (App name: 82a78a4dd6ef4eaa892707791b705073 | Version: 1)
+ * Dark and Darker (App name: 273854fd9c764c42a8e0f5c59aef343a | Version: 0.6.2.3999-2315)
+ * DARQ (App name: ee96375fac2f47de978170a24398e581 | Version: 1.3.2d)
+ * Dauntless (App name: Jackal | Version: 1.14.7.647472)
+ * Defense Grid: The Awakening (App name: a434dcb20f0d439b93aaa31dac9e3210 | Version: 1.263117)
+ * Delores: A Thimbleweed Park mini-adventure (App name: fe6c485736bc4ed48c835290ce48099b | Version: 1.0.89185-win)
+ * Destiny 2 (App name: 592c359fb0e0413fb46dee2d24448eb4 | Version: 9452248)
+ * Diabotical (App name: Honeycreeper | Version: 0.20.471s)
+ * Discord (App name: 6fbbc765b38c4f2ea3d9a9caa620bae7 | Version: 1.0.9054.win)
+ * Disney Speedstorm (App name: 97864084454f4f248465beb6e1f1cf59 | Version: 1.7.5b_8161bdae_1719890375)
+ * Doki Doki Literature Club Plus! (App name: c5109bdceb3a453bb38c2fdc964ddee8 | Version: Windows_1.0.7)
+ * Escape Academy (App name: 4237ffc575c94a0e89ef9ab7dd884ad5 | Version: v3.0.6.1)
+ * Fall Guys (App name: 0a2d9f6403244d12969e11da6713137b | Version: EGS_7528)
+ * Fallout 3: Game of the Year Edition (App name: adeae8bbfc94427db57c7dfecce3f1d4 | Version: 1.11)
+ * Farming Simulator 22 (App name: f452ea20ae1b43698209998b56c2cc1c | Version: 1.14.0.0_FarmP_1_1_win_b29250_r86546)
+ * Fortnite (App name: Fortnite | Version: ++Fortnite+Release-30.30-CL-34891016-Windows)
+  + Rocket Racing (App name: 5291abb43ba449859549cb41535e8c8f | Version: 1.0)
+ * Genshin Impact (App name: 41869934302e4b8cafac2d3c0e7c293d | Version: 91)
+ * Ghostbusters Remastered (App name: Mint | Version: retail10)
+ * Ghostrunner (App name: ea8df71f923649a193ab1c1fded7e1b3 | Version: 42507)
+ * Ghostwire Tokyo (App name: 007ff8f4e30845a687e66aa77eb3e965 | Version: CL642509-A)
+ * GigaBash (App name: 2dc25e07aa624edf9ff132c09ce23a7c | Version: 243)
+ * Hell is other demons (App name: 5ade01bafec54a148024665ce978b2a4 | Version: 0.0.17-win)
+ * Heroes & Generals WWII (App name: 8836f84a700140bb86103556cd7db0d4 | Version: live-173288)
+ * Honkai Impact 3rd (App name: 0dc22b543a40440fab5a98d1e40c02c1 | Version: 2.33.7.2)
+ * Honkai: Star Rail (App name: 86ae9acccf8443e18fca6950e0181288 | Version: 1.0.5)
+ * INDUSTRIA (App name: 78903903b1f1419bae248467f27ff470 | Version: 1.3.2)
+ * Infinifactory (App name: c7b3c16f56cb45abbfd915d59fd39689 | Version: 1.0.13)
+ * Insurmountable (App name: 8b556e7471ac46eda46445d93fa2e73f | Version: 2.0.7.3)
+ * Invincible Presents: Atom Eve (App name: ef50503adc284a8ba65d4dea1ecce91a | Version: 1.0.25523)
+ * Just Die Already (App name: 06621054d7d24f44bf13e3c31c9ec05d | Version: 1.4.2)
+ * Kingdom New Lands (App name: cacao | Version: 1.2.8-r2121-Windows)
+ * Layers of Fear 2 (App name: 473e24df09f843a1acc4aa16b01dae83 | Version: 1.0.0.0)
+ * LISA: The Joyful - Definitive Edition (App name: a42a95a46dc942318350cd4d0ee3163b | Version: 1.5_4)
+ * LISA: The Painful - Definitive Edition (App name: ee6a6b5ad66e4d94abe462ba331ddc4b | Version: 1.5_2)
+ * Lost Castle (App name: 7d5ec41fb5ae49c5beca9360034fd57e | Version: 2.08.1)
+ * LOVE (App name: f99d3d6da3454662913621222037417d | Version: 0005live)
+ * Magic The Gathering Arena (App name: stargazer | Version: 6218.1078427)
+ * Marvel's Guardians of the Galaxy (App name: 63a665088eb1480298f1e57943b225d8 | Version: 2984448)
+  + Marvel's Guardians of the Galaxy: Social-Lord Outfit (App name: 9596620d263b40c083ddf1f0c662c8ff | Version: 2978210)
+ * Marvel's Midnight Suns (App name: 49550aa9fcd74552ae07c4e9f2c262fe | Version: 1.0.0.930465)
+ * Melvor Idle (App name: 7458160f5c18450cad7e95844a5dcdff | Version: 1.0.0-14-x64-sdk)
+ * Metro 2033 Redux (App name: Petunia | Version: 0.1.0.0)
+ * Oddworld: New 'n' Tasty (App name: 7c566548d24343e48151125ced4b494c | Version: Epic 1.0)
+ * Overcooked! 2 (App name: Potoo | Version: 246.807171)
+ * Paladins (App name: Antbird | Version: 1219)
+ * Paradigm (App name: 7a2c2b2504844b2c9c96bc08a12da647 | Version: 1.025)
+ * Path of Exile (App name: 9a05967bb86f48278f8626be42548985 | Version: 3.25.0.8)
+ * Pikuniku (App name: 48619f5656da446abccb727b78cda644 | Version: Win64_1)
+ * Predecessor (App name: 97b084f37e344733ac82f493ac90753c | Version: Release-0.19.1-186378-Shipping-plive-137582)
+ * Rise of the Tomb Raider: 20 Year Celebration (App name: f7cc1c999ac146f39b356f53e3489514 | Version: TR2_30112021_1027.0_1224023_303770_132827583431143041_)
+ * Rising Storm 2: Vietnam (App name: Tern | Version: 20210514-403690-36)
+ * Rocket League® (App name: Sugar | Version: BC2_Update51+454952)
+ * Rogue Company (App name: Pewee | Version: 1787)
+ * Sail Forth (App name: 11ba63f98ce94a38b631104a12c7adab | Version: Win_2024-02-07_13-13-35)
+ * Saints Row (App name: Cormorant | Version: Manor_Wrapper_Update_RC1_CL4735700-230829_0259UTC)
+ * Shadow of the Tomb Raider: Definitive Edition (App name: 890d9cf396d04922a1559333df419fed | Version: TR11_10072023_492.0_1227914_740629_133334955480774690_)
+ * Sludge Life (App name: Morganite | Version: V201003)
+ * SMITE (App name: Greenbul | Version: 2132)
+ * Spellbreak (App name: Newt | Version: release.15196-7866)
+ * Sunless Skies: Sovereign Edition (App name: b979fad811c64939af282f5892049b50 | Version: 2.0.5.6e8c8ff-a-Windows)
+ * Super Meat Boy Forever (App name: Moose | Version: 6755.1848.1962.152)
+ * SYNCED (App name: 3efc912d8fe04bbcb2b57c431c7f93f9 | Version: 1.1.36E)
+ * Terraforming Mars (App name: 582c8940f499450d9033840efe5937a6 | Version: Windows_2.5.3.130154_master)
+ * The Big Con (App name: 573b2b742fa04eda83ea73cb17d7abc0 | Version: TBC_DRM_1.6.18)
+ * The Long Dark (App name: ed93b18355a84230938c705121c63661 | Version: Windows_137484)
+  + The Long Dark: Wintermute (App name: 87441b64c6d746b7a7c90017c227dd0c | Version: Windows_WM_135958)
+ * The Spectrum Retreat (App name: 7b8fb449c8d3404ba7eda9cd4da1401b | Version: 1.0rc)
+ * Thief (App name: 4123bcce398b4b1d8b9ef878f81055d1 | Version: TH4_EPIC_1.7.0.5)
+ * Tomb Raider GAME OF THE YEAR EDITION (App name: d6264d56f5ba434e91d4b0a0b056c83a | Version: TRAS_15112021_838.0_1224060,275025(132814434654404397))
+ * Trackmania Starter Access (App name: Pigeon | Version: 1.3)
+  - This game can be activated directly on your Ubisoft account and does not require legendary to install/run. Use "legendary activate --uplay" and follow the instructions.
+ * VALORANT (App name: 602eb4abc8764c87b7f2607a1ef8c18e | Version: 1168-327)
+ * Warframe (App name: 398965b67f314d31b0683b8ea11c93a4 | Version: 2024.03.28.14.05-21293)
+ * XCOM 2 (App name: 3be3c4d681bc46b3b8b26c5df3ae0a18 | Version: 1.0.1_CL-870730)
+
+Total: 88
+[7/28/2024, 5:35:49 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary --version
+legendary version "0.20.34", codename "Direct Intervention"
+[7/28/2024, 5:48:28 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 007ff8f4e30845a687e66aa77eb3e965 --json --platform Windows
+[7/28/2024, 5:48:28 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 007ff8f4e30845a687e66aa77eb3e965 --json --platform Windows
+[Core] INFO: Trying to re-use existing login session...
+{"game": {"app_name": "007ff8f4e30845a687e66aa77eb3e965", "title": "Ghostwire Tokyo", "version": "CL642509-A", "platform_versions": {"Windows": "CL642509-A"}, "cloud_saves_supported": true, "cloud_save_folder": "{UserSavedGames}/TangoGameworks/GhostWire Tokyo (EGS)/Saved/", "cloud_save_folder_mac": null, "is_dlc": false, "external_activation": null, "launch_options": [], "command_line": null, "owned_dlc": []}, "install": null, "manifest": {"size": 1569144, "type": "binary", "version": 17, "feature_level": 17, "app_name": "6f2cea7dc67a47269a6ddb3edf7796d4", "launch_exe": "GWT.exe", "launch_command": "", "build_version": "CL642509-A", "build_id": "WWLmPAPpvPu991RqoCs524G2x-I", "prerequisites": null, "uninstaller": null, "install_tags": [""], "num_files": 89, "num_chunks": 23667, "disk_size": 24959552533, "download_size": 24188063953, "tag_disk_size": [], "tag_download_size": []}}
+[7/28/2024, 5:50:07 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 8836f84a700140bb86103556cd7db0d4 --json --platform Windows
+[7/28/2024, 5:50:07 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 8836f84a700140bb86103556cd7db0d4 --json --platform Windows
+[Core] INFO: Trying to re-use existing login session...
+[7/28/2024, 5:50:11 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 0dc22b543a40440fab5a98d1e40c02c1 --json --platform Windows
+[7/28/2024, 5:50:11 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 0dc22b543a40440fab5a98d1e40c02c1 --json --platform Windows
+[Core] INFO: Trying to re-use existing login session...
+{"game": {"app_name": "8836f84a700140bb86103556cd7db0d4", "title": "Heroes & Generals WWII", "version": "live-173288", "platform_versions": {"Windows": "live-173288"}, "cloud_saves_supported": false, "cloud_save_folder": null, "cloud_save_folder_mac": null, "is_dlc": false, "external_activation": null, "launch_options": [], "command_line": null, "owned_dlc": []}, "install": null, "manifest": {"size": 1298802, "type": "binary", "version": 17, "feature_level": 17, "app_name": "8836f84a700140bb86103556cd7db0d4", "launch_exe": "hngepiclauncher.exe", "launch_command": "", "build_version": "live-173288", "build_id": "bO3U9QSIiMocDHkImZO4d4UBwVI", "prerequisites": null, "uninstaller": null, "install_tags": [""], "num_files": 19116, "num_chunks": 8408, "disk_size": 8882244742, "download_size": 8329254272, "tag_disk_size": [], "tag_download_size": []}}
+{"game": {"app_name": "0dc22b543a40440fab5a98d1e40c02c1", "title": "Honkai Impact 3rd", "version": "2.33.7.2", "platform_versions": {"Windows": "2.33.7.2"}, "cloud_saves_supported": false, "cloud_save_folder": null, "cloud_save_folder_mac": null, "is_dlc": false, "external_activation": null, "launch_options": [], "command_line": null, "owned_dlc": []}, "install": null, "manifest": {"size": 27554, "type": "binary", "version": 17, "feature_level": 17, "app_name": "0dc22b543a40440fab5a98d1e40c02c1", "launch_exe": "launcher_epic.exe", "launch_command": "''", "build_version": "2.33.7.2", "build_id": "gM62T37U9THMzoxmLFMwWgsZvgI", "prerequisites": null, "uninstaller": null, "install_tags": [""], "num_files": 205, "num_chunks": 298, "disk_size": 311938598, "download_size": 146830387, "tag_disk_size": [], "tag_download_size": []}}
+[7/28/2024, 5:50:20 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info ed93b18355a84230938c705121c63661 --json --platform Windows
+[7/28/2024, 5:50:20 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info ed93b18355a84230938c705121c63661 --json --platform Windows
+[Core] INFO: Trying to re-use existing login session...
+{"game": {"app_name": "ed93b18355a84230938c705121c63661", "title": "The Long Dark", "version": "Windows_137484", "platform_versions": {"Windows": "Windows_137484"}, "cloud_saves_supported": true, "cloud_save_folder": "{AppData}/Hinterland/TheLongDark/", "cloud_save_folder_mac": null, "is_dlc": false, "external_activation": null, "launch_options": [], "command_line": null, "owned_dlc": [{"app_name": "87441b64c6d746b7a7c90017c227dd0c", "title": "The Long Dark: Wintermute", "installable": [{"id": "e8a29dfbbb074077a4b48c4c8e7870b0", "appId": "87441b64c6d746b7a7c90017c227dd0c", "platform": ["Windows"]}], "id": "f9c1bcff4df545c3a85245d2f09e1cb0"}]}, "install": null, "manifest": {"size": 421665, "type": "binary", "version": 17, "feature_level": 17, "app_name": "afd30fa1716546c8987be0b8541e021c", "launch_exe": "tld.exe", "launch_command": "", "build_version": "Windows_137484", "build_id": "C03MH3nFhaB_OVkCRfwai9VjJoc", "prerequisites": null, "uninstaller": null, "install_tags": [""], "num_files": 2463, "num_chunks": 4876, "disk_size": 5111286076, "download_size": 4364460890, "tag_disk_size": [], "tag_download_size": []}}
+[7/28/2024, 5:52:24 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Tern --json --platform Windows
+[7/28/2024, 5:52:24 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Tern --json --platform Windows
+[Core] INFO: Trying to re-use existing login session...
+[7/28/2024, 5:52:29 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Pewee --json --platform Windows
+[7/28/2024, 5:52:29 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Pewee --json --platform Windows
+[Core] INFO: Trying to re-use existing login session...
+[7/28/2024, 5:52:31 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Pewee --json --platform Windows
+[7/28/2024, 5:52:31 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info Pewee --json --platform Windows
+{"game": {"app_name": "Tern", "title": "Rising Storm 2: Vietnam", "version": "20210514-403690-36", "platform_versions": {"Windows": "20210514-403690-36"}, "cloud_saves_supported": false, "cloud_save_folder": null, "cloud_save_folder_mac": null, "is_dlc": false, "external_activation": null, "launch_options": [], "command_line": null, "owned_dlc": []}, "install": null, "manifest": {"size": 4109861, "type": "binary", "version": 17, "feature_level": 17, "app_name": "TernStaging", "launch_exe": "Binaries/Win64/RS2.exe", "launch_command": "", "build_version": "20210514-403690-36", "build_id": "F6-qK4AIZe0jcb7Q9hRn7WxNfYk", "prerequisites": null, "uninstaller": null, "install_tags": [""], "num_files": 6783, "num_chunks": 58914, "disk_size": 62200789066, "download_size": 22029651657, "tag_disk_size": [], "tag_download_size": []}}
+{"game": {"app_name": "Pewee", "title": "Rogue Company", "version": "1787", "platform_versions": {"Windows": "1787"}, "cloud_saves_supported": false, "cloud_save_folder": null, "cloud_save_folder_mac": null, "is_dlc": false, "external_activation": null, "launch_options": [], "command_line": null, "owned_dlc": []}, "install": null, "manifest": {"size": 1759048, "type": "binary", "version": 17, "feature_level": 17, "app_name": "Pewee", "launch_exe": "RogueCompany.exe", "launch_command": "-oss=Epic -hirezenv=RETAIL -homedir=RogueCompany", "build_version": "1787", "build_id": "gG3t5rR-UvdL3yElWI2Xix1V3Bk", "prerequisites": null, "uninstaller": null, "install_tags": [""], "num_files": 230, "num_chunks": 26309, "disk_size": 27686817059, "download_size": 26731770146, "tag_disk_size": [], "tag_download_size": []}}
+[7/28/2024, 5:52:52 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 4123bcce398b4b1d8b9ef878f81055d1 --json --platform Windows
+[7/28/2024, 5:52:52 AM] LEGENDARY_CONFIG_PATH=/home/paul/.config/heroic/legendaryConfig/legendary /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/legendary info 4123bcce398b4b1d8b9ef878f81055d1 --json --platform Windows
+[Core] INFO: Trying to re-use existing login session...
+{"game": {"app_name": "4123bcce398b4b1d8b9ef878f81055d1", "title": "Thief", "version": "TH4_EPIC_1.7.0.5", "platform_versions": {"Windows": "TH4_EPIC_1.7.0.5"}, "cloud_saves_supported": true, "cloud_save_folder": "{InstallDir}/ThiefGame/SaveData/", "cloud_save_folder_mac": null, "is_dlc": false, "external_activation": null, "launch_options": [], "command_line": null, "owned_dlc": []}, "install": null, "manifest": {"size": 2523935, "type": "binary", "version": 21, "feature_level": 21, "app_name": "4123bcce398b4b1d8b9ef878f81055d1", "launch_exe": "Binaries/Win64/Shipping-ThiefGame.exe", "launch_command": "", "build_version": "TH4_EPIC_1.7.0.5", "build_id": "TQV1sQMhIUCtRhMThYU6LQ", "prerequisites": null, "uninstaller": null, "install_tags": [""], "num_files": 5933, "num_chunks": 31202, "disk_size": 32717215662, "download_size": 27701308895, "tag_disk_size": [], "tag_download_size": []}}

@@ -1,0 +1,313 @@
+{
+	"007ff8f4e30845a687e66aa77eb3e965": {
+		"game": {
+			"app_name": "007ff8f4e30845a687e66aa77eb3e965",
+			"title": "Ghostwire Tokyo",
+			"version": "CL642509-A",
+			"platform_versions": {
+				"Windows": "CL642509-A"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{UserSavedGames}/TangoGameworks/GhostWire Tokyo (EGS)/Saved/",
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 1569144,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "6f2cea7dc67a47269a6ddb3edf7796d4",
+			"launch_exe": "GWT.exe",
+			"launch_command": "",
+			"build_version": "CL642509-A",
+			"build_id": "WWLmPAPpvPu991RqoCs524G2x-I",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 89,
+			"num_chunks": 23667,
+			"disk_size": 24959552533,
+			"download_size": 24188063953,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"__timestamp": {
+		"007ff8f4e30845a687e66aa77eb3e965": "Sun Jul 28 2024 05:48:39 GMT+0530 (India Standard Time)",
+		"8836f84a700140bb86103556cd7db0d4": "Sun Jul 28 2024 05:50:18 GMT+0530 (India Standard Time)",
+		"0dc22b543a40440fab5a98d1e40c02c1": "Sun Jul 28 2024 05:50:20 GMT+0530 (India Standard Time)",
+		"ed93b18355a84230938c705121c63661": "Sun Jul 28 2024 05:50:29 GMT+0530 (India Standard Time)",
+		"Tern": "Sun Jul 28 2024 05:52:39 GMT+0530 (India Standard Time)",
+		"Pewee": "Sun Jul 28 2024 05:52:40 GMT+0530 (India Standard Time)",
+		"4123bcce398b4b1d8b9ef878f81055d1": "Sun Jul 28 2024 05:53:02 GMT+0530 (India Standard Time)"
+	},
+	"8836f84a700140bb86103556cd7db0d4": {
+		"game": {
+			"app_name": "8836f84a700140bb86103556cd7db0d4",
+			"title": "Heroes & Generals WWII",
+			"version": "live-173288",
+			"platform_versions": {
+				"Windows": "live-173288"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 1298802,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "8836f84a700140bb86103556cd7db0d4",
+			"launch_exe": "hngepiclauncher.exe",
+			"launch_command": "",
+			"build_version": "live-173288",
+			"build_id": "bO3U9QSIiMocDHkImZO4d4UBwVI",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 19116,
+			"num_chunks": 8408,
+			"disk_size": 8882244742,
+			"download_size": 8329254272,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"0dc22b543a40440fab5a98d1e40c02c1": {
+		"game": {
+			"app_name": "0dc22b543a40440fab5a98d1e40c02c1",
+			"title": "Honkai Impact 3rd",
+			"version": "2.33.7.2",
+			"platform_versions": {
+				"Windows": "2.33.7.2"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 27554,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "0dc22b543a40440fab5a98d1e40c02c1",
+			"launch_exe": "launcher_epic.exe",
+			"launch_command": "''",
+			"build_version": "2.33.7.2",
+			"build_id": "gM62T37U9THMzoxmLFMwWgsZvgI",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 205,
+			"num_chunks": 298,
+			"disk_size": 311938598,
+			"download_size": 146830387,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"ed93b18355a84230938c705121c63661": {
+		"game": {
+			"app_name": "ed93b18355a84230938c705121c63661",
+			"title": "The Long Dark",
+			"version": "Windows_137484",
+			"platform_versions": {
+				"Windows": "Windows_137484"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{AppData}/Hinterland/TheLongDark/",
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": [
+				{
+					"app_name": "87441b64c6d746b7a7c90017c227dd0c",
+					"title": "The Long Dark: Wintermute",
+					"installable": [
+						{
+							"id": "e8a29dfbbb074077a4b48c4c8e7870b0",
+							"appId": "87441b64c6d746b7a7c90017c227dd0c",
+							"platform": [
+								"Windows"
+							]
+						}
+					],
+					"id": "f9c1bcff4df545c3a85245d2f09e1cb0"
+				}
+			]
+		},
+		"install": null,
+		"manifest": {
+			"size": 421665,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "afd30fa1716546c8987be0b8541e021c",
+			"launch_exe": "tld.exe",
+			"launch_command": "",
+			"build_version": "Windows_137484",
+			"build_id": "C03MH3nFhaB_OVkCRfwai9VjJoc",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 2463,
+			"num_chunks": 4876,
+			"disk_size": 5111286076,
+			"download_size": 4364460890,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"Tern": {
+		"game": {
+			"app_name": "Tern",
+			"title": "Rising Storm 2: Vietnam",
+			"version": "20210514-403690-36",
+			"platform_versions": {
+				"Windows": "20210514-403690-36"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 4109861,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "TernStaging",
+			"launch_exe": "Binaries/Win64/RS2.exe",
+			"launch_command": "",
+			"build_version": "20210514-403690-36",
+			"build_id": "F6-qK4AIZe0jcb7Q9hRn7WxNfYk",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 6783,
+			"num_chunks": 58914,
+			"disk_size": 62200789066,
+			"download_size": 22029651657,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"Pewee": {
+		"game": {
+			"app_name": "Pewee",
+			"title": "Rogue Company",
+			"version": "1787",
+			"platform_versions": {
+				"Windows": "1787"
+			},
+			"cloud_saves_supported": false,
+			"cloud_save_folder": null,
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 1759048,
+			"type": "binary",
+			"version": 17,
+			"feature_level": 17,
+			"app_name": "Pewee",
+			"launch_exe": "RogueCompany.exe",
+			"launch_command": "-oss=Epic -hirezenv=RETAIL -homedir=RogueCompany",
+			"build_version": "1787",
+			"build_id": "gG3t5rR-UvdL3yElWI2Xix1V3Bk",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 230,
+			"num_chunks": 26309,
+			"disk_size": 27686817059,
+			"download_size": 26731770146,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	},
+	"4123bcce398b4b1d8b9ef878f81055d1": {
+		"game": {
+			"app_name": "4123bcce398b4b1d8b9ef878f81055d1",
+			"title": "Thief",
+			"version": "TH4_EPIC_1.7.0.5",
+			"platform_versions": {
+				"Windows": "TH4_EPIC_1.7.0.5"
+			},
+			"cloud_saves_supported": true,
+			"cloud_save_folder": "{InstallDir}/ThiefGame/SaveData/",
+			"cloud_save_folder_mac": null,
+			"is_dlc": false,
+			"external_activation": null,
+			"launch_options": [],
+			"command_line": null,
+			"owned_dlc": []
+		},
+		"install": null,
+		"manifest": {
+			"size": 2523935,
+			"type": "binary",
+			"version": 21,
+			"feature_level": 21,
+			"app_name": "4123bcce398b4b1d8b9ef878f81055d1",
+			"launch_exe": "Binaries/Win64/Shipping-ThiefGame.exe",
+			"launch_command": "",
+			"build_version": "TH4_EPIC_1.7.0.5",
+			"build_id": "TQV1sQMhIUCtRhMThYU6LQ",
+			"prerequisites": null,
+			"uninstaller": null,
+			"install_tags": [
+				""
+			],
+			"num_files": 5933,
+			"num_chunks": 31202,
+			"disk_size": 32717215662,
+			"download_size": 27701308895,
+			"tag_disk_size": [],
+			"tag_download_size": []
+		}
+	}
+}

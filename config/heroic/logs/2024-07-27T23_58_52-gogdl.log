@@ -1,0 +1,6 @@
+[7/28/2024, 5:28:53 AM] GOGDL_CONFIG_PATH=/home/paul/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/paul/.config/heroic/gog_store/auth.json auth
+null
+[7/28/2024, 5:28:55 AM] GOGDL_CONFIG_PATH=/home/paul/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/paul/.config/heroic/gog_store/auth.json --version
+1.0.1
+[7/28/2024, 5:35:49 AM] GOGDL_CONFIG_PATH=/home/paul/.config/heroic/gogdlConfig /opt/Heroic/resources/app.asar.unpacked/build/bin/linux/gogdl --auth-config-path /home/paul/.config/heroic/gog_store/auth.json --version
+1.0.1

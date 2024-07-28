@@ -1,0 +1,162 @@
+{
+   "3pGroupAds": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "რეკლამები"
+   },
+   "3pGroupAnnoyances": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "შემაწუხებელი შიგთავსი"
+   },
+   "3pGroupDefault": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "ნაგულისხმევი"
+   },
+   "3pGroupMalware": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "მავნე დომენები"
+   },
+   "3pGroupMisc": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "სხვადასხვა"
+   },
+   "3pGroupPrivacy": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "პირადულობა"
+   },
+   "3pGroupRegions": {
+      "description": "Header for a ruleset section in 'Filter lists pane'",
+      "message": "მხარეები, ენები"
+   },
+   "aboutChangelog": {
+      "description": "",
+      "message": "ცვლილებები"
+   },
+   "aboutCode": {
+      "description": "English: Source code (GPLv3)",
+      "message": "წყაროს კოდი (GPLv3)"
+   },
+   "aboutContributors": {
+      "description": "English: Contributors",
+      "message": "მოხალისეები"
+   },
+   "aboutDependencies": {
+      "description": "Shown in the About pane",
+      "message": "ცალკეული დაქვემდებარებული პროექტები (GPLv3-თან თავსებადი):"
+   },
+   "aboutFilterLists": {
+      "description": "Link text to uBO's own filter lists repo",
+      "message": "ფილტრების სიები"
+   },
+   "aboutPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "შესახებ"
+   },
+   "aboutPrivacyPolicy": {
+      "description": "Link to privacy policy on GitHub (English)",
+      "message": "პირადულობის დებულება"
+   },
+   "aboutSourceCode": {
+      "description": "Link text to source code repo",
+      "message": "პირველწყარო კოდი"
+   },
+   "aboutTranslations": {
+      "description": "Link text to translations repo",
+      "message": "თარგმანები"
+   },
+   "autoReloadLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "გვერდის ავტომატური განახლება ფილტრაციის რეჟიმის შეცვლისას"
+   },
+   "basicFilteringModeDescription": {
+      "description": "This describes the 'basic' filtering mode",
+      "message": "ქსელის ძირითადი ფილტრაცია შერჩეული სიებით.\n\nარ საჭიროებს საიტებზე მონაცემთა წაკითხვისა და ცვლილების ნებართვებს."
+   },
+   "behaviorSectionLabel": {
+      "description": "The header text for the 'Behavior' section",
+      "message": "მოქმედება"
+   },
+   "completeFilteringModeDescription": {
+      "description": "This describes the 'complete' filtering mode",
+      "message": "ქსელის გაუმჯობესებულ ფილტრაციასთან ერთად საერთო გაფართოებული ფილტრები შერჩეული სიებიდან.\n\nსაჭიროებს ყველა საიტზე მონაცემთა სრულად წაკითხვისა და შეცვლის ნებართვას.\n\nგაფართოებული ფილტრაცია ზოგჯერ ზედმეტად ზრდის დატვირთვას ვებგვერდის მონახულებისას."
+   },
+   "dashboardName": {
+      "description": "English: uBO Lite — Dashboard",
+      "message": "uBO Lite — მაჩვენებლები"
+   },
+   "defaultFilteringModeDescription": {
+      "description": "This describes the default filtering mode setting",
+      "message": "ფილტრაციის ნაგულისხმევი რეჟიმი ჩაანაცვლებს ცალკეულ საიტზე მითითებულს. ფილტრაციის რეჟიმის მორგება შეგიძლიათ ნებისმიერ სასურველ საიტზე იმისდა მიხედვით, რა უფრო გამოსადეგი იქნება თქვენთვის იმ საიტზე. თითოეულ რეჟიმს თავისი დადებითი და უარყოფითი მხარეები აქვს."
+   },
+   "defaultFilteringModeSectionLabel": {
+      "description": "The header text for the default filtering mode section",
+      "message": "გაფილტვრის ნაგულისხმევი რეჟიმი"
+   },
+   "extName": {
+      "description": "extension name.",
+      "message": "uBlock Origin Lite"
+   },
+   "extShortDesc": {
+      "description": "this will be in the Chrome web store: must be 132 characters or less",
+      "message": "საცდელი, ნებართვებისგან თავისუფალი მსუბუქი შემზღუდავი -- თავისთავად აცილებს რეკლამებს, მეთვალყურეებს, კრიპტოგამომმუშავებლებს და ა.შ."
+   },
+   "filteringMode0Name": {
+      "description": "Name of blocking mode 0",
+      "message": "ფილტრის გარეშე"
+   },
+   "filteringMode1Name": {
+      "description": "Name of blocking mode 1",
+      "message": "ძირითადი"
+   },
+   "filteringMode2Name": {
+      "description": "Name of blocking mode 2",
+      "message": "წონასწორული"
+   },
+   "filteringMode3Name": {
+      "description": "Name of blocking mode 3",
+      "message": "სრული"
+   },
+   "firstRunDescription": {
+      "description": "Descriptive text shown at first install time only ",
+      "message": "თქვენ ახლახან დააყენეთ uBO Lite. აქვე შეგიძლიათ აირჩიოთ ფილტრაციის ნაგულისხმევი რეჟიმი ყველა საიტზე გამოსაყენებლად.\n\nნაგულისხმევად \u003Cem>ძირითადი\u003C/em> რეჟიმია შერჩეული, ვინაიდან არ საჭიროებს მონაცემთა წაკითხვისა და ცვლილების ნებართვებს. თუ თქვენთვის სანდოა uBO Lite, შეგიძლიათ დართოთ მონაცემთა წაკითხვისა და შეცვლის ნება ყველა საიტზე გაუმჯობესებული ფილტრაციის ნაგულისხმევად გამოყენებისთვის."
+   },
+   "firstRunSectionLabel": {
+      "description": "The header text for the welcome message section",
+      "message": "მოგესალმებით"
+   },
+   "noFilteringModeDescription": {
+      "description": "A short description for the editable field which lists trusted sites",
+      "message": "სია მისამართებისა, რომლებზეც ფილტრები არ იმოქმედებს"
+   },
+   "optimalFilteringModeDescription": {
+      "description": "This describes the 'optimal' filtering mode",
+      "message": "ქსელის გაუმჯობესებულ ფილტრაციასთან ერთად გაფართოებული ფილტრები შერჩეული სიებიდან.\n\nსაჭიროებს ყველა საიტზე მონაცემთა სრულად წაკითხვისა და შეცვლის ნებართვას."
+   },
+   "perRulesetStats": {
+      "description": "Appears aside each filter list in the _3rd-party filters_ pane",
+      "message": "{{ruleCount}} წესი, შედგენილი {{filterCount}} ქსელის ფილტრიდან"
+   },
+   "popupFilteringModeLabel": {
+      "description": "Label in the popup panel for the current filtering mode",
+      "message": "გაფილტვრის რეჟიმი"
+   },
+   "popupLessButton": {
+      "description": "Label to be used to hide popup panel sections",
+      "message": "მოკლედ"
+   },
+   "popupMoreButton": {
+      "description": "Label to be used to show popup panel sections",
+      "message": "ვრცლად"
+   },
+   "popupTipDashboard": {
+      "description": "English: Click to open the dashboard",
+      "message": "სამართავის გახსნა"
+   },
+   "settingsPageName": {
+      "description": "appears as tab name in dashboard",
+      "message": "პარამეტრები"
+   },
+   "showBlockedCountLabel": {
+      "description": "Label for a checkbox in the options page",
+      "message": "Show the number of blocked requests on the toolbar icon"
+   }
+}
